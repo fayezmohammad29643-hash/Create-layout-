@@ -1,0 +1,176 @@
+{
+  "schema_version": 2,
+  "surahId": 109,
+  "surahName": "الكَافِرُونَ",
+  "startPage": 603,
+  "endPage": 603,
+  "totalPagesInSurah": 1,
+  "recordedPagesCount": 1,
+  "totalCompletedLines": 3,
+  "ayaCount": 6,
+  "font_family": "KFGQPC QALOON Uthmanic Script",
+  "layout_source": "docx",
+  "pages": [
+    {
+      "page": 603,
+      "lines": [
+        {
+          "line": 1,
+          "text": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١ لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢ ",
+          "start": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 1,
+            "word": "قُلۡ",
+            "wordIndex": 1
+          },
+          "end": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 2,
+            "number": 2
+          },
+          "first_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 1,
+            "word": "قُلۡ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 2,
+            "number": 2
+          },
+          "verses_on_line": [
+            "109:1",
+            "109:2"
+          ],
+          "alignment": "both",
+          "bidi": true,
+          "spacing": {
+            "after": 0,
+            "line": 288,
+            "lineRule": "auto"
+          },
+          "runs": [
+            {
+              "text": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١ لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢ ",
+              "font_family": "KFGQPC QALOON Uthmanic Script",
+              "font_size_half_points": 32,
+              "rtl": true,
+              "bold": false,
+              "italic": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "text": "وَلَآ أَنتُمُۥ عَٰبِدُونَ مَآ أَعۡبُدُ ٣ وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمُۥ ٤ ",
+          "start": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 3,
+            "word": "وَلَآ",
+            "wordIndex": 1
+          },
+          "end": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 4,
+            "number": 4
+          },
+          "first_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 3,
+            "word": "وَلَآ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 4,
+            "number": 4
+          },
+          "verses_on_line": [
+            "109:3",
+            "109:4"
+          ],
+          "alignment": "both",
+          "bidi": true,
+          "spacing": {
+            "after": 0,
+            "line": 288,
+            "lineRule": "auto"
+          },
+          "runs": [
+            {
+              "text": "وَلَآ أَنتُمُۥ عَٰبِدُونَ مَآ أَعۡبُدُ ٣ وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمُۥ ٤ ",
+              "font_family": "KFGQPC QALOON Uthmanic Script",
+              "font_size_half_points": 32,
+              "rtl": true,
+              "bold": false,
+              "italic": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "text": "وَلَآ أَنتُمُۥ عَٰبِدُونَ مَآ أَعۡبُدُ ٥ لَكُمُۥ دِينُكُمُۥ وَلِيَ دِينِ ٦",
+          "start": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 5,
+            "word": "وَلَآ",
+            "wordIndex": 1
+          },
+          "end": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 6,
+            "number": 6
+          },
+          "first_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 5,
+            "word": "وَلَآ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 6,
+            "number": 6
+          },
+          "verses_on_line": [
+            "109:5",
+            "109:6"
+          ],
+          "alignment": "both",
+          "bidi": true,
+          "spacing": {
+            "after": 0,
+            "line": 288,
+            "lineRule": "auto"
+          },
+          "runs": [
+            {
+              "text": "وَلَآ أَنتُمُۥ عَٰبِدُونَ مَآ أَعۡبُدُ ٥ لَكُمُۥ دِينُكُمُۥ وَلِيَ دِينِ ٦",
+              "font_family": "KFGQPC QALOON Uthmanic Script",
+              "font_size_half_points": 32,
+              "rtl": true,
+              "bold": false,
+              "italic": false,
+              "hidden": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

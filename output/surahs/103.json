@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "surahId": 103,
+  "surahName": "العَصۡرِ",
+  "startPage": 601,
+  "endPage": 601,
+  "totalPagesInSurah": 1,
+  "recordedPagesCount": 1,
+  "totalCompletedLines": 2,
+  "ayaCount": 3,
+  "font_family": "KFGQPC QALOON Uthmanic Script",
+  "layout_source": "docx",
+  "pages": [
+    {
+      "page": 601,
+      "lines": [
+        {
+          "line": 1,
+          "text": "وَٱلۡعَصۡرِ ١ إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ ٢ إِلَّا ٱلَّذِينَ ءَامَنُواْ ",
+          "start": {
+            "type": "word",
+            "surah": 103,
+            "ayah": 1,
+            "word": "وَٱلۡعَصۡرِ",
+            "wordIndex": 1
+          },
+          "end": {
+            "type": "word",
+            "surah": 103,
+            "ayah": 3,
+            "word": "ءَامَنُواْ",
+            "wordIndex": 3
+          },
+          "first_word": {
+            "type": "word",
+            "surah": 103,
+            "ayah": 1,
+            "word": "وَٱلۡعَصۡرِ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 103,
+            "ayah": 3,
+            "word": "ءَامَنُواْ",
+            "wordIndex": 3
+          },
+          "verses_on_line": [
+            "103:1",
+            "103:2",
+            "103:3"
+          ],
+          "alignment": "both",
+          "bidi": true,
+          "spacing": {
+            "after": 0,
+            "line": 288,
+            "lineRule": "auto"
+          },
+          "runs": [
+            {
+              "text": "وَٱلۡعَصۡرِ ١ إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ ٢ إِلَّا ٱلَّذِينَ ءَامَنُواْ ",
+              "font_family": "KFGQPC QALOON Uthmanic Script",
+              "font_size_half_points": 32,
+              "rtl": true,
+              "bold": false,
+              "italic": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "text": "وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ ٣",
+          "start": {
+            "type": "word",
+            "surah": 103,
+            "ayah": 3,
+            "word": "وَعَمِلُواْ",
+            "wordIndex": 4
+          },
+          "end": {
+            "type": "ayah_marker",
+            "surah": 103,
+            "ayah": 3,
+            "number": 3
+          },
+          "first_word": {
+            "type": "word",
+            "surah": 103,
+            "ayah": 3,
+            "word": "وَعَمِلُواْ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 103,
+            "ayah": 3,
+            "number": 3
+          },
+          "verses_on_line": [
+            "103:3"
+          ],
+          "alignment": "both",
+          "bidi": true,
+          "spacing": {
+            "after": 0,
+            "line": 288,
+            "lineRule": "auto"
+          },
+          "runs": [
+            {
+              "text": "وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ ٣",
+              "font_family": "KFGQPC QALOON Uthmanic Script",
+              "font_size_half_points": 32,
+              "rtl": true,
+              "bold": false,
+              "italic": false,
+              "hidden": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
