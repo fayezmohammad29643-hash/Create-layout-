@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "surahId": 111,
   "surahName": "المَسَدِ",
   "startPage": 603,
@@ -16,20 +16,6 @@
       "lines": [
         {
           "line": 7,
-          "text": "تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ ١ مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ ٢ ",
-          "start": {
-            "type": "word",
-            "surah": 111,
-            "ayah": 1,
-            "word": "تَبَّتۡ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 111,
-            "ayah": 2,
-            "number": 2
-          },
           "first_word": {
             "type": "word",
             "surah": 111,
@@ -42,46 +28,10 @@
             "surah": 111,
             "ayah": 2,
             "number": 2
-          },
-          "verses_on_line": [
-            "111:1",
-            "111:2"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ ١ مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ ٢ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 8,
-          "text": "سَيَصۡلَىٰ نَارٗا ذَاتَ لَهَبٖ ٣ وَٱمۡرَأَتُهُۥ حَمَّالَةُ ٱلۡحَطَبِ ٤ ",
-          "start": {
-            "type": "word",
-            "surah": 111,
-            "ayah": 3,
-            "word": "سَيَصۡلَىٰ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 111,
-            "ayah": 4,
-            "number": 4
-          },
           "first_word": {
             "type": "word",
             "surah": 111,
@@ -94,46 +44,10 @@
             "surah": 111,
             "ayah": 4,
             "number": 4
-          },
-          "verses_on_line": [
-            "111:3",
-            "111:4"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "سَيَصۡلَىٰ نَارٗا ذَاتَ لَهَبٖ ٣ وَٱمۡرَأَتُهُۥ حَمَّالَةُ ٱلۡحَطَبِ ٤ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 9,
-          "text": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ ٥",
-          "start": {
-            "type": "word",
-            "surah": 111,
-            "ayah": 5,
-            "word": "فِي",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 111,
-            "ayah": 5,
-            "number": 5
-          },
           "first_word": {
             "type": "word",
             "surah": 111,
@@ -146,28 +60,7 @@
             "surah": 111,
             "ayah": 5,
             "number": 5
-          },
-          "verses_on_line": [
-            "111:5"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ ٥",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         }
       ]
     }

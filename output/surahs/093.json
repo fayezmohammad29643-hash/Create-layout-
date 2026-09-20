@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "surahId": 93,
   "surahName": "الضُّحَىٰ",
   "startPage": 596,
@@ -16,20 +16,6 @@
       "lines": [
         {
           "line": 6,
-          "text": "وَٱلضُّحَىٰ ١ وَٱلَّيۡلِ إِذَا سَجَىٰ ٢ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣ ",
-          "start": {
-            "type": "word",
-            "surah": 93,
-            "ayah": 1,
-            "word": "وَٱلضُّحَىٰ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 93,
-            "ayah": 3,
-            "number": 3
-          },
           "first_word": {
             "type": "word",
             "surah": 93,
@@ -42,48 +28,10 @@
             "surah": 93,
             "ayah": 3,
             "number": 3
-          },
-          "verses_on_line": [
-            "93:1",
-            "93:2",
-            "93:3"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "وَٱلضُّحَىٰ ١ وَٱلَّيۡلِ إِذَا سَجَىٰ ٢ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 7,
-          "text": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ ٤ وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ ",
-          "start": {
-            "type": "word",
-            "surah": 93,
-            "ayah": 4,
-            "word": "وَلَلۡأٓخِرَةُ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "word",
-            "surah": 93,
-            "ayah": 5,
-            "word": "رَبُّكَ",
-            "wordIndex": 3
-          },
           "first_word": {
             "type": "word",
             "surah": 93,
@@ -97,46 +45,10 @@
             "ayah": 5,
             "word": "رَبُّكَ",
             "wordIndex": 3
-          },
-          "verses_on_line": [
-            "93:4",
-            "93:5"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ ٤ وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 8,
-          "text": "فَتَرۡضَىٰٓ ٥ أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ ٦ وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ ٧ ",
-          "start": {
-            "type": "word",
-            "surah": 93,
-            "ayah": 5,
-            "word": "فَتَرۡضَىٰٓ",
-            "wordIndex": 4
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 93,
-            "ayah": 7,
-            "number": 7
-          },
           "first_word": {
             "type": "word",
             "surah": 93,
@@ -149,47 +61,10 @@
             "surah": 93,
             "ayah": 7,
             "number": 7
-          },
-          "verses_on_line": [
-            "93:5",
-            "93:6",
-            "93:7"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "فَتَرۡضَىٰٓ ٥ أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ ٦ وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ ٧ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 9,
-          "text": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ ٨ فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ ٩ ",
-          "start": {
-            "type": "word",
-            "surah": 93,
-            "ayah": 8,
-            "word": "وَوَجَدَكَ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 93,
-            "ayah": 9,
-            "number": 9
-          },
           "first_word": {
             "type": "word",
             "surah": 93,
@@ -202,46 +77,10 @@
             "surah": 93,
             "ayah": 9,
             "number": 9
-          },
-          "verses_on_line": [
-            "93:8",
-            "93:9"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ ٨ فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ ٩ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 10,
-          "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ ١٠ وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ ١١",
-          "start": {
-            "type": "word",
-            "surah": 93,
-            "ayah": 10,
-            "word": "وَأَمَّا",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 93,
-            "ayah": 11,
-            "number": 11
-          },
           "first_word": {
             "type": "word",
             "surah": 93,
@@ -254,29 +93,7 @@
             "surah": 93,
             "ayah": 11,
             "number": 11
-          },
-          "verses_on_line": [
-            "93:10",
-            "93:11"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ ١٠ وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ ١١",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         }
       ]
     }

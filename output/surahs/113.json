@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "surahId": 113,
   "surahName": "الفَلَقِ",
   "startPage": 604,
@@ -16,21 +16,6 @@
       "lines": [
         {
           "line": 3,
-          "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ ١ مِن شَرِّ مَا خَلَقَ ٢ وَمِن شَرِّ ",
-          "start": {
-            "type": "word",
-            "surah": 113,
-            "ayah": 1,
-            "word": "قُلۡ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "word",
-            "surah": 113,
-            "ayah": 3,
-            "word": "شَرِّ",
-            "wordIndex": 2
-          },
           "first_word": {
             "type": "word",
             "surah": 113,
@@ -44,47 +29,10 @@
             "ayah": 3,
             "word": "شَرِّ",
             "wordIndex": 2
-          },
-          "verses_on_line": [
-            "113:1",
-            "113:2",
-            "113:3"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ ١ مِن شَرِّ مَا خَلَقَ ٢ وَمِن شَرِّ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 4,
-          "text": "غَاسِقٍ إِذَا وَقَبَ ٣ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ ٤ ",
-          "start": {
-            "type": "word",
-            "surah": 113,
-            "ayah": 3,
-            "word": "غَاسِقٍ",
-            "wordIndex": 3
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 113,
-            "ayah": 4,
-            "number": 4
-          },
           "first_word": {
             "type": "word",
             "surah": 113,
@@ -97,46 +45,10 @@
             "surah": 113,
             "ayah": 4,
             "number": 4
-          },
-          "verses_on_line": [
-            "113:3",
-            "113:4"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "غَاسِقٍ إِذَا وَقَبَ ٣ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ ٤ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 5,
-          "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ٥",
-          "start": {
-            "type": "word",
-            "surah": 113,
-            "ayah": 5,
-            "word": "وَمِن",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 113,
-            "ayah": 5,
-            "number": 5
-          },
           "first_word": {
             "type": "word",
             "surah": 113,
@@ -149,28 +61,7 @@
             "surah": 113,
             "ayah": 5,
             "number": 5
-          },
-          "verses_on_line": [
-            "113:5"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ٥",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         }
       ]
     }

@@ -31,21 +31,6 @@
   "lines": [
     {
       "line": 1,
-      "text": "وَٱلصَّٰٓفَّٰتِ صَفّٗا ١ فَٱلزَّٰجِرَٰتِ زَجۡرٗا ٢ فَٱلتَّٰلِيَٰتِ ذِكۡرًا ٣ إِنَّ إِلَٰهَكُمُۥ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 1,
-        "word": "وَٱلصَّٰٓفَّٰتِ",
-        "wordIndex": 1
-      },
-      "end": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 4,
-        "word": "إِلَٰهَكُمُۥ",
-        "wordIndex": 2
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -59,48 +44,10 @@
         "ayah": 4,
         "word": "إِلَٰهَكُمُۥ",
         "wordIndex": 2
-      },
-      "verses_on_line": [
-        "37:1",
-        "37:2",
-        "37:3",
-        "37:4"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "وَٱلصَّٰٓفَّٰتِ صَفّٗا ١ فَٱلزَّٰجِرَٰتِ زَجۡرٗا ٢ فَٱلتَّٰلِيَٰتِ ذِكۡرًا ٣ إِنَّ إِلَٰهَكُمُۥ ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 30,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 2,
-      "text": "لَوَٰحِدٞ ٤ رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا وَرَبُّ ٱلۡمَشَٰرِقِ ٥ إِنَّا زَيَّنَّا ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 4,
-        "word": "لَوَٰحِدٞ",
-        "wordIndex": 3
-      },
-      "end": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 6,
-        "word": "زَيَّنَّا",
-        "wordIndex": 2
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -114,55 +61,10 @@
         "ayah": 6,
         "word": "زَيَّنَّا",
         "wordIndex": 2
-      },
-      "verses_on_line": [
-        "37:4",
-        "37:5",
-        "37:6"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "لَوَٰحِدٞ ٤ رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا وَرَبُّ ٱلۡمَشَٰرِقِ ٥ إِنَّا زَيَّنَّا",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 30,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        },
-        {
-          "text": " ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 32,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 3,
-      "text": "ٱلسَّمَآءَ ٱلدُّنۡيَا بِزِينَةِ ٱلۡكَوَاكِبِ ٦ وَحِفۡظٗا مِّن كُلِّ شَيۡطَٰنٖ مَّارِدٖ ٧ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 6,
-        "word": "ٱلسَّمَآءَ",
-        "wordIndex": 3
-      },
-      "end": {
-        "type": "ayah_marker",
-        "surah": 37,
-        "ayah": 7,
-        "number": 7
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -175,46 +77,10 @@
         "surah": 37,
         "ayah": 7,
         "number": 7
-      },
-      "verses_on_line": [
-        "37:6",
-        "37:7"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "ٱلسَّمَآءَ ٱلدُّنۡيَا بِزِينَةِ ٱلۡكَوَاكِبِ ٦ وَحِفۡظٗا مِّن كُلِّ شَيۡطَٰنٖ مَّارِدٖ ٧ ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 32,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 4,
-      "text": "لَّا يَسۡمَعُونَ إِلَى ٱلۡمَلَإِ ٱلۡأَعۡلَىٰ وَيُقۡذَفُونَ مِن كُلِّ جَانِبٖ ٨ دُحُورٗاۖ وَلَهُمُۥ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 8,
-        "word": "لَّا",
-        "wordIndex": 1
-      },
-      "end": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 9,
-        "word": "وَلَهُمُۥ",
-        "wordIndex": 2
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -228,54 +94,10 @@
         "ayah": 9,
         "word": "وَلَهُمُۥ",
         "wordIndex": 2
-      },
-      "verses_on_line": [
-        "37:8",
-        "37:9"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "لَّا يَسۡمَعُونَ إِلَى ٱلۡمَلَإِ ٱلۡأَعۡلَىٰ وَيُقۡذَفُونَ مِن كُلِّ جَانِبٖ ٨ دُحُورٗاۖ وَلَهُمُۥ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 30,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        },
-        {
-          "text": " ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 31,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 5,
-      "text": "عَذَابٞ وَاصِبٌ ٩ إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابٞ ثَاقِبٞ ١٠ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 9,
-        "word": "عَذَابٞ",
-        "wordIndex": 3
-      },
-      "end": {
-        "type": "ayah_marker",
-        "surah": 37,
-        "ayah": 10,
-        "number": 10
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -288,45 +110,10 @@
         "surah": 37,
         "ayah": 10,
         "number": 10
-      },
-      "verses_on_line": [
-        "37:9",
-        "37:10"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "عَذَابٞ وَاصِبٌ ٩ إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابٞ ثَاقِبٞ ١٠ ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 32,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 6,
-      "text": "فَٱسۡتَفۡتِهِمُۥٓ أَهُمُۥٓ أَشَدُّ خَلۡقًا أَم مَّنۡ خَلَقۡنَآۚ إِنَّا خَلَقۡنَٰهُمُۥ مِن طِينٖ لَّازِبِۭ ١١ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 11,
-        "word": "فَٱسۡتَفۡتِهِمُۥٓ",
-        "wordIndex": 1
-      },
-      "end": {
-        "type": "ayah_marker",
-        "surah": 37,
-        "ayah": 11,
-        "number": 11
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -339,54 +126,10 @@
         "surah": 37,
         "ayah": 11,
         "number": 11
-      },
-      "verses_on_line": [
-        "37:11"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "فَٱسۡتَفۡتِهِمُۥٓ أَهُمُۥٓ أَشَدُّ خَلۡقًا أَم مَّنۡ خَلَقۡنَآۚ إِنَّا خَلَقۡنَٰهُمُۥ مِن طِينٖ لَّازِبِۭ ١١",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 29,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        },
-        {
-          "text": " ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 32,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 7,
-      "text": "بَلۡ عَجِبۡتَ وَيَسۡخَرُونَ ١٢ وَإِذَا ذُكِّرُواْ لَا يَذۡكُرُونَ ١٣ وَإِذَا رَأَوۡاْ ءَايَةٗ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 12,
-        "word": "بَلۡ",
-        "wordIndex": 1
-      },
-      "end": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 14,
-        "word": "ءَايَةٗ",
-        "wordIndex": 3
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -400,56 +143,10 @@
         "ayah": 14,
         "word": "ءَايَةٗ",
         "wordIndex": 3
-      },
-      "verses_on_line": [
-        "37:12",
-        "37:13",
-        "37:14"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "بَلۡ عَجِبۡتَ وَيَسۡخَرُونَ ١٢ وَإِذَا ذُكِّرُواْ لَا يَذۡكُرُونَ ١٣ وَإِذَا رَأَوۡاْ ءَايَةٗ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 31,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        },
-        {
-          "text": " ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 32,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 8,
-      "text": "يَسۡتَسۡخِرُونَ ١٤ وَقَالُوٓاْ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٌ ١٥ أَٰ۟ذَا مِتۡنَا ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 14,
-        "word": "يَسۡتَسۡخِرُونَ",
-        "wordIndex": 4
-      },
-      "end": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 16,
-        "word": "مِتۡنَا",
-        "wordIndex": 2
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -463,47 +160,10 @@
         "ayah": 16,
         "word": "مِتۡنَا",
         "wordIndex": 2
-      },
-      "verses_on_line": [
-        "37:14",
-        "37:15",
-        "37:16"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "يَسۡتَسۡخِرُونَ ١٤ وَقَالُوٓاْ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٌ ١٥ أَٰ۟ذَا مِتۡنَا ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 32,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 9,
-      "text": "وَكُنَّا تُرَابٗا وَعِظَٰمًا إِنَّا لَمَبۡعُوثُونَ ١٦ أَوۡ ءَابَآؤُنَا ٱلۡأَوَّلُونَ ١٧ قُلۡ نَعَمۡ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 16,
-        "word": "وَكُنَّا",
-        "wordIndex": 3
-      },
-      "end": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 18,
-        "word": "نَعَمۡ",
-        "wordIndex": 2
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -517,47 +177,10 @@
         "ayah": 18,
         "word": "نَعَمۡ",
         "wordIndex": 2
-      },
-      "verses_on_line": [
-        "37:16",
-        "37:17",
-        "37:18"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "وَكُنَّا تُرَابٗا وَعِظَٰمًا إِنَّا لَمَبۡعُوثُونَ ١٦ أَوۡ ءَابَآؤُنَا ٱلۡأَوَّلُونَ ١٧ قُلۡ نَعَمۡ ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 32,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 10,
-      "text": "وَأَنتُمُۥ دَٰخِرُونَ ١٨ فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ فَإِذَا هُمُۥ يَنظُرُونَ ١٩ وَقَالُواْ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 18,
-        "word": "وَأَنتُمُۥ",
-        "wordIndex": 3
-      },
-      "end": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 20,
-        "word": "وَقَالُواْ",
-        "wordIndex": 1
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -571,55 +194,10 @@
         "ayah": 20,
         "word": "وَقَالُواْ",
         "wordIndex": 1
-      },
-      "verses_on_line": [
-        "37:18",
-        "37:19",
-        "37:20"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "وَأَنتُمُۥ دَٰخِرُونَ ١٨ فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ فَإِذَا هُمُۥ يَنظُرُونَ ١٩ وَقَالُواْ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 31,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        },
-        {
-          "text": " ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 32,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 11,
-      "text": "يَٰوَيۡلَنَا هَٰذَا يَوۡمُ ٱلدِّينِ ٢٠ هَٰذَا يَوۡمُ ٱلۡفَصۡلِ ٱلَّذِي كُنتُمُۥ بِهِۦ تُكَذِّبُونَ ٢١ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 20,
-        "word": "يَٰوَيۡلَنَا",
-        "wordIndex": 2
-      },
-      "end": {
-        "type": "ayah_marker",
-        "surah": 37,
-        "ayah": 21,
-        "number": 21
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -632,46 +210,10 @@
         "surah": 37,
         "ayah": 21,
         "number": 21
-      },
-      "verses_on_line": [
-        "37:20",
-        "37:21"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "يَٰوَيۡلَنَا هَٰذَا يَوۡمُ ٱلدِّينِ ٢٠ هَٰذَا يَوۡمُ ٱلۡفَصۡلِ ٱلَّذِي كُنتُمُۥ بِهِۦ تُكَذِّبُونَ ٢١ ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 29,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 12,
-      "text": "۞ ٱحۡشُرُواْ ٱلَّذِينَ ظَلَمُواْ وَأَزۡوَٰجَهُمُۥ وَمَا كَانُواْ يَعۡبُدُونَ ٢٢ مِن دُونِ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 22,
-        "word": "ٱحۡشُرُواْ",
-        "wordIndex": 1
-      },
-      "end": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 23,
-        "word": "دُونِ",
-        "wordIndex": 2
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -685,45 +227,10 @@
         "ayah": 23,
         "word": "دُونِ",
         "wordIndex": 2
-      },
-      "verses_on_line": [
-        "37:22",
-        "37:23"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "۞ ٱحۡشُرُواْ ٱلَّذِينَ ظَلَمُواْ وَأَزۡوَٰجَهُمُۥ وَمَا كَانُواْ يَعۡبُدُونَ ٢٢ مِن دُونِ ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 32,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     },
     {
       "line": 13,
-      "text": "ٱللَّهِ فَٱهۡدُوهُمُۥٓ إِلَىٰ صِرَٰطِ ٱلۡجَحِيمِ ٢٣ وَقِفُوهُمُۥٓۖ إِنَّهُمُۥ مَسۡـُٔولُونَ ٢٤ ",
-      "start": {
-        "type": "word",
-        "surah": 37,
-        "ayah": 23,
-        "word": "ٱللَّهِ",
-        "wordIndex": 3
-      },
-      "end": {
-        "type": "ayah_marker",
-        "surah": 37,
-        "ayah": 24,
-        "number": 24
-      },
       "first_word": {
         "type": "word",
         "surah": 37,
@@ -736,28 +243,7 @@
         "surah": 37,
         "ayah": 24,
         "number": 24
-      },
-      "verses_on_line": [
-        "37:23",
-        "37:24"
-      ],
-      "alignment": "both",
-      "bidi": true,
-      "spacing": {
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "runs": [
-        {
-          "text": "ٱللَّهِ فَٱهۡدُوهُمُۥٓ إِلَىٰ صِرَٰطِ ٱلۡجَحِيمِ ٢٣ وَقِفُوهُمُۥٓۖ إِنَّهُمُۥ مَسۡـُٔولُونَ ٢٤ ",
-          "font_family": "KFGQPC QALOON Uthmanic Script",
-          "font_size_half_points": 32,
-          "rtl": true,
-          "bold": false,
-          "italic": false,
-          "hidden": false
-        }
-      ]
+      }
     }
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",

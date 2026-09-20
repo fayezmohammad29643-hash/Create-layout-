@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "surahId": 102,
   "surahName": "التَّكَاثُرِ",
   "startPage": 600,
@@ -16,21 +16,6 @@
       "lines": [
         {
           "line": 9,
-          "text": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ ١ حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ ٢ كَلَّا سَوۡفَ تَعۡلَمُونَ ٣ ثُمَّ ",
-          "start": {
-            "type": "word",
-            "surah": 102,
-            "ayah": 1,
-            "word": "أَلۡهَىٰكُمُ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "word",
-            "surah": 102,
-            "ayah": 4,
-            "word": "ثُمَّ",
-            "wordIndex": 1
-          },
           "first_word": {
             "type": "word",
             "surah": 102,
@@ -44,47 +29,10 @@
             "ayah": 4,
             "word": "ثُمَّ",
             "wordIndex": 1
-          },
-          "verses_on_line": [
-            "102:1",
-            "102:2",
-            "102:3",
-            "102:4"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ ١ حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ ٢ كَلَّا سَوۡفَ تَعۡلَمُونَ ٣ ثُمَّ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 10,
-          "text": "كَلَّا سَوۡفَ تَعۡلَمُونَ ٤ كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ ٥ لَتَرَوُنَّ ٱلۡجَحِيمَ ٦ ",
-          "start": {
-            "type": "word",
-            "surah": 102,
-            "ayah": 4,
-            "word": "كَلَّا",
-            "wordIndex": 2
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 102,
-            "ayah": 6,
-            "number": 6
-          },
           "first_word": {
             "type": "word",
             "surah": 102,
@@ -97,55 +45,10 @@
             "surah": 102,
             "ayah": 6,
             "number": 6
-          },
-          "verses_on_line": [
-            "102:4",
-            "102:5",
-            "102:6"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "كَلَّا سَوۡفَ تَعۡلَمُونَ ٤ كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ ٥ لَتَرَوُنَّ ٱلۡجَحِيمَ ٦",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 29,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            },
-            {
-              "text": " ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 11,
-          "text": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ ٧ ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ ٨",
-          "start": {
-            "type": "word",
-            "surah": 102,
-            "ayah": 7,
-            "word": "ثُمَّ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 102,
-            "ayah": 8,
-            "number": 8
-          },
           "first_word": {
             "type": "word",
             "surah": 102,
@@ -158,28 +61,7 @@
             "surah": 102,
             "ayah": 8,
             "number": 8
-          },
-          "verses_on_line": [
-            "102:7",
-            "102:8"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ ٧ ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ ٨",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         }
       ]
     }

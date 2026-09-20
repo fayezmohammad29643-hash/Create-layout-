@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "surahId": 99,
   "surahName": "الزَّلۡزَلَةِ",
   "startPage": 599,
@@ -16,21 +16,6 @@
       "lines": [
         {
           "line": 6,
-          "text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا ١ وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا ٢ وَقَالَ ",
-          "start": {
-            "type": "word",
-            "surah": 99,
-            "ayah": 1,
-            "word": "إِذَا",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "word",
-            "surah": 99,
-            "ayah": 3,
-            "word": "وَقَالَ",
-            "wordIndex": 1
-          },
           "first_word": {
             "type": "word",
             "surah": 99,
@@ -44,47 +29,10 @@
             "ayah": 3,
             "word": "وَقَالَ",
             "wordIndex": 1
-          },
-          "verses_on_line": [
-            "99:1",
-            "99:2",
-            "99:3"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا ١ وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا ٢ وَقَالَ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 7,
-          "text": "ٱلۡإِنسَٰنُ مَا لَهَا ٣ يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا ٤ بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا ٥ ",
-          "start": {
-            "type": "word",
-            "surah": 99,
-            "ayah": 3,
-            "word": "ٱلۡإِنسَٰنُ",
-            "wordIndex": 2
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 99,
-            "ayah": 5,
-            "number": 5
-          },
           "first_word": {
             "type": "word",
             "surah": 99,
@@ -97,48 +45,10 @@
             "surah": 99,
             "ayah": 5,
             "number": 5
-          },
-          "verses_on_line": [
-            "99:3",
-            "99:4",
-            "99:5"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "ٱلۡإِنسَٰنُ مَا لَهَا ٣ يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا ٤ بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا ٥ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 8,
-          "text": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمُۥ ٦ فَمَن يَعۡمَلۡ ",
-          "start": {
-            "type": "word",
-            "surah": 99,
-            "ayah": 6,
-            "word": "يَوۡمَئِذٖ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "word",
-            "surah": 99,
-            "ayah": 7,
-            "word": "يَعۡمَلۡ",
-            "wordIndex": 2
-          },
           "first_word": {
             "type": "word",
             "surah": 99,
@@ -152,46 +62,10 @@
             "ayah": 7,
             "word": "يَعۡمَلۡ",
             "wordIndex": 2
-          },
-          "verses_on_line": [
-            "99:6",
-            "99:7"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمُۥ ٦ فَمَن يَعۡمَلۡ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 9,
-          "text": "مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ ٧ وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ ٨",
-          "start": {
-            "type": "word",
-            "surah": 99,
-            "ayah": 7,
-            "word": "مِثۡقَالَ",
-            "wordIndex": 3
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 99,
-            "ayah": 8,
-            "number": 8
-          },
           "first_word": {
             "type": "word",
             "surah": 99,
@@ -204,29 +78,7 @@
             "surah": 99,
             "ayah": 8,
             "number": 8
-          },
-          "verses_on_line": [
-            "99:7",
-            "99:8"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ ٧ وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ ٨",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "surahId": 94,
   "surahName": "الشَّرۡحِ",
   "startPage": 596,
@@ -16,20 +16,6 @@
       "lines": [
         {
           "line": 11,
-          "text": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١ وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢ ",
-          "start": {
-            "type": "word",
-            "surah": 94,
-            "ayah": 1,
-            "word": "أَلَمۡ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 94,
-            "ayah": 2,
-            "number": 2
-          },
           "first_word": {
             "type": "word",
             "surah": 94,
@@ -42,29 +28,7 @@
             "surah": 94,
             "ayah": 2,
             "number": 2
-          },
-          "verses_on_line": [
-            "94:1",
-            "94:2"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١ وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         }
       ]
     },
@@ -73,20 +37,6 @@
       "lines": [
         {
           "line": 1,
-          "text": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣ وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤ فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥ ",
-          "start": {
-            "type": "word",
-            "surah": 94,
-            "ayah": 3,
-            "word": "ٱلَّذِيٓ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 94,
-            "ayah": 5,
-            "number": 5
-          },
           "first_word": {
             "type": "word",
             "surah": 94,
@@ -99,56 +49,10 @@
             "surah": 94,
             "ayah": 5,
             "number": 5
-          },
-          "verses_on_line": [
-            "94:3",
-            "94:4",
-            "94:5"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣ وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤ فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 31,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            },
-            {
-              "text": " ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 2,
-          "text": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦ فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧ وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨",
-          "start": {
-            "type": "word",
-            "surah": 94,
-            "ayah": 6,
-            "word": "إِنَّ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 94,
-            "ayah": 8,
-            "number": 8
-          },
           "first_word": {
             "type": "word",
             "surah": 94,
@@ -161,30 +65,7 @@
             "surah": 94,
             "ayah": 8,
             "number": 8
-          },
-          "verses_on_line": [
-            "94:6",
-            "94:7",
-            "94:8"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦ فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧ وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 31,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "surahId": 107,
   "surahName": "المَاعُونِ",
   "startPage": 602,
@@ -16,21 +16,6 @@
       "lines": [
         {
           "line": 4,
-          "text": "أَرَٰ۬يۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ ١ فَذَٰلِكَ ٱلَّذِي يَدُعُّ ",
-          "start": {
-            "type": "word",
-            "surah": 107,
-            "ayah": 1,
-            "word": "أَرَٰ۬يۡتَ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "word",
-            "surah": 107,
-            "ayah": 2,
-            "word": "يَدُعُّ",
-            "wordIndex": 3
-          },
           "first_word": {
             "type": "word",
             "surah": 107,
@@ -44,47 +29,10 @@
             "ayah": 2,
             "word": "يَدُعُّ",
             "wordIndex": 3
-          },
-          "verses_on_line": [
-            "107:1",
-            "107:2"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "أَرَٰ۬يۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ ١ فَذَٰلِكَ ٱلَّذِي يَدُعُّ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 5,
-          "text": "ٱلۡيَتِيمَ ٢ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ ٣ فَوَيۡلٞ ",
-          "start": {
-            "type": "word",
-            "surah": 107,
-            "ayah": 2,
-            "word": "ٱلۡيَتِيمَ",
-            "wordIndex": 4
-          },
-          "end": {
-            "type": "word",
-            "surah": 107,
-            "ayah": 4,
-            "word": "فَوَيۡلٞ",
-            "wordIndex": 1
-          },
           "first_word": {
             "type": "word",
             "surah": 107,
@@ -98,47 +46,10 @@
             "ayah": 4,
             "word": "فَوَيۡلٞ",
             "wordIndex": 1
-          },
-          "verses_on_line": [
-            "107:2",
-            "107:3",
-            "107:4"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "ٱلۡيَتِيمَ ٢ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ ٣ فَوَيۡلٞ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 6,
-          "text": "لِّلۡمُصَلِّينَ ٤ ٱلَّذِينَ هُمُۥ عَن صَلَاتِهِمُۥ سَاهُونَ ٥ ",
-          "start": {
-            "type": "word",
-            "surah": 107,
-            "ayah": 4,
-            "word": "لِّلۡمُصَلِّينَ",
-            "wordIndex": 2
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 107,
-            "ayah": 5,
-            "number": 5
-          },
           "first_word": {
             "type": "word",
             "surah": 107,
@@ -151,46 +62,10 @@
             "surah": 107,
             "ayah": 5,
             "number": 5
-          },
-          "verses_on_line": [
-            "107:4",
-            "107:5"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "لِّلۡمُصَلِّينَ ٤ ٱلَّذِينَ هُمُۥ عَن صَلَاتِهِمُۥ سَاهُونَ ٥ ",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         },
         {
           "line": 7,
-          "text": "ٱلَّذِينَ هُمُۥ يُرَآءُونَ وَيَمۡنَعُونَ ٱلۡمَاعُونَ 6",
-          "start": {
-            "type": "word",
-            "surah": 107,
-            "ayah": 6,
-            "word": "ٱلَّذِينَ",
-            "wordIndex": 1
-          },
-          "end": {
-            "type": "ayah_marker",
-            "surah": 107,
-            "ayah": 6,
-            "number": 6
-          },
           "first_word": {
             "type": "word",
             "surah": 107,
@@ -203,28 +78,7 @@
             "surah": 107,
             "ayah": 6,
             "number": 6
-          },
-          "verses_on_line": [
-            "107:6"
-          ],
-          "alignment": "both",
-          "bidi": true,
-          "spacing": {
-            "after": 0,
-            "line": 288,
-            "lineRule": "auto"
-          },
-          "runs": [
-            {
-              "text": "ٱلَّذِينَ هُمُۥ يُرَآءُونَ وَيَمۡنَعُونَ ٱلۡمَاعُونَ 6",
-              "font_family": "KFGQPC QALOON Uthmanic Script",
-              "font_size_half_points": 32,
-              "rtl": true,
-              "bold": false,
-              "italic": false,
-              "hidden": false
-            }
-          ]
+          }
         }
       ]
     }
