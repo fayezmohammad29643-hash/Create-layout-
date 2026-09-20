@@ -1,0 +1,70 @@
+{
+  "schema_version": 3,
+  "surahId": 110,
+  "surahName": "النَّصۡرِ",
+  "startPage": 603,
+  "endPage": 603,
+  "totalPagesInSurah": 1,
+  "recordedPagesCount": 1,
+  "totalCompletedLines": 3,
+  "ayaCount": 3,
+  "font_family": "KFGQPC QALOON Uthmanic Script",
+  "layout_source": "docx",
+  "pages": [
+    {
+      "page": 603,
+      "lines": [
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 110,
+            "ayah": 1,
+            "word": "إِذَا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 110,
+            "ayah": 2,
+            "word": "ٱلنَّاسَ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 110,
+            "ayah": 2,
+            "word": "يَدۡخُلُونَ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 110,
+            "ayah": 3,
+            "word": "رَبِّكَ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 110,
+            "ayah": 3,
+            "word": "وَٱسۡتَغۡفِرۡهُۚ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 110,
+            "ayah": 3,
+            "number": 3
+          }
+        }
+      ]
+    }
+  ]
+}

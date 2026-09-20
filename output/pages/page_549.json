@@ -1,0 +1,273 @@
+{
+  "page": 549,
+  "surah_ids": [
+    60
+  ],
+  "elements": [
+    {
+      "type": "surah_heading",
+      "surah": 60,
+      "text": "سُورَةُ المُمۡتَحنَةِ",
+      "alignment": "left",
+      "bidi": false,
+      "spacing": {},
+      "font_family": "KFGQPC QALOON Uthmanic Script"
+    },
+    {
+      "type": "bismillah",
+      "surah": 60,
+      "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "alignment": "center",
+      "bidi": true,
+      "spacing": {
+        "after": 0,
+        "line": 288,
+        "lineRule": "auto"
+      },
+      "font_family": "KFGQPC QALOON Uthmanic Script",
+      "font_size_half_points": 32
+    }
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 1,
+        "word": "يَٰٓأَيُّهَا",
+        "wordIndex": 1
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 1,
+        "word": "إِلَيۡهِمُۥ",
+        "wordIndex": 10
+      }
+    },
+    {
+      "line": 2,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 1,
+        "word": "بِٱلۡمَوَدَّةِ",
+        "wordIndex": 11
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 1,
+        "word": "أَن",
+        "wordIndex": 21
+      }
+    },
+    {
+      "line": 3,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 1,
+        "word": "تُؤۡمِنُواْ",
+        "wordIndex": 22
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 1,
+        "word": "مَرۡضَاتِيۚ",
+        "wordIndex": 32
+      }
+    },
+    {
+      "line": 4,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 1,
+        "word": "تُسِرُّونَ",
+        "wordIndex": 33
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 1,
+        "word": "وَمَن",
+        "wordIndex": 42
+      }
+    },
+    {
+      "line": 5,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 1,
+        "word": "يَفۡعَلۡهُ",
+        "wordIndex": 43
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 2,
+        "word": "أَعۡدَآءٗ",
+        "wordIndex": 5
+      }
+    },
+    {
+      "line": 6,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 2,
+        "word": "وَيَبۡسُطُوٓاْ",
+        "wordIndex": 6
+      },
+      "end_word": {
+        "type": "ayah_marker",
+        "surah": 60,
+        "ayah": 2,
+        "number": 2
+      }
+    },
+    {
+      "line": 7,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 3,
+        "word": "لَن",
+        "wordIndex": 1
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 3,
+        "word": "وَٱللَّهُ",
+        "wordIndex": 10
+      }
+    },
+    {
+      "line": 8,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 3,
+        "word": "بِمَا",
+        "wordIndex": 11
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 4,
+        "word": "وَٱلَّذِينَ",
+        "wordIndex": 8
+      }
+    },
+    {
+      "line": 9,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 4,
+        "word": "مَعَهُۥٓ",
+        "wordIndex": 9
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 4,
+        "word": "ٱللَّهِ",
+        "wordIndex": 20
+      }
+    },
+    {
+      "line": 10,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 4,
+        "word": "كَفَرۡنَا",
+        "wordIndex": 21
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 4,
+        "word": "تُؤۡمِنُواْ",
+        "wordIndex": 30
+      }
+    },
+    {
+      "line": 11,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 4,
+        "word": "بِٱللَّهِ",
+        "wordIndex": 31
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 4,
+        "word": "مِنَ",
+        "wordIndex": 42
+      }
+    },
+    {
+      "line": 12,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 4,
+        "word": "ٱللَّهِ",
+        "wordIndex": 43
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 5,
+        "word": "رَبَّنَا",
+        "wordIndex": 1
+      }
+    },
+    {
+      "line": 13,
+      "first_word": {
+        "type": "word",
+        "surah": 60,
+        "ayah": 5,
+        "word": "لَا",
+        "wordIndex": 2
+      },
+      "end_word": {
+        "type": "ayah_marker",
+        "surah": 60,
+        "ayah": 5,
+        "number": 5
+      }
+    }
+  ],
+  "font_family": "KFGQPC QALOON Uthmanic Script",
+  "document_page_geometry": {
+    "page_size_twips": {
+      "width": 9639,
+      "height": 13608
+    },
+    "margins_twips": {
+      "top": 1418,
+      "right": 1701,
+      "bottom": 1134,
+      "left": 1701,
+      "header": 709,
+      "footer": 1134,
+      "gutter": 0
+    },
+    "doc_grid": {
+      "line_pitch_twips": 360,
+      "line_rule": null
+    }
+  },
+  "layout_source": "docx"
+}

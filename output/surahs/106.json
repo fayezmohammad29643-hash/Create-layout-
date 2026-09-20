@@ -1,0 +1,69 @@
+{
+  "schema_version": 3,
+  "surahId": 106,
+  "surahName": "قُرَيۡشٍ",
+  "startPage": 602,
+  "endPage": 602,
+  "totalPagesInSurah": 1,
+  "recordedPagesCount": 1,
+  "totalCompletedLines": 3,
+  "ayaCount": 5,
+  "font_family": "KFGQPC QALOON Uthmanic Script",
+  "layout_source": "docx",
+  "pages": [
+    {
+      "page": 602,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 106,
+            "ayah": 1,
+            "word": "لِإِيلَٰفِ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 106,
+            "ayah": 2,
+            "number": 2
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 106,
+            "ayah": 3,
+            "word": "فَلۡيَعۡبُدُواْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 106,
+            "ayah": 4,
+            "word": "أَطۡعَمَهُمُۥ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 106,
+            "ayah": 4,
+            "word": "مِن",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 106,
+            "ayah": 5,
+            "number": 5
+          }
+        }
+      ]
+    }
+  ]
+}

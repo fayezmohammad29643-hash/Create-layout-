@@ -1,0 +1,69 @@
+{
+  "schema_version": 3,
+  "surahId": 102,
+  "surahName": "التَّكَاثُرِ",
+  "startPage": 600,
+  "endPage": 600,
+  "totalPagesInSurah": 1,
+  "recordedPagesCount": 1,
+  "totalCompletedLines": 3,
+  "ayaCount": 8,
+  "font_family": "KFGQPC QALOON Uthmanic Script",
+  "layout_source": "docx",
+  "pages": [
+    {
+      "page": 600,
+      "lines": [
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 102,
+            "ayah": 1,
+            "word": "أَلۡهَىٰكُمُ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 102,
+            "ayah": 4,
+            "word": "ثُمَّ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 102,
+            "ayah": 4,
+            "word": "كَلَّا",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 102,
+            "ayah": 6,
+            "number": 6
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 102,
+            "ayah": 7,
+            "word": "ثُمَّ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 102,
+            "ayah": 8,
+            "number": 8
+          }
+        }
+      ]
+    }
+  ]
+}
