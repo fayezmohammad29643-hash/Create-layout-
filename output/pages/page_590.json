@@ -1,34 +1,12 @@
 {
+  "schema_version": 3,
   "page": 590,
   "surah_ids": [
     84,
     85
   ],
-  "elements": [
-    {
-      "type": "surah_heading",
-      "surah": 85,
-      "text": "سُورَةُ البُرُوجِ",
-      "alignment": "left",
-      "bidi": false,
-      "spacing": {},
-      "font_family": "KFGQPC QALOON Uthmanic Script"
-    },
-    {
-      "type": "bismillah",
-      "surah": 85,
-      "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
-      "alignment": "center",
-      "bidi": true,
-      "spacing": {
-        "after": 0,
-        "line": 288,
-        "lineRule": "auto"
-      },
-      "font_family": "KFGQPC QALOON Uthmanic Script",
-      "font_size_half_points": 32
-    }
-  ],
+  "font_family": "KFGQPC QALOON Uthmanic Script",
+  "layout_source": "docx",
   "lines": [
     {
       "line": 1,
@@ -247,26 +225,5 @@
         "number": 22
       }
     }
-  ],
-  "font_family": "KFGQPC QALOON Uthmanic Script",
-  "document_page_geometry": {
-    "page_size_twips": {
-      "width": 9639,
-      "height": 13608
-    },
-    "margins_twips": {
-      "top": 1418,
-      "right": 1701,
-      "bottom": 1134,
-      "left": 1701,
-      "header": 709,
-      "footer": 1134,
-      "gutter": 0
-    },
-    "doc_grid": {
-      "line_pitch_twips": 360,
-      "line_rule": null
-    }
-  },
-  "layout_source": "docx"
+  ]
 }
