@@ -1,0 +1,70 @@
+name: Build Douri Quran Layouts
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'input/douri/mushaf.pdf'
+      - 'input/douri/quran.sqlite'
+      - 'scripts/pdf_layout.py'
+      - 'scripts/build_pdf_layout.py'
+      - 'scripts/check_pdf_layout.py'
+      - 'config-douri.json'
+      - 'requirements.txt'
+      - '.github/workflows/build-douri.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Verify sources
+        run: |
+          set -euo pipefail
+          test -s input/douri/mushaf.pdf
+          test -s input/douri/quran.sqlite
+
+      - name: Build Douri layout from PDF + SQLite
+        run: |
+          rm -rf output/douri
+          mkdir -p output/douri
+          python scripts/build_pdf_layout.py \
+            --pdf input/douri/mushaf.pdf \
+            --sqlite input/douri/quran.sqlite \
+            --config config-douri.json \
+            --output-dir output/douri
+
+      - name: Validate Douri output
+        run: |
+          python scripts/check_pdf_layout.py \
+            --output-dir output/douri \
+            --sqlite input/douri/quran.sqlite
+
+      - name: Verify generated output
+        run: |
+          set -euo pipefail
+          test -s output/douri/manifest.json
+          test -s output/douri/review.json
+          test "$(find output/douri/pages -maxdepth 1 -type f -name 'page_*.json' | wc -l)" -eq 604
+          test "$(find output/douri/surahs -maxdepth 1 -type f -name '*.json' | wc -l)" -eq 114
+
+      - name: Commit generated layouts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A output/douri/
+          git diff --cached --quiet || git commit -m "Generate Douri Quran layout JSON files"
+          git push
