@@ -1,0 +1,52 @@
+{
+  "schema_version": 3,
+  "surahId": 112,
+  "surahName": "الإخلاص",
+  "startPage": 604,
+  "endPage": 604,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 2,
+  "ayaCount": 3,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 604,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 112,
+            "ayah": 1,
+            "word": "قُلۡ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 112,
+            "ayah": 2,
+            "number": 2
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 112,
+            "ayah": 3,
+            "word": "لَمۡ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 113,
+            "ayah": 1,
+            "word": "أَعُوذُ",
+            "wordIndex": 2
+          }
+        }
+      ]
+    }
+  ]
+}

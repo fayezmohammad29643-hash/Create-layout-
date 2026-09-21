@@ -1,0 +1,152 @@
+{
+  "schema_version": 3,
+  "surahId": 82,
+  "surahName": "الانفطار",
+  "startPage": 587,
+  "endPage": 587,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 8,
+  "ayaCount": 19,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 587,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 1,
+            "word": "إِذَا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 3,
+            "word": "اَ۬لۡبِحَارُ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 3,
+            "word": "فُجِّرَتۡ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 6,
+            "word": "يَٰٓأَيُّهَا",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 6,
+            "word": "اَ۬لۡإِنسَٰنُ",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 82,
+            "ayah": 7,
+            "number": 7
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 8,
+            "word": "فِيٓ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 10,
+            "word": "وَإِنَّ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 10,
+            "word": "عَلَيۡكُمۡ",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 13,
+            "word": "اَ۬لۡأَبۡرَارَ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 13,
+            "word": "لَفِي",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 16,
+            "word": "عَنۡهَا",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 16,
+            "word": "بِغَآئِبِينَ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 82,
+            "ayah": 18,
+            "word": "اُ۬لدِّينِ",
+            "wordIndex": 6
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "ayah_marker",
+            "surah": 82,
+            "ayah": 18,
+            "number": 18
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 82,
+            "ayah": 19,
+            "number": 19
+          }
+        }
+      ]
+    }
+  ]
+}

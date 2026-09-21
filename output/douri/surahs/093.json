@@ -1,0 +1,120 @@
+{
+  "schema_version": 3,
+  "surahId": 93,
+  "surahName": "الضحى",
+  "startPage": 596,
+  "endPage": 596,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 6,
+  "ayaCount": 11,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 596,
+      "lines": [
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 92,
+            "ayah": 20,
+            "word": "إِلَّا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 2,
+            "word": "وَاَلَّيۡلِ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 2,
+            "word": "إِذَا",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 4,
+            "word": "لَّكَ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 4,
+            "word": "مِنَ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 6,
+            "word": "يَتِيمٗا",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 6,
+            "word": "فَـَٔاوۭيٰ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 9,
+            "word": "فَأَمَّا",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 9,
+            "word": "اَ۬لۡيَتِيمَ",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 11,
+            "word": "بِنِعۡمَةِ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 11,
+            "word": "رَبِّكَ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 94,
+            "ayah": 2,
+            "number": 2
+          }
+        }
+      ]
+    }
+  ]
+}

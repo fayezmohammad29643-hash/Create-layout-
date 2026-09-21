@@ -1,0 +1,155 @@
+{
+  "schema_version": 3,
+  "surahId": 96,
+  "surahName": "العلق",
+  "startPage": 597,
+  "endPage": 598,
+  "totalPagesInSurah": 2,
+  "totalCompletedLines": 8,
+  "ayaCount": 19,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 597,
+      "lines": [
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 1,
+            "word": "اِ۪قۡرَأۡ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 3,
+            "word": "وَرَبُّكَ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 3,
+            "word": "اَ۬لۡأَكۡرَمُ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 96,
+            "ayah": 5,
+            "number": 5
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 6,
+            "word": "كَلَّآ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 7,
+            "word": "اُ۪سۡتَغۡنۭيٰٓ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "ayah_marker",
+            "surah": 96,
+            "ayah": 7,
+            "number": 7
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 9,
+            "word": "يَنۡهۭيٰ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "ayah_marker",
+            "surah": 96,
+            "ayah": 9,
+            "number": 9
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 96,
+            "ayah": 12,
+            "number": 12
+          }
+        }
+      ]
+    },
+    {
+      "page": 598,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 13,
+            "word": "أَرَءَيۡتَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 96,
+            "ayah": 15,
+            "number": 15
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 16,
+            "word": "لَنَسۡفَعَۢا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 19,
+            "word": "سَنَدۡعُ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 19,
+            "word": "اُ۬لزَّبَانِيَةَ",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 97,
+            "ayah": 1,
+            "word": "لَيۡلَةِ",
+            "wordIndex": 4
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": 3,
+  "surahId": 100,
+  "surahName": "العاديات",
+  "startPage": 599,
+  "endPage": 600,
+  "totalPagesInSurah": 2,
+  "totalCompletedLines": 5,
+  "ayaCount": 10,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 599,
+      "lines": [
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 99,
+            "ayah": 8,
+            "word": "ذَرَّةٖ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 100,
+            "ayah": 2,
+            "number": 2
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 100,
+            "ayah": 3,
+            "word": "فَاَلۡمُغِيرَٰتِ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 100,
+            "ayah": 5,
+            "number": 5
+          }
+        }
+      ]
+    },
+    {
+      "page": 600,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 100,
+            "ayah": 6,
+            "word": "إِنَّ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 100,
+            "ayah": 8,
+            "word": "اِ۬لۡخَيۡرِ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 100,
+            "ayah": 8,
+            "word": "لَشَدِيدٌ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 100,
+            "ayah": 10,
+            "word": "مَا",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 100,
+            "ayah": 10,
+            "word": "فِي",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 101,
+            "ayah": 1,
+            "word": "اَ۬لۡقَارِعَةُ",
+            "wordIndex": 3
+          }
+        }
+      ]
+    }
+  ]
+}

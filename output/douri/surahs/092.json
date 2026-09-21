@@ -1,0 +1,154 @@
+{
+  "schema_version": 3,
+  "surahId": 92,
+  "surahName": "الليل",
+  "startPage": 595,
+  "endPage": 596,
+  "totalPagesInSurah": 2,
+  "totalCompletedLines": 8,
+  "ayaCount": 20,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 595,
+      "lines": [
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 91,
+            "ayah": 16,
+            "word": "يَخَافُ",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 92,
+            "ayah": 3,
+            "word": "اَ۬لذَّكَرَ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 92,
+            "ayah": 3,
+            "word": "وَاَلۡأُنثۭيٰٓ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 92,
+            "ayah": 6,
+            "word": "بِالۡحُسۡنۭيٰ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "ayah_marker",
+            "surah": 92,
+            "ayah": 6,
+            "number": 6
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 92,
+            "ayah": 9,
+            "number": 9
+          }
+        }
+      ]
+    },
+    {
+      "page": 596,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 92,
+            "ayah": 10,
+            "word": "فَسَنُيَسِّرُهُۥ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 92,
+            "ayah": 12,
+            "number": 12
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 92,
+            "ayah": 13,
+            "word": "وَإِنَّ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 92,
+            "ayah": 14,
+            "number": 14
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 92,
+            "ayah": 15,
+            "word": "لَا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 92,
+            "ayah": 17,
+            "word": "اَ۬لۡأَتۡقَى",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "ayah_marker",
+            "surah": 92,
+            "ayah": 17,
+            "number": 17
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 92,
+            "ayah": 19,
+            "number": 19
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 92,
+            "ayah": 20,
+            "word": "إِلَّا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 93,
+            "ayah": 2,
+            "word": "وَاَلَّيۡلِ",
+            "wordIndex": 1
+          }
+        }
+      ]
+    }
+  ]
+}

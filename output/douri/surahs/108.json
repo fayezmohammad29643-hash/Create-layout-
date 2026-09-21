@@ -1,0 +1,51 @@
+{
+  "schema_version": 3,
+  "surahId": 108,
+  "surahName": "الكوثر",
+  "startPage": 602,
+  "endPage": 602,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 2,
+  "ayaCount": 3,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 602,
+      "lines": [
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 108,
+            "ayah": 1,
+            "word": "إِنَّآ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 108,
+            "ayah": 2,
+            "number": 2
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 108,
+            "ayah": 3,
+            "word": "إِنَّ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 108,
+            "ayah": 3,
+            "number": 3
+          }
+        }
+      ]
+    }
+  ]
+}

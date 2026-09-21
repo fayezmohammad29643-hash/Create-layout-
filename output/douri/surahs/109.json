@@ -1,0 +1,85 @@
+{
+  "schema_version": 3,
+  "surahId": 109,
+  "surahName": "الكافرون",
+  "startPage": 603,
+  "endPage": 603,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 4,
+  "ayaCount": 5,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 603,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 1,
+            "word": "قُلۡ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 2,
+            "word": "تَعۡبُدُونَ",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 2,
+            "number": 2
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 4,
+            "word": "عَابِدٞ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 4,
+            "word": "مَّا",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 5,
+            "word": "أَعۡبُدُ",
+            "wordIndex": 5
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 5,
+            "number": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 110,
+            "ayah": 1,
+            "word": "اُ۬للَّهِ",
+            "wordIndex": 4
+          }
+        }
+      ]
+    }
+  ]
+}

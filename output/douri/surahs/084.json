@@ -1,0 +1,223 @@
+{
+  "schema_version": 3,
+  "surahId": 84,
+  "surahName": "الانشقاق",
+  "startPage": 589,
+  "endPage": 590,
+  "totalPagesInSurah": 2,
+  "totalCompletedLines": 12,
+  "ayaCount": 25,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 589,
+      "lines": [
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 83,
+            "ayah": 36,
+            "word": "هَلۡ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 2,
+            "word": "وَأَذِنَتۡ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 2,
+            "word": "لِرَبِّهَا",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 84,
+            "ayah": 4,
+            "number": 4
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 5,
+            "word": "وَأَذِنَتۡ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 6,
+            "word": "كَدۡحٗا",
+            "wordIndex": 7
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 6,
+            "word": "فَمُلَٰقِيهِ",
+            "wordIndex": 8
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 8,
+            "word": "يُحَاسَبُ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 8,
+            "word": "حِسَابٗا",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 10,
+            "word": "كِتَٰبَهُۥ",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 10,
+            "word": "وَرَآءَ",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 13,
+            "word": "فِيٓ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 13,
+            "word": "أَهۡلِهِۦ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 15,
+            "word": "بَصِيرٗا",
+            "wordIndex": 6
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "ayah_marker",
+            "surah": 84,
+            "ayah": 15,
+            "number": 15
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 18,
+            "word": "إِذَا",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 18,
+            "word": "اَ۪تَّسَقَ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 84,
+            "ayah": 20,
+            "number": 20
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 21,
+            "word": "وَإِذَا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 22,
+            "word": "كَفَرُواْ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 22,
+            "word": "يُكَذِّبُونَ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 84,
+            "ayah": 24,
+            "number": 24
+          }
+        }
+      ]
+    },
+    {
+      "page": 590,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 84,
+            "ayah": 25,
+            "word": "إِلَّا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 85,
+            "ayah": 1,
+            "number": 1
+          }
+        }
+      ]
+    }
+  ]
+}

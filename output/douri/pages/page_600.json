@@ -1,0 +1,178 @@
+{
+  "schema_version": 3,
+  "page": 600,
+  "surah_ids": [
+    100,
+    101,
+    102
+  ],
+  "font_family": null,
+  "layout_source": "pdf",
+  "lines": [
+    {
+      "line": 1,
+      "first_word": {
+        "type": "word",
+        "surah": 100,
+        "ayah": 6,
+        "word": "إِنَّ",
+        "wordIndex": 1
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 100,
+        "ayah": 8,
+        "word": "اِ۬لۡخَيۡرِ",
+        "wordIndex": 3
+      }
+    },
+    {
+      "line": 2,
+      "first_word": {
+        "type": "word",
+        "surah": 100,
+        "ayah": 8,
+        "word": "لَشَدِيدٌ",
+        "wordIndex": 4
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 100,
+        "ayah": 10,
+        "word": "مَا",
+        "wordIndex": 2
+      }
+    },
+    {
+      "line": 3,
+      "first_word": {
+        "type": "word",
+        "surah": 100,
+        "ayah": 10,
+        "word": "فِي",
+        "wordIndex": 3
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 101,
+        "ayah": 1,
+        "word": "اَ۬لۡقَارِعَةُ",
+        "wordIndex": 3
+      }
+    },
+    {
+      "line": 4,
+      "first_word": {
+        "type": "ayah_marker",
+        "surah": 101,
+        "ayah": 1,
+        "number": 1
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 101,
+        "ayah": 3,
+        "word": "كَاَلۡفَرَاشِ",
+        "wordIndex": 4
+      }
+    },
+    {
+      "line": 5,
+      "first_word": {
+        "type": "word",
+        "surah": 101,
+        "ayah": 3,
+        "word": "اِ۬لۡمَبۡثُوثِ",
+        "wordIndex": 5
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 101,
+        "ayah": 5,
+        "word": "ثَقُلَتۡ",
+        "wordIndex": 3
+      }
+    },
+    {
+      "line": 6,
+      "first_word": {
+        "type": "word",
+        "surah": 101,
+        "ayah": 5,
+        "word": "مَوَٰزِينُهُۥ",
+        "wordIndex": 4
+      },
+      "end_word": {
+        "type": "ayah_marker",
+        "surah": 101,
+        "ayah": 7,
+        "number": 7
+      }
+    },
+    {
+      "line": 7,
+      "first_word": {
+        "type": "word",
+        "surah": 101,
+        "ayah": 8,
+        "word": "فَأُمُّهُۥ",
+        "wordIndex": 1
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 101,
+        "ayah": 10,
+        "word": "نَارٌ",
+        "wordIndex": 1
+      }
+    },
+    {
+      "line": 8,
+      "first_word": {
+        "type": "word",
+        "surah": 101,
+        "ayah": 10,
+        "word": "حَامِيَةُۢ",
+        "wordIndex": 2
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 102,
+        "ayah": 3,
+        "word": "تَعۡلَمُونَ",
+        "wordIndex": 3
+      }
+    },
+    {
+      "line": 9,
+      "first_word": {
+        "type": "ayah_marker",
+        "surah": 102,
+        "ayah": 3,
+        "number": 3
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 102,
+        "ayah": 6,
+        "word": "اَ۬لۡجَحِيمَ",
+        "wordIndex": 2
+      }
+    },
+    {
+      "line": 10,
+      "first_word": {
+        "type": "ayah_marker",
+        "surah": 102,
+        "ayah": 6,
+        "number": 6
+      },
+      "end_word": {
+        "type": "ayah_marker",
+        "surah": 102,
+        "ayah": 8,
+        "number": 8
+      }
+    }
+  ]
+}
