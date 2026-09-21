@@ -1,0 +1,67 @@
+{
+  "schema_version": 3,
+  "surahId": 109,
+  "surahName": "الكافرون",
+  "startPage": 603,
+  "endPage": 603,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 3,
+  "ayaCount": 6,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 603,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 1,
+            "word": "قُلْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 2,
+            "number": 2
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 3,
+            "word": "وَلَآ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 4,
+            "number": 4
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 109,
+            "ayah": 5,
+            "word": "وَلَآ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 109,
+            "ayah": 6,
+            "number": 6
+          }
+        }
+      ]
+    }
+  ]
+}

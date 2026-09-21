@@ -1,0 +1,52 @@
+{
+  "schema_version": 3,
+  "surahId": 103,
+  "surahName": "العصر",
+  "startPage": 601,
+  "endPage": 601,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 2,
+  "ayaCount": 2,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 601,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 103,
+            "ayah": 1,
+            "word": "وَالْعَصْرِ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 103,
+            "ayah": 2,
+            "word": "وَعَمِلُواْ",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 103,
+            "ayah": 2,
+            "word": "اُ۬لصَّٰلِحَٰتِ",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 104,
+            "ayah": 1,
+            "number": 1
+          }
+        }
+      ]
+    }
+  ]
+}
