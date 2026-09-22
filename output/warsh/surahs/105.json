@@ -1,0 +1,69 @@
+{
+  "schema_version": 3,
+  "surahId": 105,
+  "surahName": "الفيل",
+  "startPage": 601,
+  "endPage": 601,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 3,
+  "ayaCount": 5,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pdf_alignment_version": 4,
+  "pages": [
+    {
+      "page": 601,
+      "lines": [
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 105,
+            "ayah": 1,
+            "word": "اَلَمْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 105,
+            "ayah": 2,
+            "word": "يَجْعَلْ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 105,
+            "ayah": 2,
+            "word": "كَيْدَهُمْ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 105,
+            "ayah": 3,
+            "number": 3
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 105,
+            "ayah": 4,
+            "word": "تَرْمِيهِم",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 105,
+            "ayah": 5,
+            "number": 5
+          }
+        }
+      ]
+    }
+  ]
+}

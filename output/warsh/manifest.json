@@ -1,0 +1,25 @@
+{
+  "schema_version": 3,
+  "layout_source": "pdf",
+  "pdf_alignment_version": 4,
+  "word_boundary_method": "rawdict_visual_line_units_exact_or_bounded_constrained_dp",
+  "qiraah": "warsh",
+  "font_family": null,
+  "font_required_for_builder": false,
+  "source_pdf": "input/warsh/mushaf.pdf",
+  "source_sqlite": "input/warsh/quran.sqlite",
+  "source_qiraah_expected": "warsh",
+  "source_qiraah_detected": "warsh",
+  "source_compatibility": "matched",
+  "total_pages": 604,
+  "total_surahs": 114,
+  "review_required_pages": 5,
+  "review_pages": [
+    272,
+    309,
+    334,
+    379,
+    454
+  ],
+  "review_policy": "Only pages whose rawdict visual word structure matches SQLite (or receives a bounded correction) and whose marker geometry agrees are treated as verified."
+}
