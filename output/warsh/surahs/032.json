@@ -1,0 +1,701 @@
+{
+  "schema_version": 3,
+  "surahId": 32,
+  "surahName": "السجدة",
+  "startPage": 415,
+  "endPage": 417,
+  "totalPagesInSurah": 3,
+  "totalCompletedLines": 40,
+  "ayaCount": 30,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 415,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 1,
+            "word": "اَلَٓمِّٓۖ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 2,
+            "word": "هُوَ",
+            "wordIndex": 5
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 2,
+            "word": "اَ۬لْحَقُّ",
+            "wordIndex": 6
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 32,
+            "ayah": 2,
+            "number": 2
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 3,
+            "word": "اَ۬للَّهُ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 3,
+            "word": "فِے",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 3,
+            "word": "سِتَّةِ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 3,
+            "word": "وَّلِيّٖ",
+            "wordIndex": 20
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 3,
+            "word": "وَلَا",
+            "wordIndex": 21
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 4,
+            "word": "ثُمَّ",
+            "wordIndex": 7
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 4,
+            "word": "يَعْرُجُ",
+            "wordIndex": 8
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 32,
+            "ayah": 4,
+            "number": 4
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 5,
+            "word": "ذَٰلِكَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 6,
+            "word": "أَحْسَنَ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 6,
+            "word": "كُلَّ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 7,
+            "word": "ثُمَّ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 7,
+            "word": "جَعَلَ",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 8,
+            "word": "فِيهِ",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 8,
+            "word": "مِن",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 8,
+            "word": "وَالَافْـِٕدَةَۖ",
+            "wordIndex": 11
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 8,
+            "word": "قَلِيلاٗ",
+            "wordIndex": 12
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 9,
+            "word": "إِنَّا",
+            "wordIndex": 6
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 9,
+            "word": "لَفِے",
+            "wordIndex": 7
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 11,
+            "word": "يَتَوَفّ۪يٰكُم",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 13,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 11,
+            "word": "مَّلَكُ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 32,
+            "ayah": 11,
+            "number": 11
+          }
+        }
+      ]
+    },
+    {
+      "page": 416,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 12,
+            "word": "وَلَوْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 12,
+            "word": "أَبْصَرْنَا",
+            "wordIndex": 10
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 12,
+            "word": "وَسَمِعْنَا",
+            "wordIndex": 11
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 13,
+            "word": "شِئْنَا",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 13,
+            "word": "لَأٓتَيْنَا",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 13,
+            "word": "لَأَمْلَأَنَّ",
+            "wordIndex": 11
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 13,
+            "word": "جَهَنَّمَ",
+            "wordIndex": 12
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 14,
+            "word": "لِقَآءَ",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 14,
+            "word": "يَوْمِكُمْ",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 14,
+            "word": "كُنتُمْ",
+            "wordIndex": 13
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 14,
+            "word": "تَعْمَلُونَۖ",
+            "wordIndex": 14
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 15,
+            "word": "خَرُّواْ",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 15,
+            "word": "سُجَّداٗ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 32,
+            "ayah": 15,
+            "number": 15
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 16,
+            "word": "تَتَجَاف۪ىٰ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 16,
+            "word": "وَمِمَّا",
+            "wordIndex": 9
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 16,
+            "word": "رَزَقْنَٰهُمْ",
+            "wordIndex": 10
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 17,
+            "word": "قُرَّةِ",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 17,
+            "word": "أَعْيُنٖ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 18,
+            "word": "كَانَ",
+            "wordIndex": 5
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 18,
+            "word": "فَاسِقاٗۖ",
+            "wordIndex": 6
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 19,
+            "word": "فَلَهُمْ",
+            "wordIndex": 6
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 19,
+            "word": "جَنَّٰتُ",
+            "wordIndex": 7
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 20,
+            "word": "فَسَقُواْ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 13,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 20,
+            "word": "فَمَأْو۪يٰهُمُ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 20,
+            "word": "فِيهَا",
+            "wordIndex": 12
+          }
+        },
+        {
+          "line": 14,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 20,
+            "word": "وَقِيلَ",
+            "wordIndex": 13
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 32,
+            "ayah": 20,
+            "number": 20
+          }
+        }
+      ]
+    },
+    {
+      "page": 417,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 21,
+            "word": "وَلَنُذِيقَنَّهُم",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 21,
+            "word": "لَعَلَّهُمْ",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 21,
+            "word": "يَرْجِعُونَۖ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 22,
+            "word": "إِنَّا",
+            "wordIndex": 10
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 22,
+            "word": "مِنَ",
+            "wordIndex": 11
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 23,
+            "word": "تَكُن",
+            "wordIndex": 6
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 23,
+            "word": "فِے",
+            "wordIndex": 7
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 24,
+            "word": "مِنْهُمُۥٓ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 24,
+            "word": "أَئِمَّةٗ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 32,
+            "ayah": 24,
+            "number": 24
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 25,
+            "word": "إِنَّ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 25,
+            "word": "فِيهِ",
+            "wordIndex": 10
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 25,
+            "word": "يَخْتَلِفُونَۖ",
+            "wordIndex": 11
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 26,
+            "word": "مِّنَ",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 26,
+            "word": "اَ۬لْقُرُونِ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 26,
+            "word": "اَفَلَا",
+            "wordIndex": 17
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 26,
+            "word": "يَسْمَعُونَۖ",
+            "wordIndex": 18
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 27,
+            "word": "اِ۬لْجُرُزِ",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 27,
+            "word": "فَنُخْرِجُ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 27,
+            "word": "أَفَلَا",
+            "wordIndex": 16
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 27,
+            "word": "يُبْصِرُونَۖ",
+            "wordIndex": 17
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 29,
+            "word": "يَوْمَ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 29,
+            "word": "اَ۬لْفَتْحِ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 32,
+            "ayah": 29,
+            "number": 29
+          }
+        },
+        {
+          "line": 13,
+          "first_word": {
+            "type": "word",
+            "surah": 32,
+            "ayah": 30,
+            "word": "فَأَعْرِضْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 32,
+            "ayah": 30,
+            "number": 30
+          }
+        }
+      ]
+    }
+  ]
+}
