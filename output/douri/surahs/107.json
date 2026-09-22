@@ -1,0 +1,83 @@
+{
+  "schema_version": 3,
+  "surahId": 107,
+  "surahName": "الماعون",
+  "startPage": 602,
+  "endPage": 602,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 4,
+  "ayaCount": 6,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 602,
+      "lines": [
+        {
+          "line": 4,
+          "first_word": {
+            "type": "ayah_marker",
+            "surah": 106,
+            "ayah": 5,
+            "number": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 107,
+            "ayah": 2,
+            "word": "اَ۬لَّذِي",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 107,
+            "ayah": 2,
+            "word": "يَدُعُّ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 107,
+            "ayah": 3,
+            "number": 3
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 107,
+            "ayah": 4,
+            "word": "فَوَيۡلٞ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 107,
+            "ayah": 5,
+            "number": 5
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 107,
+            "ayah": 6,
+            "word": "اَ۬لَّذِينَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 107,
+            "ayah": 6,
+            "number": 6
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 3,
+  "surahId": 111,
+  "surahName": "المسد",
+  "startPage": 603,
+  "endPage": 603,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 3,
+  "ayaCount": 5,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 603,
+      "lines": [
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 110,
+            "ayah": 3,
+            "word": "إِنَّهُۥ",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 111,
+            "ayah": 2,
+            "word": "عَنۡهُ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 111,
+            "ayah": 2,
+            "word": "مَالُهُۥ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 111,
+            "ayah": 4,
+            "number": 4
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 111,
+            "ayah": 5,
+            "word": "فِي",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 111,
+            "ayah": 5,
+            "number": 5
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 3,
+  "surahId": 94,
+  "surahName": "الشرح",
+  "startPage": 596,
+  "endPage": 597,
+  "totalPagesInSurah": 2,
+  "totalCompletedLines": 3,
+  "ayaCount": 6,
+  "font_family": null,
+  "layout_source": "pdf",
+  "pages": [
+    {
+      "page": 596,
+      "lines": [
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 94,
+            "ayah": 1,
+            "word": "أَلَمۡ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 94,
+            "ayah": 2,
+            "number": 2
+          }
+        }
+      ]
+    },
+    {
+      "page": 597,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 94,
+            "ayah": 3,
+            "word": "اَ۬لَّذِيٓ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 94,
+            "ayah": 5,
+            "number": 5
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 94,
+            "ayah": 6,
+            "word": "إِنَّ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 95,
+            "ayah": 1,
+            "word": "وَاَلتِّينِ",
+            "wordIndex": 1
+          }
+        }
+      ]
+    }
+  ]
+}
