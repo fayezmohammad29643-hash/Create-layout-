@@ -1,0 +1,85 @@
+{
+  "schema_version": 3,
+  "surahId": 99,
+  "surahName": "الزَّلۡزَلَةِ",
+  "startPage": 599,
+  "endPage": 599,
+  "totalPagesInSurah": 1,
+  "totalCompletedLines": 4,
+  "ayaCount": 8,
+  "font_family": "KFGQPC QALOON Uthmanic Script",
+  "layout_source": "docx",
+  "pages": [
+    {
+      "page": 599,
+      "lines": [
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 99,
+            "ayah": 1,
+            "word": "إِذَا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 99,
+            "ayah": 3,
+            "word": "وَقَالَ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 99,
+            "ayah": 3,
+            "word": "ٱلۡإِنسَٰنُ",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 99,
+            "ayah": 5,
+            "number": 5
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 99,
+            "ayah": 6,
+            "word": "يَوۡمَئِذٖ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 99,
+            "ayah": 7,
+            "word": "يَعۡمَلۡ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 99,
+            "ayah": 7,
+            "word": "مِثۡقَالَ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 99,
+            "ayah": 8,
+            "number": 8
+          }
+        }
+      ]
+    }
+  ]
+}
