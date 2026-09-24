@@ -1,0 +1,31 @@
+{
+  "schema_version": 3,
+  "layout_source": "doc+sqlite",
+  "qiraah": "douri",
+  "font_family": null,
+  "expected_pages": 604,
+  "expected_surahs": 114,
+  "source_format": "legacy_ms_doc",
+  "tokenization": {
+    "ignore_sqlite_page_field": true,
+    "doc_line_match": "canonical_concatenation",
+    "terminal_ayah_marker_from_sqlite": true,
+    "arabic_rtl_marker_tolerant": true
+  },
+  "validation": {
+    "review_on_source_marker_mismatch": false,
+    "strict_requires_zero_review_pages": true
+  },
+  "output_mode": "pages_and_surahs",
+  "source_integrity": {
+    "doc": {
+      "filename": "UthmanicDoori1 Ver05.doc",
+      "sha256": "7415180e013b4b3a208152240ba6a74f0347e632a115c665eb3773deda853a8c"
+    },
+    "sqlite": {
+      "filename": "quran.sqlite",
+      "sha256": "df332390de5bb659e8dad57db1ef4df29c5a185fadbbe9ddffe542a32c53bfdd"
+    },
+    "mode": "exact_versioned_pair"
+  }
+}

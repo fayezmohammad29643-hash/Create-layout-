@@ -1,0 +1,31 @@
+{
+  "schema_version": 3,
+  "layout_source": "doc+sqlite",
+  "qiraah": "warsh",
+  "font_family": null,
+  "expected_pages": 604,
+  "expected_surahs": 114,
+  "source_format": "legacy_ms_doc",
+  "tokenization": {
+    "ignore_sqlite_page_field": true,
+    "doc_line_match": "canonical_concatenation",
+    "terminal_ayah_marker_from_sqlite": true,
+    "arabic_rtl_marker_tolerant": true
+  },
+  "validation": {
+    "review_on_source_marker_mismatch": false,
+    "strict_requires_zero_review_pages": true
+  },
+  "output_mode": "pages_and_surahs",
+  "source_integrity": {
+    "doc": {
+      "filename": "UthmanicWarsh1 Ver05.doc",
+      "sha256": "de4ec53fdd23675f2e5978e5493e03fe24d1a0165e3fdfd4bae001f259620903"
+    },
+    "sqlite": {
+      "filename": "quran.sqlite",
+      "sha256": "f04c53cacb75ae6689f02cc48da5a1a6c667a3d22e5222a4d5b9f2a72bce4b7e"
+    },
+    "mode": "exact_versioned_pair"
+  }
+}
