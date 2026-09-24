@@ -1,0 +1,20 @@
+{
+  "schema_version": 3,
+  "layout_source": "doc+sqlite",
+  "qiraah": "douri",
+  "font_family": null,
+  "source": {
+    "doc": "UthmanicDoori1 Ver05.doc",
+    "sqlite": "quran.sqlite",
+    "sqlite_page_field_used": false,
+    "doc_sha256": "7415180e013b4b3a208152240ba6a74f0347e632a115c665eb3773deda853a8c",
+    "sqlite_sha256": "df332390de5bb659e8dad57db1ef4df29c5a185fadbbe9ddffe542a32c53bfdd",
+    "integrity_policy": "sha256_exact_source_pair",
+    "raw_beginpage_count": 585,
+    "raw_page_segments": 586,
+    "split_missing_page_breaks": 18,
+    "formatted_nonempty_lines": 9046
+  },
+  "total_pages": 604,
+  "total_surahs": 114
+}
