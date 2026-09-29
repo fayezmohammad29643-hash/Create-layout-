@@ -1,0 +1,27 @@
+{
+  "schema_version": 3,
+  "layout_source": "doc+sqlite",
+  "qiraah": "hafs",
+  "font_family": "KFGQPC HAFS Uthmanic Script",
+  "source": {
+    "doc": "UthmanicHafs1 Ex1 Ver12.doc",
+    "sqlite": "quran.sqlite",
+    "sqlite_page_field_used": true,
+    "sqlite_page_field_role": "secondary_page_range_constraint_only",
+    "alignment_method": "page_bounded_fuzzy_dp",
+    "beam_width": null,
+    "max_candidate_words": 30,
+    "fuzzy_segments": 2106,
+    "total_edit_distance": 2433,
+    "total_sqlite_words": 77797,
+    "doc_sha256": "84aba435dbafcf16a5eede1b3c0c59a58e235443ac6e8a2ec5a2476ea922c91a",
+    "sqlite_sha256": "8ce28bda7f67e4cd0d3e8372ef15e3545a7dfc6d86188cd0394c9b056b5e6ffc",
+    "integrity_policy": "sha256_exact_source_pair",
+    "raw_beginpage_count": 603,
+    "raw_page_segments": 604,
+    "split_missing_page_breaks": 0,
+    "formatted_nonempty_lines": 9046
+  },
+  "total_pages": 604,
+  "total_surahs": 114
+}

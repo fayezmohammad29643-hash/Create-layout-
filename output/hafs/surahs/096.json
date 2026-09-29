@@ -1,0 +1,156 @@
+{
+  "schema_version": 3,
+  "surahId": 96,
+  "surahName": "العَلَقِ",
+  "startPage": 597,
+  "endPage": 598,
+  "totalPagesInSurah": 2,
+  "totalCompletedLines": 8,
+  "ayaCount": 19,
+  "font_family": "KFGQPC HAFS Uthmanic Script",
+  "layout_source": "doc+sqlite",
+  "pages": [
+    {
+      "page": 597,
+      "lines": [
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 1,
+            "word": "اقْرَأْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 3,
+            "word": "اقْرَأْ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 3,
+            "word": "وَرَبُّكَ",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 5,
+            "word": "الْإِنْسَانَ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 5,
+            "word": "مَا",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 96,
+            "ayah": 7,
+            "number": 7
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 8,
+            "word": "إِنَّ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 10,
+            "word": "عَبْدًا",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 10,
+            "word": "إِذَا",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 96,
+            "ayah": 12,
+            "number": 12
+          }
+        }
+      ]
+    },
+    {
+      "page": 598,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 13,
+            "word": "أَرَأَيْتَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 15,
+            "word": "يَنْتَهِ",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 15,
+            "word": "لَنَسْفَعًا",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 96,
+            "ayah": 17,
+            "number": 17
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 96,
+            "ayah": 18,
+            "word": "سَنَدْعُ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 96,
+            "ayah": 19,
+            "number": 19
+          }
+        }
+      ]
+    }
+  ]
+}

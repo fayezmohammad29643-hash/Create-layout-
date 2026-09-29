@@ -1,0 +1,1627 @@
+{
+  "schema_version": 3,
+  "surahId": 30,
+  "surahName": "الرُّومِ",
+  "startPage": 404,
+  "endPage": 410,
+  "totalPagesInSurah": 7,
+  "totalCompletedLines": 94,
+  "ayaCount": 60,
+  "font_family": "KFGQPC HAFS Uthmanic Script",
+  "layout_source": "doc+sqlite",
+  "pages": [
+    {
+      "page": 404,
+      "lines": [
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 1,
+            "word": "الم",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 3,
+            "word": "مِنْ",
+            "wordIndex": 5
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 3,
+            "word": "بَعْدِ",
+            "wordIndex": 6
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 4,
+            "word": "الْأَمْرُ",
+            "wordIndex": 5
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 4,
+            "word": "مِنْ",
+            "wordIndex": 6
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 4,
+            "number": 4
+          }
+        },
+        {
+          "line": 13,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 5,
+            "word": "بِنَصْرِ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 5,
+            "number": 5
+          }
+        }
+      ]
+    },
+    {
+      "page": 405,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 6,
+            "word": "وَعْدَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 6,
+            "number": 6
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 7,
+            "word": "يَعْلَمُونَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 7,
+            "word": "هُمْ",
+            "wordIndex": 9
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 7,
+            "word": "غَافِلُونَ",
+            "wordIndex": 10
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 8,
+            "word": "السَّمَاوَاتِ",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 8,
+            "word": "وَالْأَرْضَ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 8,
+            "word": "كَثِيرًا",
+            "wordIndex": 17
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 8,
+            "word": "مِنَ",
+            "wordIndex": 18
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 9,
+            "word": "فِي",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 9,
+            "word": "الْأَرْضِ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 9,
+            "word": "كَانُوا",
+            "wordIndex": 12
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 9,
+            "word": "أَشَدَّ",
+            "wordIndex": 13
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 9,
+            "word": "مِمَّا",
+            "wordIndex": 20
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 9,
+            "word": "عَمَرُوهَا",
+            "wordIndex": 21
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 9,
+            "word": "اللَّهُ",
+            "wordIndex": 27
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 9,
+            "word": "لِيَظْلِمَهُمْ",
+            "wordIndex": 28
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 10,
+            "word": "كَانَ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 10,
+            "word": "عَاقِبَةَ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 10,
+            "word": "بِهَا",
+            "wordIndex": 12
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 10,
+            "word": "يَسْتَهْزِئُونَ",
+            "wordIndex": 13
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 11,
+            "number": 11
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 12,
+            "word": "وَيَوْمَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 13,
+            "word": "مِنْ",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 13,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 13,
+            "word": "شُرَكَائِهِمْ",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 13,
+            "number": 13
+          }
+        },
+        {
+          "line": 14,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 14,
+            "word": "وَيَوْمَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 15,
+            "word": "الَّذِينَ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 15,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 15,
+            "word": "آمَنُوا",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 15,
+            "number": 15
+          }
+        }
+      ]
+    },
+    {
+      "page": 406,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 16,
+            "word": "وَأَمَّا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 16,
+            "word": "الْآخِرَةِ",
+            "wordIndex": 7
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 16,
+            "word": "فَأُولَٰئِكَ",
+            "wordIndex": 8
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 17,
+            "word": "تُمْسُونَ",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 17,
+            "word": "وَحِينَ",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 18,
+            "word": "وَالْأَرْضِ",
+            "wordIndex": 5
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 18,
+            "word": "وَعَشِيًّا",
+            "wordIndex": 6
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 19,
+            "word": "وَيُخْرِجُ",
+            "wordIndex": 5
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 19,
+            "word": "الْمَيِّتَ",
+            "wordIndex": 6
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 19,
+            "number": 19
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 20,
+            "word": "وَمِنْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 20,
+            "word": "بَشَرٌ",
+            "wordIndex": 10
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 20,
+            "word": "تَنْتَشِرُونَ",
+            "wordIndex": 11
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 21,
+            "word": "أَنْفُسِكُمْ",
+            "wordIndex": 7
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 21,
+            "word": "أَزْوَاجًا",
+            "wordIndex": 8
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 21,
+            "word": "وَرَحْمَةًۚ",
+            "wordIndex": 14
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 21,
+            "word": "إِنَّ",
+            "wordIndex": 15
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 22,
+            "word": "آيَاتِهِ",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 22,
+            "word": "خَلْقُ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 22,
+            "word": "وَأَلْوَانِكُمْۚ",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 22,
+            "word": "إِنَّ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 23,
+            "word": "مَنَامُكُمْ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 23,
+            "word": "بِاللَّيْلِ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 23,
+            "word": "ذَٰلِكَ",
+            "wordIndex": 11
+          }
+        },
+        {
+          "line": 13,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 23,
+            "word": "لَآيَاتٍ",
+            "wordIndex": 12
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 24,
+            "word": "الْبَرْقَ",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 14,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 24,
+            "word": "خَوْفًا",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 24,
+            "word": "الْأَرْضَ",
+            "wordIndex": 13
+          }
+        },
+        {
+          "line": 15,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 24,
+            "word": "بَعْدَ",
+            "wordIndex": 14
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 24,
+            "number": 24
+          }
+        }
+      ]
+    },
+    {
+      "page": 407,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 25,
+            "word": "وَمِنْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 25,
+            "word": "دَعَاكُمْ",
+            "wordIndex": 10
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 25,
+            "word": "دَعْوَةً",
+            "wordIndex": 11
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 26,
+            "word": "السَّمَاوَاتِ",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 26,
+            "word": "وَالْأَرْضِۖ",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 27,
+            "word": "ثُمَّ",
+            "wordIndex": 5
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 27,
+            "word": "يُعِيدُهُ",
+            "wordIndex": 6
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 27,
+            "word": "السَّمَاوَاتِ",
+            "wordIndex": 14
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 27,
+            "word": "وَالْأَرْضِۚ",
+            "wordIndex": 15
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 28,
+            "word": "مَثَلًا",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 28,
+            "word": "مِنْ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 28,
+            "word": "مِنْ",
+            "wordIndex": 12
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 28,
+            "word": "شُرَكَاءَ",
+            "wordIndex": 13
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 28,
+            "word": "تَخَافُونَهُمْ",
+            "wordIndex": 20
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 28,
+            "word": "كَخِيفَتِكُمْ",
+            "wordIndex": 21
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 28,
+            "word": "لِقَوْمٍ",
+            "wordIndex": 26
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 28,
+            "word": "يَعْقِلُونَ",
+            "wordIndex": 27
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 29,
+            "word": "عِلْمٍۖ",
+            "wordIndex": 7
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 29,
+            "word": "فَمَنْ",
+            "wordIndex": 8
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 30,
+            "word": "فَأَقِمْ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 30,
+            "word": "وَجْهَكَ",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 30,
+            "word": "عَلَيْهَاۚ",
+            "wordIndex": 10
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 30,
+            "word": "لَا",
+            "wordIndex": 11
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 30,
+            "word": "أَكْثَرَ",
+            "wordIndex": 19
+          }
+        },
+        {
+          "line": 13,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 30,
+            "word": "النَّاسِ",
+            "wordIndex": 20
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 31,
+            "word": "وَأَقِيمُوا",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 14,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 31,
+            "word": "الصَّلَاةَ",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 32,
+            "word": "فَرَّقُوا",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 15,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 32,
+            "word": "دِينَهُمْ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 32,
+            "number": 32
+          }
+        }
+      ]
+    },
+    {
+      "page": 408,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 33,
+            "word": "وَإِذَا",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 33,
+            "word": "أَذَاقَهُمْ",
+            "wordIndex": 11
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 33,
+            "word": "مِنْهُ",
+            "wordIndex": 12
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 34,
+            "word": "بِمَا",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 34,
+            "word": "آتَيْنَاهُمْۚ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 35,
+            "word": "عَلَيْهِمْ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 35,
+            "word": "سُلْطَانًا",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 36,
+            "word": "أَذَقْنَا",
+            "wordIndex": 2
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 36,
+            "word": "النَّاسَ",
+            "wordIndex": 3
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 36,
+            "word": "أَيْدِيهِمْ",
+            "wordIndex": 12
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 36,
+            "word": "إِذَا",
+            "wordIndex": 13
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 37,
+            "word": "يَشَاءُ",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 37,
+            "word": "وَيَقْدِرُۚ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 38,
+            "word": "الْقُرْبَىٰ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 38,
+            "word": "حَقَّهُ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 38,
+            "word": "يُرِيدُونَ",
+            "wordIndex": 11
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 38,
+            "word": "وَجْهَ",
+            "wordIndex": 12
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 39,
+            "word": "رِبًا",
+            "wordIndex": 4
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 39,
+            "word": "لِيَرْبُوَ",
+            "wordIndex": 5
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 39,
+            "word": "مِنْ",
+            "wordIndex": 15
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 39,
+            "word": "زَكَاةٍ",
+            "wordIndex": 16
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 39,
+            "number": 39
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 40,
+            "word": "اللَّهُ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 40,
+            "word": "مِنْ",
+            "wordIndex": 11
+          }
+        },
+        {
+          "line": 13,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 40,
+            "word": "شُرَكَائِكُمْ",
+            "wordIndex": 12
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 40,
+            "word": "وَتَعَالَىٰ",
+            "wordIndex": 20
+          }
+        },
+        {
+          "line": 14,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 40,
+            "word": "عَمَّا",
+            "wordIndex": 21
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 41,
+            "word": "كَسَبَتْ",
+            "wordIndex": 7
+          }
+        },
+        {
+          "line": 15,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 41,
+            "word": "أَيْدِي",
+            "wordIndex": 8
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 41,
+            "number": 41
+          }
+        }
+      ]
+    },
+    {
+      "page": 409,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 42,
+            "word": "قُلْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 42,
+            "word": "قَبْلُۚ",
+            "wordIndex": 11
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 42,
+            "word": "كَانَ",
+            "wordIndex": 12
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 43,
+            "word": "مِنْ",
+            "wordIndex": 5
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 43,
+            "word": "قَبْلِ",
+            "wordIndex": 6
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 44,
+            "word": "مَنْ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 44,
+            "word": "كَفَرَ",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 44,
+            "number": 44
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 45,
+            "word": "لِيَجْزِيَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 45,
+            "word": "يُحِبُّ",
+            "wordIndex": 10
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 45,
+            "word": "الْكَافِرِينَ",
+            "wordIndex": 11
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 46,
+            "word": "وَلِيُذِيقَكُمْ",
+            "wordIndex": 7
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 46,
+            "word": "مِنْ",
+            "wordIndex": 8
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 46,
+            "word": "وَلَعَلَّكُمْ",
+            "wordIndex": 16
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 46,
+            "word": "تَشْكُرُونَ",
+            "wordIndex": 17
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 47,
+            "word": "فَجَاءُوهُمْ",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 47,
+            "word": "بِالْبَيِّنَاتِ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 47,
+            "word": "نَصْرُ",
+            "wordIndex": 17
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 47,
+            "word": "الْمُؤْمِنِينَ",
+            "wordIndex": 18
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 48,
+            "word": "فَيَبْسُطُهُ",
+            "wordIndex": 7
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 48,
+            "word": "فِي",
+            "wordIndex": 8
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 48,
+            "word": "مِنْ",
+            "wordIndex": 17
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 48,
+            "word": "خِلَالِهِۖ",
+            "wordIndex": 18
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 48,
+            "number": 48
+          }
+        },
+        {
+          "line": 13,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 49,
+            "word": "وَإِنْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 49,
+            "number": 49
+          }
+        },
+        {
+          "line": 14,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 50,
+            "word": "فَانْظُرْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 50,
+            "word": "مَوْتِهَاۚ",
+            "wordIndex": 10
+          }
+        },
+        {
+          "line": 15,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 50,
+            "word": "إِنَّ",
+            "wordIndex": 11
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 50,
+            "number": 50
+          }
+        }
+      ]
+    },
+    {
+      "page": 410,
+      "lines": [
+        {
+          "line": 1,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 51,
+            "word": "وَلَئِنْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 51,
+            "number": 51
+          }
+        },
+        {
+          "line": 2,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 52,
+            "word": "فَإِنَّكَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 52,
+            "word": "وَلَّوْا",
+            "wordIndex": 10
+          }
+        },
+        {
+          "line": 3,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 52,
+            "word": "مُدْبِرِينَ",
+            "wordIndex": 11
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 53,
+            "word": "إِلَّا",
+            "wordIndex": 9
+          }
+        },
+        {
+          "line": 4,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 53,
+            "word": "مَنْ",
+            "wordIndex": 10
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 54,
+            "word": "خَلَقَكُمْ",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 5,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 54,
+            "word": "مِنْ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 54,
+            "word": "بَعْدِ",
+            "wordIndex": 15
+          }
+        },
+        {
+          "line": 6,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 54,
+            "word": "قُوَّةٍ",
+            "wordIndex": 16
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 54,
+            "number": 54
+          }
+        },
+        {
+          "line": 7,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 55,
+            "word": "وَيَوْمَ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 55,
+            "word": "غَيْرَ",
+            "wordIndex": 8
+          }
+        },
+        {
+          "line": 8,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 55,
+            "word": "سَاعَةٍۚ",
+            "wordIndex": 9
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 56,
+            "word": "أُوتُوا",
+            "wordIndex": 3
+          }
+        },
+        {
+          "line": 9,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 56,
+            "word": "الْعِلْمَ",
+            "wordIndex": 4
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 56,
+            "word": "الْبَعْثِۖ",
+            "wordIndex": 13
+          }
+        },
+        {
+          "line": 10,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 56,
+            "word": "فَهَٰذَا",
+            "wordIndex": 14
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 57,
+            "word": "فَيَوْمَئِذٍ",
+            "wordIndex": 1
+          }
+        },
+        {
+          "line": 11,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 57,
+            "word": "لَا",
+            "wordIndex": 2
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 57,
+            "number": 57
+          }
+        },
+        {
+          "line": 12,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 58,
+            "word": "وَلَقَدْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 58,
+            "word": "مَثَلٍۚ",
+            "wordIndex": 9
+          }
+        },
+        {
+          "line": 13,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 58,
+            "word": "وَلَئِنْ",
+            "wordIndex": 10
+          },
+          "end_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 58,
+            "word": "إِلَّا",
+            "wordIndex": 18
+          }
+        },
+        {
+          "line": 14,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 58,
+            "word": "مُبْطِلُونَ",
+            "wordIndex": 19
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 59,
+            "number": 59
+          }
+        },
+        {
+          "line": 15,
+          "first_word": {
+            "type": "word",
+            "surah": 30,
+            "ayah": 60,
+            "word": "فَاصْبِرْ",
+            "wordIndex": 1
+          },
+          "end_word": {
+            "type": "ayah_marker",
+            "surah": 30,
+            "ayah": 60,
+            "number": 60
+          }
+        }
+      ]
+    }
+  ]
+}
