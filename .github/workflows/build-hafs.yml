@@ -1,0 +1,76 @@
+name: Build Hafs Quran Layouts
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'input/hafs/UthmanicHafs1 Ex1 Ver12.doc'
+      - 'input/hafs/quran.sqlite'
+      - 'scripts/build_hafs_layout.py'
+      - 'scripts/check_doc_layout.py'
+      - 'scripts/build_doc_layout.py'
+      - 'scripts/build_layout.py'
+      - 'config-hafs.json'
+      - 'requirements-hafs.txt'
+      - '.github/workflows/build-hafs.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y antiword
+
+      - name: Install Python dependencies
+        run: pip install -r requirements-hafs.txt
+
+      - name: Verify sources
+        run: |
+          set -euo pipefail
+          test -s 'input/hafs/UthmanicHafs1 Ex1 Ver12.doc'
+          test -s input/hafs/quran.sqlite
+
+      - name: Build Hafs layout from DOC + SQLite
+        run: |
+          rm -rf output/hafs
+          mkdir -p output/hafs
+          python scripts/build_hafs_layout.py \
+            --doc 'input/hafs/UthmanicHafs1 Ex1 Ver12.doc' \
+            --sqlite input/hafs/quran.sqlite \
+            --config config-hafs.json \
+            --output-dir output/hafs
+
+      - name: Validate Hafs output
+        run: |
+          python scripts/check_doc_layout.py \
+            --output-dir output/hafs \
+            --sqlite input/hafs/quran.sqlite \
+            --doc 'input/hafs/UthmanicHafs1 Ex1 Ver12.doc'
+
+      - name: Verify generated output
+        run: |
+          set -euo pipefail
+          test -s output/hafs/manifest.json
+          test "$(find output/hafs/pages -maxdepth 1 -type f -name 'page_*.json' | wc -l)" -eq 604
+          test "$(find output/hafs/surahs -maxdepth 1 -type f -name '*.json' | wc -l)" -eq 114
+
+      - name: Commit generated layouts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A output/hafs/
+          git diff --cached --quiet || git commit -m "Generate Hafs Quran layout JSON files"
+          git push
