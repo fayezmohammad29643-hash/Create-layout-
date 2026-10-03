@@ -5,7 +5,7 @@
     16
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,14 +13,14 @@
         "type": "word",
         "surah": 16,
         "ayah": 55,
-        "word": "لِيَكۡفُرُواْ",
+        "word": "لِيَكْفُرُواْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 16,
         "ayah": 56,
-        "word": "وَيَجۡعَلُونَ",
+        "word": "وَيَجْعَلُونَ",
         "wordIndex": 1
       }
     },
@@ -37,7 +37,7 @@
         "type": "word",
         "surah": 16,
         "ayah": 56,
-        "word": "كُنتُمُۥ",
+        "word": "كُنتُمْ",
         "wordIndex": 11
       }
     },
@@ -47,14 +47,15 @@
         "type": "word",
         "surah": 16,
         "ayah": 56,
-        "word": "تَفۡتَرُونَ",
+        "word": "تَفْتَرُونَۖ",
         "wordIndex": 12
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 16,
         "ayah": 57,
-        "number": 57
+        "word": "يَشْتَهُونَۖ",
+        "wordIndex": 7
       }
     },
     {
@@ -96,14 +97,14 @@
         "type": "word",
         "surah": 16,
         "ayah": 59,
-        "word": "أَمۡ",
+        "word": "أَمْ",
         "wordIndex": 12
       },
       "end_word": {
         "type": "word",
         "surah": 16,
         "ayah": 60,
-        "word": "يُؤۡمِنُونَ",
+        "word": "يُؤْمِنُونَ",
         "wordIndex": 3
       }
     },
@@ -113,14 +114,15 @@
         "type": "word",
         "surah": 16,
         "ayah": 60,
-        "word": "بِٱلۡأٓخِرَةِ",
+        "word": "بِالْأٓخِرَةِ",
         "wordIndex": 4
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 16,
         "ayah": 60,
-        "number": 60
+        "word": "اُ۬لْحَكِيمُۖ",
+        "wordIndex": 12
       }
     },
     {
@@ -129,14 +131,14 @@
         "type": "word",
         "surah": 16,
         "ayah": 61,
-        "word": "وَلَوۡ",
+        "word": "وَلَوْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 16,
         "ayah": 61,
-        "word": "دَآبَّةٖ",
+        "word": "دَآبَّةٖۖ",
         "wordIndex": 10
       }
     },
@@ -146,14 +148,14 @@
         "type": "word",
         "surah": 16,
         "ayah": 61,
-        "word": "وَلَٰكِن",
+        "word": "وَلَٰكِنْ",
         "wordIndex": 11
       },
       "end_word": {
         "type": "word",
         "surah": 16,
         "ayah": 61,
-        "word": "يَسۡتَـٔۡخِرُونَ",
+        "word": "يَسْتَٰٔخِرُونَ",
         "wordIndex": 20
       }
     },
@@ -163,7 +165,7 @@
         "type": "word",
         "surah": 16,
         "ayah": 61,
-        "word": "سَاعَةٗ",
+        "word": "سَاعَةٗۖ",
         "wordIndex": 21
       },
       "end_word": {
@@ -180,14 +182,14 @@
         "type": "word",
         "surah": 16,
         "ayah": 62,
-        "word": "أَلۡسِنَتُهُمُ",
+        "word": "أَلْسِنَتُهُمُ",
         "wordIndex": 6
       },
       "end_word": {
         "type": "word",
         "surah": 16,
         "ayah": 62,
-        "word": "ٱلنَّارَ",
+        "word": "اُ۬لنَّارَ",
         "wordIndex": 15
       }
     },
@@ -197,14 +199,14 @@
         "type": "word",
         "surah": 16,
         "ayah": 62,
-        "word": "وَأَنَّهُمُۥ",
+        "word": "وَأَنَّهُم",
         "wordIndex": 16
       },
       "end_word": {
         "type": "word",
         "surah": 16,
         "ayah": 63,
-        "word": "قَبۡلِكَ",
+        "word": "قَبْلِكَ",
         "wordIndex": 7
       }
     },
@@ -221,7 +223,7 @@
         "type": "word",
         "surah": 16,
         "ayah": 63,
-        "word": "وَلَهُمُۥ",
+        "word": "وَلَهُمْ",
         "wordIndex": 15
       }
     },
@@ -248,7 +250,7 @@
         "type": "word",
         "surah": 16,
         "ayah": 64,
-        "word": "ٱلَّذِي",
+        "word": "اُ۬لذِے",
         "wordIndex": 8
       },
       "end_word": {

@@ -5,7 +5,7 @@
     70
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,7 +13,7 @@
         "type": "word",
         "surah": 70,
         "ayah": 11,
-        "word": "يُبَصَّرُونَهُمُۥۚ",
+        "word": "يُبَصَّرُونَهُمْۖ",
         "wordIndex": 1
       },
       "end_word": {
@@ -36,7 +36,7 @@
         "type": "word",
         "surah": 70,
         "ayah": 14,
-        "word": "جَمِيعٗا",
+        "word": "جَمِيعاٗ",
         "wordIndex": 4
       }
     },
@@ -53,7 +53,7 @@
         "type": "word",
         "surah": 70,
         "ayah": 17,
-        "word": "أَدۡبَرَ",
+        "word": "أَدْبَرَ",
         "wordIndex": 3
       }
     },
@@ -70,7 +70,7 @@
         "type": "word",
         "surah": 70,
         "ayah": 20,
-        "word": "ٱلشَّرُّ",
+        "word": "اُ۬لشَّرُّ",
         "wordIndex": 3
       }
     },
@@ -80,14 +80,14 @@
         "type": "word",
         "surah": 70,
         "ayah": 20,
-        "word": "جَزُوعٗا",
+        "word": "جَزُوعاٗ",
         "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 70,
         "ayah": 23,
-        "word": "هُمُۥ",
+        "word": "هُمْ",
         "wordIndex": 2
       }
     },
@@ -114,7 +114,7 @@
         "type": "word",
         "surah": 70,
         "ayah": 25,
-        "word": "وَٱلۡمَحۡرُومِ",
+        "word": "وَالْمَحْرُومِۖ",
         "wordIndex": 2
       },
       "end_word": {
@@ -131,14 +131,14 @@
         "type": "word",
         "surah": 70,
         "ayah": 27,
-        "word": "رَبِّهِمُۥ",
+        "word": "رَبِّهِم",
         "wordIndex": 5
       },
       "end_word": {
         "type": "word",
         "surah": 70,
         "ayah": 29,
-        "word": "هُمُۥ",
+        "word": "هُمْ",
         "wordIndex": 2
       }
     },
@@ -148,15 +148,15 @@
         "type": "word",
         "surah": 70,
         "ayah": 29,
-        "word": "لِفُرُوجِهِمُۥ",
+        "word": "لِفُرُوجِهِمْ",
         "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 70,
         "ayah": 30,
-        "word": "فَإِنَّهُمُۥ",
-        "wordIndex": 8
+        "word": "أَيْمَٰنُهُمْ",
+        "wordIndex": 7
       }
     },
     {
@@ -165,15 +165,14 @@
         "type": "word",
         "surah": 70,
         "ayah": 30,
-        "word": "غَيۡرُ",
-        "wordIndex": 9
+        "word": "فَإِنَّهُمْ",
+        "wordIndex": 8
       },
       "end_word": {
-        "type": "word",
+        "type": "ayah_marker",
         "surah": 70,
-        "ayah": 32,
-        "word": "وَٱلَّذِينَ",
-        "wordIndex": 1
+        "ayah": 31,
+        "number": 31
       }
     },
     {
@@ -182,14 +181,15 @@
         "type": "word",
         "surah": 70,
         "ayah": 32,
-        "word": "هُمُۥ",
-        "wordIndex": 2
+        "word": "وَالذِينَ",
+        "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 70,
         "ayah": 33,
-        "number": 33
+        "word": "قَآئِمُونَۖ",
+        "wordIndex": 4
       }
     },
     {
@@ -198,7 +198,7 @@
         "type": "word",
         "surah": 70,
         "ayah": 34,
-        "word": "وَٱلَّذِينَ",
+        "word": "وَالذِينَ",
         "wordIndex": 1
       },
       "end_word": {
@@ -221,7 +221,7 @@
         "type": "word",
         "surah": 70,
         "ayah": 37,
-        "word": "ٱلشِّمَالِ",
+        "word": "اِ۬لشِّمَالِ",
         "wordIndex": 4
       }
     },
@@ -231,14 +231,14 @@
         "type": "word",
         "surah": 70,
         "ayah": 37,
-        "word": "عِزِينَ",
+        "word": "عِزِينَۖ",
         "wordIndex": 5
       },
       "end_word": {
         "type": "word",
         "surah": 70,
         "ayah": 39,
-        "word": "خَلَقۡنَٰهُمُۥ",
+        "word": "خَلَقْنَٰهُم",
         "wordIndex": 3
       }
     },
@@ -248,7 +248,7 @@
         "type": "word",
         "surah": 70,
         "ayah": 39,
-        "word": "مِمَّا",
+        "word": "مِّمَّا",
         "wordIndex": 4
       },
       "end_word": {

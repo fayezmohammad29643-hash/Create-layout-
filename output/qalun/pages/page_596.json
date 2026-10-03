@@ -7,7 +7,7 @@
     94
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -22,7 +22,7 @@
         "type": "word",
         "surah": 92,
         "ayah": 12,
-        "word": "عَلَيۡنَا",
+        "word": "عَلَيْنَا",
         "wordIndex": 2
       }
     },
@@ -32,7 +32,7 @@
         "type": "word",
         "surah": 92,
         "ayah": 12,
-        "word": "لَلۡهُدَىٰ",
+        "word": "لَلْهُدَىٰ",
         "wordIndex": 3
       },
       "end_word": {
@@ -65,14 +65,14 @@
         "type": "word",
         "surah": 92,
         "ayah": 17,
-        "word": "ٱلۡأَتۡقَى",
+        "word": "اَ۬لْأَتْقَى",
         "wordIndex": 2
       },
       "end_word": {
         "type": "word",
         "surah": 92,
         "ayah": 19,
-        "word": "نِّعۡمَةٖ",
+        "word": "نِّعْمَةٖ",
         "wordIndex": 5
       }
     },
@@ -82,7 +82,7 @@
         "type": "word",
         "surah": 92,
         "ayah": 19,
-        "word": "تُجۡزَىٰٓ",
+        "word": "تُجْزَىٰ",
         "wordIndex": 6
       },
       "end_word": {
@@ -98,7 +98,7 @@
         "type": "word",
         "surah": 93,
         "ayah": 1,
-        "word": "وَٱلضُّحَىٰ",
+        "word": "وَالضُّحَىٰ",
         "wordIndex": 1
       },
       "end_word": {
@@ -114,7 +114,7 @@
         "type": "word",
         "surah": 93,
         "ayah": 4,
-        "word": "وَلَلۡأٓخِرَةُ",
+        "word": "وَلَلْأٓخِرَةُ",
         "wordIndex": 1
       },
       "end_word": {
@@ -131,14 +131,15 @@
         "type": "word",
         "surah": 93,
         "ayah": 5,
-        "word": "فَتَرۡضَىٰٓ",
+        "word": "فَتَرْضَىٰۖ",
         "wordIndex": 4
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 93,
         "ayah": 7,
-        "number": 7
+        "word": "فَهَدَىٰ",
+        "wordIndex": 3
       }
     },
     {
@@ -151,10 +152,11 @@
         "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 93,
         "ayah": 9,
-        "number": 9
+        "word": "تَقْهَرْۖ",
+        "wordIndex": 4
       }
     },
     {
@@ -179,7 +181,7 @@
         "type": "word",
         "surah": 94,
         "ayah": 1,
-        "word": "أَلَمۡ",
+        "word": "أَلَمْ",
         "wordIndex": 1
       },
       "end_word": {

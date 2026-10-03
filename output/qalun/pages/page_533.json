@@ -5,7 +5,7 @@
     55
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -30,7 +30,7 @@
         "type": "word",
         "surah": 55,
         "ayah": 42,
-        "word": "ٱلۡمُجۡرِمُونَ",
+        "word": "اَ۬لْمُجْرِمُونَ",
         "wordIndex": 6
       },
       "end_word": {
@@ -54,8 +54,8 @@
         "type": "word",
         "surah": 55,
         "ayah": 46,
-        "word": "ءَالَآءِ",
-        "wordIndex": 2
+        "word": "فَبِأَيِّ",
+        "wordIndex": 1
       }
     },
     {
@@ -64,14 +64,15 @@
         "type": "word",
         "surah": 55,
         "ayah": 46,
-        "word": "رَبِّكُمَا",
-        "wordIndex": 3
+        "word": "ءَالَآءِ",
+        "wordIndex": 2
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 55,
         "ayah": 48,
-        "number": 48
+        "word": "تُكَذِّبَانِۖ",
+        "wordIndex": 4
       }
     },
     {
@@ -86,9 +87,9 @@
       "end_word": {
         "type": "word",
         "surah": 55,
-        "ayah": 51,
-        "word": "فِيهِمَا",
-        "wordIndex": 1
+        "ayah": 50,
+        "word": "تُكَذِّبَانِۖ",
+        "wordIndex": 4
       }
     },
     {
@@ -97,15 +98,15 @@
         "type": "word",
         "surah": 55,
         "ayah": 51,
-        "word": "مِن",
-        "wordIndex": 2
+        "word": "فِيهِمَا",
+        "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 55,
-        "ayah": 53,
-        "word": "مُتَّكِـِٔينَ",
-        "wordIndex": 1
+        "ayah": 52,
+        "word": "تُكَذِّبَانِۖ",
+        "wordIndex": 4
       }
     },
     {
@@ -114,15 +115,15 @@
         "type": "word",
         "surah": 55,
         "ayah": 53,
-        "word": "عَلَىٰ",
-        "wordIndex": 2
+        "word": "مُتَّكِـِٕينَ",
+        "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 55,
-        "ayah": 54,
-        "word": "فَبِأَيِّ",
-        "wordIndex": 1
+        "ayah": 53,
+        "word": "دَانٖۖ",
+        "wordIndex": 9
       }
     },
     {
@@ -131,15 +132,15 @@
         "type": "word",
         "surah": 55,
         "ayah": 54,
-        "word": "ءَالَآءِ",
-        "wordIndex": 2
+        "word": "فَبِأَيِّ",
+        "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 55,
         "ayah": 55,
-        "word": "يَطۡمِثۡهُنَّ",
-        "wordIndex": 5
+        "word": "اُ۬لطَّرْفِ",
+        "wordIndex": 3
       }
     },
     {
@@ -148,15 +149,15 @@
         "type": "word",
         "surah": 55,
         "ayah": 55,
-        "word": "إِنسٞ",
-        "wordIndex": 6
+        "word": "لَمْ",
+        "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 55,
-        "ayah": 57,
-        "word": "كَأَنَّهُنَّ",
-        "wordIndex": 1
+        "ayah": 56,
+        "word": "تُكَذِّبَانِۖ",
+        "wordIndex": 4
       }
     },
     {
@@ -165,14 +166,15 @@
         "type": "word",
         "surah": 55,
         "ayah": 57,
-        "word": "ٱلۡيَاقُوتُ",
-        "wordIndex": 2
+        "word": "كَأَنَّهُنَّ",
+        "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 55,
         "ayah": 58,
-        "number": 58
+        "word": "تُكَذِّبَانِۖ",
+        "wordIndex": 4
       }
     },
     {
@@ -181,7 +183,7 @@
         "type": "word",
         "surah": 55,
         "ayah": 59,
-        "word": "هَلۡ",
+        "word": "هَلْ",
         "wordIndex": 1
       },
       "end_word": {
@@ -198,7 +200,7 @@
         "type": "word",
         "surah": 55,
         "ayah": 60,
-        "word": "تُكَذِّبَانِ",
+        "word": "تُكَذِّبَانِۖ",
         "wordIndex": 4
       },
       "end_word": {
@@ -219,10 +221,11 @@
         "wordIndex": 4
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 55,
         "ayah": 64,
-        "number": 64
+        "word": "تُكَذِّبَانِۖ",
+        "wordIndex": 4
       }
     },
     {

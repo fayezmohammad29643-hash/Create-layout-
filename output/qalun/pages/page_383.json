@@ -5,7 +5,7 @@
     27
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,14 +13,14 @@
         "type": "word",
         "surah": 27,
         "ayah": 66,
-        "word": "أَمَّن",
+        "word": "أَمَّنْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 27,
         "ayah": 66,
-        "word": "وَٱلۡأَرۡضِۗ",
+        "word": "وَالْأَرْضِۖ",
         "wordIndex": 10
       }
     },
@@ -54,7 +54,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 67,
-        "word": "يَشۡعُرُونَ",
+        "word": "يَشْعُرُونَ",
         "wordIndex": 12
       }
     },
@@ -71,7 +71,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 68,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 8
       }
     },
@@ -115,7 +115,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 70,
-        "word": "نَحۡنُ",
+        "word": "نَحْنُ",
         "wordIndex": 4
       },
       "end_word": {
@@ -131,14 +131,15 @@
         "type": "word",
         "surah": 27,
         "ayah": 71,
-        "word": "قُلۡ",
+        "word": "قُلْ",
         "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 27,
         "ayah": 71,
-        "number": 71
+        "word": "اُ۬لْمُجْرِمِينَۖ",
+        "wordIndex": 9
       }
     },
     {
@@ -170,7 +171,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 74,
-        "word": "عَسَىٰٓ",
+        "word": "عَسَىٰ",
         "wordIndex": 2
       }
     },
@@ -180,7 +181,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 74,
-        "word": "أَن",
+        "word": "أَنْ",
         "wordIndex": 3
       },
       "end_word": {
@@ -231,14 +232,14 @@
         "type": "word",
         "surah": 27,
         "ayah": 77,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 27,
         "ayah": 78,
-        "word": "ٱلۡقُرۡءَانَ",
+        "word": "اَ۬لْقُرْءَانَ",
         "wordIndex": 3
       }
     },

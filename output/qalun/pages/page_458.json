@@ -6,7 +6,7 @@
     39
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -21,7 +21,7 @@
         "type": "word",
         "surah": 38,
         "ayah": 83,
-        "word": "مِنۡهُمُۥٓ",
+        "word": "مِنْهُمْ",
         "wordIndex": 10
       }
     },
@@ -31,14 +31,15 @@
         "type": "word",
         "surah": 38,
         "ayah": 83,
-        "word": "أَجۡمَعِينَ",
+        "word": "أَجْمَعِينَۖ",
         "wordIndex": 11
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 38,
         "ayah": 84,
-        "number": 84
+        "word": "اَ۬لْمُتَكَلِّفِينَۖ",
+        "wordIndex": 10
       }
     },
     {
@@ -47,7 +48,7 @@
         "type": "word",
         "surah": 38,
         "ayah": 85,
-        "word": "إِنۡ",
+        "word": "إِنْ",
         "wordIndex": 1
       },
       "end_word": {
@@ -70,7 +71,7 @@
         "type": "word",
         "surah": 39,
         "ayah": 2,
-        "word": "إِلَيۡكَ",
+        "word": "إِلَيْكَ",
         "wordIndex": 3
       }
     },
@@ -80,7 +81,7 @@
         "type": "word",
         "surah": 39,
         "ayah": 2,
-        "word": "ٱلۡكِتَٰبَ",
+        "word": "اَ۬لْكِتَٰبَ",
         "wordIndex": 4
       },
       "end_word": {
@@ -97,14 +98,14 @@
         "type": "word",
         "surah": 39,
         "ayah": 3,
-        "word": "لِلَّهِ",
+        "word": "لِلهِ",
         "wordIndex": 2
       },
       "end_word": {
         "type": "word",
         "surah": 39,
         "ayah": 3,
-        "word": "أَوۡلِيَآءَ",
+        "word": "أَوْلِيَآءَ",
         "wordIndex": 9
       }
     },
@@ -121,7 +122,7 @@
         "type": "word",
         "surah": 39,
         "ayah": 3,
-        "word": "يَحۡكُمُ",
+        "word": "يَحْكُمُ",
         "wordIndex": 19
       }
     },
@@ -131,7 +132,7 @@
         "type": "word",
         "surah": 39,
         "ayah": 3,
-        "word": "بَيۡنَهُمُۥ",
+        "word": "بَيْنَهُمْ",
         "wordIndex": 20
       },
       "end_word": {
@@ -155,7 +156,7 @@
         "type": "word",
         "surah": 39,
         "ayah": 5,
-        "word": "لَّٱصۡطَفَىٰ",
+        "word": "لَّاصْطَفَىٰ",
         "wordIndex": 7
       }
     },
@@ -169,10 +170,11 @@
         "wordIndex": 8
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 39,
         "ayah": 5,
-        "number": 5
+        "word": "اُ۬لْقَهَّارُۖ",
+        "wordIndex": 16
       }
     },
     {
@@ -198,14 +200,14 @@
         "type": "word",
         "surah": 39,
         "ayah": 6,
-        "word": "ٱلنَّهَارِ",
+        "word": "اَ۬لنَّهَارِ",
         "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 39,
         "ayah": 6,
-        "word": "وَٱلۡقَمَرَۖ",
+        "word": "وَالْقَمَرَۖ",
         "wordIndex": 15
       }
     },

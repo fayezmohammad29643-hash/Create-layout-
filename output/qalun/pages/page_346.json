@@ -5,7 +5,7 @@
     23
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,7 +13,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 61,
-        "word": "وَٱلَّذِينَ",
+        "word": "وَالذِينَ",
         "wordIndex": 1
       },
       "end_word": {
@@ -46,14 +46,15 @@
         "type": "word",
         "surah": 23,
         "ayah": 63,
-        "word": "نَفۡسًا",
+        "word": "نَفْساً",
         "wordIndex": 3
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 23,
         "ayah": 63,
-        "number": 63
+        "word": "يُظْلَمُونَۖ",
+        "wordIndex": 12
       }
     },
     {
@@ -62,14 +63,14 @@
         "type": "word",
         "surah": 23,
         "ayah": 64,
-        "word": "بَلۡ",
+        "word": "بَلْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 23,
         "ayah": 64,
-        "word": "ذَٰلِكَ",
+        "word": "ذَٰلِكَۖ",
         "wordIndex": 11
       }
     },
@@ -79,14 +80,14 @@
         "type": "word",
         "surah": 23,
         "ayah": 64,
-        "word": "هُمُۥ",
+        "word": "هُمْ",
         "wordIndex": 12
       },
       "end_word": {
         "type": "word",
         "surah": 23,
         "ayah": 65,
-        "word": "هُمُۥ",
+        "word": "هُمْ",
         "wordIndex": 7
       }
     },
@@ -96,14 +97,14 @@
         "type": "word",
         "surah": 23,
         "ayah": 65,
-        "word": "يَجۡـَٔرُونَ",
+        "word": "يَجْـَٔرُونَۖ",
         "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 23,
         "ayah": 67,
-        "word": "كَانَتۡ",
+        "word": "كَانَتْ",
         "wordIndex": 2
       }
     },
@@ -113,7 +114,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 67,
-        "word": "ءَايَٰتِي",
+        "word": "ءَايَٰتِے",
         "wordIndex": 3
       },
       "end_word": {
@@ -129,14 +130,14 @@
         "type": "word",
         "surah": 23,
         "ayah": 68,
-        "word": "مُسۡتَكۡبِرِينَ",
+        "word": "مُسْتَكْبِرِينَ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 23,
         "ayah": 69,
-        "word": "أَمۡ",
+        "word": "أَمْ",
         "wordIndex": 4
       }
     },
@@ -146,14 +147,14 @@
         "type": "word",
         "surah": 23,
         "ayah": 69,
-        "word": "جَآءَهُمُۥ",
+        "word": "جَآءَهُم",
         "wordIndex": 5
       },
       "end_word": {
         "type": "word",
         "surah": 23,
         "ayah": 70,
-        "word": "رَسُولَهُمُۥ",
+        "word": "رَسُولَهُمْ",
         "wordIndex": 4
       }
     },
@@ -163,14 +164,14 @@
         "type": "word",
         "surah": 23,
         "ayah": 70,
-        "word": "فَهُمُۥ",
+        "word": "فَهُمْ",
         "wordIndex": 5
       },
       "end_word": {
         "type": "word",
         "surah": 23,
         "ayah": 71,
-        "word": "بِٱلۡحَقِّ",
+        "word": "بِالْحَقِّۖ",
         "wordIndex": 7
       }
     },
@@ -180,7 +181,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 71,
-        "word": "وَأَكۡثَرُهُمُۥ",
+        "word": "وَأَكْثَرُهُمْ",
         "wordIndex": 8
       },
       "end_word": {
@@ -197,14 +198,14 @@
         "type": "word",
         "surah": 23,
         "ayah": 72,
-        "word": "ٱلسَّمَٰوَٰتُ",
+        "word": "اِ۬لسَّمَٰوَٰتُ",
         "wordIndex": 6
       },
       "end_word": {
         "type": "word",
         "surah": 23,
         "ayah": 72,
-        "word": "فَهُمُۥ",
+        "word": "فَهُمْ",
         "wordIndex": 13
       }
     },
@@ -221,7 +222,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 73,
-        "word": "خَيۡرٞۖ",
+        "word": "خَيْرٞۖ",
         "wordIndex": 6
       }
     },
@@ -231,7 +232,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 73,
-        "word": "وَهۡوَ",
+        "word": "وَهْوَ",
         "wordIndex": 7
       },
       "end_word": {

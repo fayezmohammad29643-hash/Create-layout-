@@ -5,7 +5,7 @@
     74
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -17,10 +17,11 @@
         "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 74,
         "ayah": 22,
-        "number": 22
+        "word": "وَبَسَرَ",
+        "wordIndex": 3
       }
     },
     {
@@ -36,7 +37,7 @@
         "type": "word",
         "surah": 74,
         "ayah": 25,
-        "word": "هَٰذَآ",
+        "word": "هَٰذَا",
         "wordIndex": 2
       }
     },
@@ -69,7 +70,7 @@
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "جَعَلۡنَآ",
+        "word": "جَعَلْنَا",
         "wordIndex": 2
       }
     },
@@ -79,7 +80,7 @@
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "أَصۡحَٰبَ",
+        "word": "أَصْحَٰبَ",
         "wordIndex": 3
       },
       "end_word": {
@@ -96,14 +97,14 @@
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "لِيَسۡتَيۡقِنَ",
+        "word": "لِيَسْتَيْقِنَ",
         "wordIndex": 14
       },
       "end_word": {
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "يَرۡتَابَ",
+        "word": "يَرْتَابَ",
         "wordIndex": 23
       }
     },
@@ -113,14 +114,14 @@
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "ٱلَّذِينَ",
+        "word": "اَ۬لذِينَ",
         "wordIndex": 24
       },
       "end_word": {
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "مَرَضٞ",
+        "word": "مَّرَضٞ",
         "wordIndex": 32
       }
     },
@@ -130,14 +131,14 @@
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "وَٱلۡكَٰفِرُونَ",
+        "word": "وَالْكَٰفِرُونَ",
         "wordIndex": 33
       },
       "end_word": {
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "يَشَآءُ",
+        "word": "يَّشَآءُ",
         "wordIndex": 43
       }
     },
@@ -147,14 +148,14 @@
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "وَيَهۡدِي",
+        "word": "وَيَهْدِے",
         "wordIndex": 44
       },
       "end_word": {
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "ذِكۡرَىٰ",
+        "word": "ذِكْرَىٰ",
         "wordIndex": 56
       }
     },
@@ -164,7 +165,7 @@
         "type": "word",
         "surah": 74,
         "ayah": 31,
-        "word": "لِلۡبَشَرِ",
+        "word": "لِلْبَشَرِۖ",
         "wordIndex": 57
       },
       "end_word": {
@@ -181,14 +182,15 @@
         "type": "word",
         "surah": 74,
         "ayah": 35,
-        "word": "لَإِحۡدَى",
+        "word": "لَإِحْدَى",
         "wordIndex": 2
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 74,
         "ayah": 37,
-        "number": 37
+        "word": "يَتَأَخَّرَۖ",
+        "wordIndex": 7
       }
     },
     {
@@ -220,7 +222,7 @@
       "end_word": {
         "type": "word",
         "surah": 74,
-        "ayah": 43,
+        "ayah": 42,
         "word": "نَكُ",
         "wordIndex": 3
       }
@@ -230,14 +232,14 @@
       "first_word": {
         "type": "word",
         "surah": 74,
-        "ayah": 43,
+        "ayah": 42,
         "word": "مِنَ",
         "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 74,
-        "ayah": 45,
+        "ayah": 44,
         "word": "مَعَ",
         "wordIndex": 3
       }
@@ -247,15 +249,15 @@
       "first_word": {
         "type": "word",
         "surah": 74,
-        "ayah": 45,
-        "word": "ٱلۡخَآئِضِينَ",
+        "ayah": 44,
+        "word": "اَ۬لْخَآئِضِينَ",
         "wordIndex": 4
       },
       "end_word": {
         "type": "ayah_marker",
         "surah": 74,
-        "ayah": 47,
-        "number": 47
+        "ayah": 46,
+        "number": 46
       }
     }
   ]

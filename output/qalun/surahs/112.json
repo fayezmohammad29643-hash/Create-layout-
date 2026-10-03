@@ -1,14 +1,14 @@
 {
   "schema_version": 3,
   "surahId": 112,
-  "surahName": "الإِخۡلَاصِ",
+  "surahName": "الْإِخْلَاصِ",
   "startPage": 604,
   "endPage": 604,
   "totalPagesInSurah": 1,
   "totalCompletedLines": 2,
   "ayaCount": 4,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 604,
@@ -19,7 +19,7 @@
             "type": "word",
             "surah": 112,
             "ayah": 1,
-            "word": "قُلۡ",
+            "word": "قُلْ",
             "wordIndex": 1
           },
           "end_word": {
@@ -35,7 +35,7 @@
             "type": "word",
             "surah": 112,
             "ayah": 4,
-            "word": "وَلَمۡ",
+            "word": "وَلَمْ",
             "wordIndex": 1
           },
           "end_word": {

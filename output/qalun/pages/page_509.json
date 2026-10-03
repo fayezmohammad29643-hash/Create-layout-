@@ -5,7 +5,7 @@
     47
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -30,14 +30,14 @@
         "type": "word",
         "surah": 47,
         "ayah": 21,
-        "word": "مُّحۡكَمَةٞ",
+        "word": "مُّحْكَمَةٞ",
         "wordIndex": 10
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 21,
-        "word": "مَرَضٞ",
+        "word": "مَّرَضٞ",
         "wordIndex": 18
       }
     },
@@ -51,10 +51,11 @@
         "wordIndex": 19
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 47,
         "ayah": 21,
-        "number": 21
+        "word": "لَهُمْۖ",
+        "wordIndex": 27
       }
     },
     {
@@ -70,7 +71,7 @@
         "type": "word",
         "surah": 47,
         "ayah": 22,
-        "word": "ٱللَّهَ",
+        "word": "اُ۬للَّهَ",
         "wordIndex": 9
       }
     },
@@ -87,7 +88,7 @@
         "type": "word",
         "surah": 47,
         "ayah": 23,
-        "word": "تُفۡسِدُواْ",
+        "word": "تُفْسِدُواْ",
         "wordIndex": 6
       }
     },
@@ -97,7 +98,7 @@
         "type": "word",
         "surah": 47,
         "ayah": 23,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 7
       },
       "end_word": {
@@ -114,14 +115,14 @@
         "type": "word",
         "surah": 47,
         "ayah": 24,
-        "word": "ٱللَّهُ",
+        "word": "اُ۬للَّهُ",
         "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 25,
-        "word": "ٱلۡقُرۡءَانَ",
+        "word": "اَ۬لْقُرْءَانَ",
         "wordIndex": 3
       }
     },
@@ -131,14 +132,14 @@
         "type": "word",
         "surah": 47,
         "ayah": 25,
-        "word": "أَمۡ",
+        "word": "أَمْ",
         "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 26,
-        "word": "أَدۡبَٰرِهِمُۥ",
+        "word": "أَدْبَٰرِهِم",
         "wordIndex": 5
       }
     },
@@ -148,14 +149,14 @@
         "type": "word",
         "surah": 47,
         "ayah": 26,
-        "word": "مِنۢ",
+        "word": "مِّنۢ",
         "wordIndex": 6
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 26,
-        "word": "وَأَمۡلَىٰ",
+        "word": "وَأَمْلَىٰ",
         "wordIndex": 15
       }
     },
@@ -165,14 +166,14 @@
         "type": "word",
         "surah": 47,
         "ayah": 26,
-        "word": "لَهُمُۥ",
+        "word": "لَهُمْۖ",
         "wordIndex": 16
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 27,
-        "word": "ٱللَّهُ",
+        "word": "اَ۬للَّهُ",
         "wordIndex": 8
       }
     },
@@ -182,7 +183,7 @@
         "type": "word",
         "surah": 47,
         "ayah": 27,
-        "word": "سَنُطِيعُكُمُۥ",
+        "word": "سَنُطِيعُكُمْ",
         "wordIndex": 9
       },
       "end_word": {
@@ -198,14 +199,14 @@
         "type": "word",
         "surah": 47,
         "ayah": 28,
-        "word": "فَكَيۡفَ",
+        "word": "فَكَيْفَ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 28,
-        "word": "وُجُوهَهُمُۥ",
+        "word": "وُجُوهَهُمْ",
         "wordIndex": 6
       }
     },
@@ -215,14 +216,14 @@
         "type": "word",
         "surah": 47,
         "ayah": 28,
-        "word": "وَأَدۡبَٰرَهُمُۥ",
+        "word": "وَأَدْبَٰرَهُمْۖ",
         "wordIndex": 7
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 29,
-        "word": "ٱللَّهَ",
+        "word": "اَ۬للَّهَ",
         "wordIndex": 6
       }
     },
@@ -249,7 +250,7 @@
         "type": "word",
         "surah": 47,
         "ayah": 30,
-        "word": "ٱلَّذِينَ",
+        "word": "اَ۬لذِينَ",
         "wordIndex": 3
       },
       "end_word": {

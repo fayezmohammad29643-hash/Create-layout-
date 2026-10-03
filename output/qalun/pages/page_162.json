@@ -5,7 +5,7 @@
     7
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -20,7 +20,7 @@
         "type": "word",
         "surah": 7,
         "ayah": 87,
-        "word": "يَٰشُعَيۡبُ",
+        "word": "يَٰشُعَيْبُ",
         "wordIndex": 8
       }
     },
@@ -30,14 +30,14 @@
         "type": "word",
         "surah": 7,
         "ayah": 87,
-        "word": "وَٱلَّذِينَ",
+        "word": "وَالذِينَ",
         "wordIndex": 9
       },
       "end_word": {
         "type": "word",
         "surah": 7,
         "ayah": 87,
-        "word": "أَوَلَوۡ",
+        "word": "أَوَلَوْ",
         "wordIndex": 19
       }
     },
@@ -54,7 +54,7 @@
         "type": "word",
         "surah": 7,
         "ayah": 88,
-        "word": "بَعۡدَ",
+        "word": "بَعْدَ",
         "wordIndex": 10
       }
     },
@@ -64,14 +64,14 @@
         "type": "word",
         "surah": 7,
         "ayah": 88,
-        "word": "إِذۡ",
+        "word": "إِذْ",
         "wordIndex": 11
       },
       "end_word": {
         "type": "word",
         "surah": 7,
         "ayah": 88,
-        "word": "يَشَآءَ",
+        "word": "يَّشَآءَ",
         "wordIndex": 23
       }
     },
@@ -81,14 +81,14 @@
         "type": "word",
         "surah": 7,
         "ayah": 88,
-        "word": "ٱللَّهُ",
+        "word": "اَ۬للَّهُ",
         "wordIndex": 24
       },
       "end_word": {
         "type": "word",
         "surah": 7,
         "ayah": 88,
-        "word": "ٱفۡتَحۡ",
+        "word": "اَ۪فْتَحْ",
         "wordIndex": 35
       }
     },
@@ -98,15 +98,15 @@
         "type": "word",
         "surah": 7,
         "ayah": 88,
-        "word": "بَيۡنَنَا",
+        "word": "بَيْنَنَا",
         "wordIndex": 36
       },
       "end_word": {
         "type": "word",
         "surah": 7,
         "ayah": 89,
-        "word": "ٱلَّذِينَ",
-        "wordIndex": 3
+        "word": "اَ۬لْمَلَأُ",
+        "wordIndex": 2
       }
     },
     {
@@ -115,14 +115,15 @@
         "type": "word",
         "surah": 7,
         "ayah": 89,
-        "word": "كَفَرُواْ",
-        "wordIndex": 4
+        "word": "اُ۬لذِينَ",
+        "wordIndex": 3
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 7,
         "ayah": 89,
-        "number": 89
+        "word": "لَّخَٰسِرُونَۖ",
+        "wordIndex": 12
       }
     },
     {
@@ -131,14 +132,14 @@
         "type": "word",
         "surah": 7,
         "ayah": 90,
-        "word": "فَأَخَذَتۡهُمُ",
+        "word": "فَأَخَذَتْهُمُ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 7,
         "ayah": 91,
-        "word": "ٱلَّذِينَ",
+        "word": "اَ۬لذِينَ",
         "wordIndex": 1
       }
     },
@@ -172,7 +173,7 @@
         "type": "word",
         "surah": 7,
         "ayah": 92,
-        "word": "أَبۡلَغۡتُكُمُۥ",
+        "word": "أَبْلَغْتُكُمْ",
         "wordIndex": 6
       }
     },
@@ -189,7 +190,7 @@
         "type": "word",
         "surah": 7,
         "ayah": 92,
-        "word": "قَوۡمٖ",
+        "word": "قَوْمٖ",
         "wordIndex": 14
       }
     },
@@ -199,14 +200,14 @@
         "type": "word",
         "surah": 7,
         "ayah": 92,
-        "word": "كَٰفِرِينَ",
+        "word": "كَٰفِرِينَۖ",
         "wordIndex": 15
       },
       "end_word": {
         "type": "word",
         "surah": 7,
         "ayah": 93,
-        "word": "أَهۡلَهَا",
+        "word": "أَهْلَهَا",
         "wordIndex": 9
       }
     },
@@ -216,14 +217,14 @@
         "type": "word",
         "surah": 7,
         "ayah": 93,
-        "word": "بِٱلۡبَأۡسَآءِ",
+        "word": "بِالْبَأْسَآءِ",
         "wordIndex": 10
       },
       "end_word": {
         "type": "word",
         "surah": 7,
         "ayah": 94,
-        "word": "بَدَّلۡنَا",
+        "word": "بَدَّلْنَا",
         "wordIndex": 2
       }
     },
@@ -250,7 +251,7 @@
         "type": "word",
         "surah": 7,
         "ayah": 94,
-        "word": "ٱلضَّرَّآءُ",
+        "word": "اَ۬لضَّرَّآءُ",
         "wordIndex": 12
       },
       "end_word": {

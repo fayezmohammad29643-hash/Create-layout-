@@ -2,10 +2,11 @@
   "schema_version": 3,
   "page": 414,
   "surah_ids": [
-    31
+    31,
+    32
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,15 +14,15 @@
         "type": "word",
         "surah": 31,
         "ayah": 28,
-        "word": "أَلَمۡ",
+        "word": "أَلَمْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 31,
         "ayah": 28,
-        "word": "ٱلنَّهَارَ",
-        "wordIndex": 10
+        "word": "اِ۬ليْلِ",
+        "wordIndex": 12
       }
     },
     {
@@ -30,15 +31,15 @@
         "type": "word",
         "surah": 31,
         "ayah": 28,
-        "word": "فِي",
-        "wordIndex": 11
+        "word": "وَسَخَّرَ",
+        "wordIndex": 13
       },
       "end_word": {
         "type": "word",
         "surah": 31,
         "ayah": 28,
-        "word": "إِلَىٰٓ",
-        "wordIndex": 18
+        "word": "اَ۬للَّهَ",
+        "wordIndex": 22
       }
     },
     {
@@ -47,14 +48,15 @@
         "type": "word",
         "surah": 31,
         "ayah": 28,
-        "word": "أَجَلٖ",
-        "wordIndex": 19
+        "word": "بِمَا",
+        "wordIndex": 23
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 31,
-        "ayah": 28,
-        "number": 28
+        "ayah": 29,
+        "word": "تَدْعُونَ",
+        "wordIndex": 8
       }
     },
     {
@@ -63,15 +65,15 @@
         "type": "word",
         "surah": 31,
         "ayah": 29,
-        "word": "ذَٰلِكَ",
-        "wordIndex": 1
+        "word": "مِن",
+        "wordIndex": 9
       },
       "end_word": {
         "type": "word",
         "surah": 31,
-        "ayah": 29,
-        "word": "دُونِهِ",
-        "wordIndex": 10
+        "ayah": 30,
+        "word": "أَنَّ",
+        "wordIndex": 3
       }
     },
     {
@@ -79,26 +81,9 @@
       "first_word": {
         "type": "word",
         "surah": 31,
-        "ayah": 29,
-        "word": "ٱلۡبَٰطِلُ",
-        "wordIndex": 11
-      },
-      "end_word": {
-        "type": "word",
-        "surah": 31,
         "ayah": 30,
-        "word": "ٱلۡفُلۡكَ",
+        "word": "اَ۬لْفُلْكَ",
         "wordIndex": 4
-      }
-    },
-    {
-      "line": 6,
-      "first_word": {
-        "type": "word",
-        "surah": 31,
-        "ayah": 30,
-        "word": "تَجۡرِي",
-        "wordIndex": 5
       },
       "end_word": {
         "type": "word",
@@ -109,20 +94,37 @@
       }
     },
     {
-      "line": 7,
+      "line": 6,
       "first_word": {
         "type": "word",
         "surah": 31,
         "ayah": 30,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 14
       },
       "end_word": {
         "type": "word",
         "surah": 31,
         "ayah": 31,
-        "word": "مَوۡجٞ",
+        "word": "مَّوْجٞ",
         "wordIndex": 3
+      }
+    },
+    {
+      "line": 7,
+      "first_word": {
+        "type": "word",
+        "surah": 31,
+        "ayah": 31,
+        "word": "كَالظُّلَلِ",
+        "wordIndex": 4
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 31,
+        "ayah": 31,
+        "word": "اَ۬لْبَرِّ",
+        "wordIndex": 13
       }
     },
     {
@@ -131,15 +133,15 @@
         "type": "word",
         "surah": 31,
         "ayah": 31,
-        "word": "كَٱلظُّلَلِ",
-        "wordIndex": 4
+        "word": "فَمِنْهُم",
+        "wordIndex": 14
       },
       "end_word": {
         "type": "word",
         "surah": 31,
         "ayah": 31,
-        "word": "ٱلۡبَرِّ",
-        "wordIndex": 13
+        "word": "كَفُورٖۖ",
+        "wordIndex": 22
       }
     },
     {
@@ -147,15 +149,16 @@
       "first_word": {
         "type": "word",
         "surah": 31,
-        "ayah": 31,
-        "word": "فَمِنۡهُمُۥ",
-        "wordIndex": 14
+        "ayah": 32,
+        "word": "يَٰأَيُّهَا",
+        "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 31,
-        "ayah": 31,
-        "number": 31
+        "ayah": 32,
+        "word": "وَّلَدِهِۦ",
+        "wordIndex": 11
       }
     },
     {
@@ -164,36 +167,19 @@
         "type": "word",
         "surah": 31,
         "ayah": 32,
-        "word": "يَٰٓأَيُّهَا",
-        "wordIndex": 1
+        "word": "وَلَا",
+        "wordIndex": 12
       },
       "end_word": {
         "type": "word",
         "surah": 31,
         "ayah": 32,
-        "word": "وَالِدٌ",
-        "wordIndex": 9
-      }
-    },
-    {
-      "line": 11,
-      "first_word": {
-        "type": "word",
-        "surah": 31,
-        "ayah": 32,
-        "word": "عَن",
-        "wordIndex": 10
-      },
-      "end_word": {
-        "type": "word",
-        "surah": 31,
-        "ayah": 32,
-        "word": "ٱللَّهِ",
+        "word": "اَ۬للَّهِ",
         "wordIndex": 21
       }
     },
     {
-      "line": 12,
+      "line": 11,
       "first_word": {
         "type": "word",
         "surah": 31,
@@ -205,8 +191,25 @@
         "type": "word",
         "surah": 31,
         "ayah": 32,
-        "word": "بِٱللَّهِ",
+        "word": "بِاللَّهِ",
         "wordIndex": 29
+      }
+    },
+    {
+      "line": 12,
+      "first_word": {
+        "type": "word",
+        "surah": 31,
+        "ayah": 32,
+        "word": "اِ۬لْغَرُورُۖ",
+        "wordIndex": 30
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 31,
+        "ayah": 33,
+        "word": "اُ۬لْغَيْثَۖ",
+        "wordIndex": 7
       }
     },
     {
@@ -214,37 +217,20 @@
       "first_word": {
         "type": "word",
         "surah": 31,
-        "ayah": 32,
-        "word": "ٱلۡغَرُورُ",
-        "wordIndex": 30
-      },
-      "end_word": {
-        "type": "word",
-        "surah": 31,
         "ayah": 33,
-        "word": "ٱلۡغَيۡثَ",
-        "wordIndex": 7
-      }
-    },
-    {
-      "line": 14,
-      "first_word": {
-        "type": "word",
-        "surah": 31,
-        "ayah": 33,
-        "word": "وَيَعۡلَمُ",
+        "word": "وَيَعْلَمُ",
         "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 31,
         "ayah": 33,
-        "word": "غَدٗاۖ",
+        "word": "غَداٗۖ",
         "wordIndex": 17
       }
     },
     {
-      "line": 15,
+      "line": 14,
       "first_word": {
         "type": "word",
         "surah": 31,

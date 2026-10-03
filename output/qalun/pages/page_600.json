@@ -7,7 +7,7 @@
     102
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -32,7 +32,7 @@
         "type": "word",
         "surah": 100,
         "ayah": 8,
-        "word": "ٱلۡخَيۡرِ",
+        "word": "اِ۬لْخَيْرِ",
         "wordIndex": 3
       },
       "end_word": {
@@ -64,14 +64,14 @@
         "type": "word",
         "surah": 101,
         "ayah": 1,
-        "word": "ٱلۡقَارِعَةُ",
+        "word": "اِ۬لْقَارِعَةُ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 101,
         "ayah": 3,
-        "word": "يَوۡمَ",
+        "word": "يَوْمَ",
         "wordIndex": 1
       }
     },
@@ -88,8 +88,8 @@
         "type": "word",
         "surah": 101,
         "ayah": 4,
-        "word": "كَٱلۡعِهۡنِ",
-        "wordIndex": 3
+        "word": "اُ۬لْجِبَالُ",
+        "wordIndex": 2
       }
     },
     {
@@ -98,15 +98,15 @@
         "type": "word",
         "surah": 101,
         "ayah": 4,
-        "word": "ٱلۡمَنفُوشِ",
-        "wordIndex": 4
+        "word": "كَالْعِهْنِ",
+        "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 101,
         "ayah": 6,
-        "word": "عِيشَةٖ",
-        "wordIndex": 3
+        "word": "فِے",
+        "wordIndex": 2
       }
     },
     {
@@ -115,14 +115,15 @@
         "type": "word",
         "surah": 101,
         "ayah": 6,
-        "word": "رَّاضِيَةٖ",
-        "wordIndex": 4
+        "word": "عِيشَةٖ",
+        "wordIndex": 3
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 101,
         "ayah": 8,
-        "number": 8
+        "word": "هَاوِيَةٞۖ",
+        "wordIndex": 2
       }
     },
     {
@@ -131,7 +132,7 @@
         "type": "word",
         "surah": 101,
         "ayah": 9,
-        "word": "وَمَآ",
+        "word": "وَمَا",
         "wordIndex": 1
       },
       "end_word": {
@@ -147,7 +148,7 @@
         "type": "word",
         "surah": 102,
         "ayah": 1,
-        "word": "أَلۡهَىٰكُمُ",
+        "word": "أَلْهَيٰكُمُ",
         "wordIndex": 1
       },
       "end_word": {

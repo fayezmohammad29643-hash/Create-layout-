@@ -2,10 +2,11 @@
   "schema_version": 3,
   "page": 445,
   "surah_ids": [
-    36
+    36,
+    37
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,15 +14,15 @@
         "type": "word",
         "surah": 36,
         "ayah": 70,
-        "word": "أَوَلَمۡ",
+        "word": "أَوَلَمْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 36,
         "ayah": 70,
-        "word": "أَنۡعَٰمٗا",
-        "wordIndex": 9
+        "word": "لَهَا",
+        "wordIndex": 11
       }
     },
     {
@@ -30,15 +31,15 @@
         "type": "word",
         "surah": 36,
         "ayah": 70,
-        "word": "فَهُمُۥ",
-        "wordIndex": 10
+        "word": "مَٰلِكُونَۖ",
+        "wordIndex": 12
       },
       "end_word": {
         "type": "word",
         "surah": 36,
         "ayah": 71,
-        "word": "رَكُوبُهُمُۥ",
-        "wordIndex": 4
+        "word": "يَأْكُلُونَۖ",
+        "wordIndex": 6
       }
     },
     {
@@ -46,16 +47,16 @@
       "first_word": {
         "type": "word",
         "surah": 36,
-        "ayah": 71,
-        "word": "وَمِنۡهَا",
-        "wordIndex": 5
+        "ayah": 72,
+        "word": "وَلَهُمْ",
+        "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 36,
-        "ayah": 72,
-        "word": "وَمَشَارِبُۚ",
-        "wordIndex": 4
+        "ayah": 73,
+        "word": "وَاتَّخَذُواْ",
+        "wordIndex": 1
       }
     },
     {
@@ -63,16 +64,16 @@
       "first_word": {
         "type": "word",
         "surah": 36,
-        "ayah": 72,
-        "word": "أَفَلَا",
-        "wordIndex": 5
+        "ayah": 73,
+        "word": "مِن",
+        "wordIndex": 2
       },
       "end_word": {
         "type": "word",
         "surah": 36,
-        "ayah": 73,
-        "word": "ءَالِهَةٗ",
-        "wordIndex": 5
+        "ayah": 74,
+        "word": "يَسْتَطِيعُونَ",
+        "wordIndex": 2
       }
     },
     {
@@ -80,16 +81,16 @@
       "first_word": {
         "type": "word",
         "surah": 36,
-        "ayah": 73,
-        "word": "لَّعَلَّهُمُۥ",
-        "wordIndex": 6
+        "ayah": 74,
+        "word": "نَصْرَهُمْ",
+        "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 36,
-        "ayah": 74,
-        "word": "وَهُمُۥ",
-        "wordIndex": 4
+        "ayah": 75,
+        "word": "قَوْلُهُمْۖ",
+        "wordIndex": 3
       }
     },
     {
@@ -97,16 +98,16 @@
       "first_word": {
         "type": "word",
         "surah": 36,
-        "ayah": 74,
-        "word": "لَهُمُۥ",
-        "wordIndex": 5
+        "ayah": 75,
+        "word": "إِنَّا",
+        "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 36,
-        "ayah": 75,
-        "word": "نَعۡلَمُ",
-        "wordIndex": 5
+        "ayah": 76,
+        "word": "أَنَّا",
+        "wordIndex": 4
       }
     },
     {
@@ -114,26 +115,9 @@
       "first_word": {
         "type": "word",
         "surah": 36,
-        "ayah": 75,
-        "word": "مَا",
-        "wordIndex": 6
-      },
-      "end_word": {
-        "type": "word",
-        "surah": 36,
         "ayah": 76,
-        "word": "خَلَقۡنَٰهُ",
+        "word": "خَلَقْنَٰهُ",
         "wordIndex": 5
-      }
-    },
-    {
-      "line": 8,
-      "first_word": {
-        "type": "word",
-        "surah": 36,
-        "ayah": 76,
-        "word": "مِن",
-        "wordIndex": 6
       },
       "end_word": {
         "type": "word",
@@ -144,12 +128,12 @@
       }
     },
     {
-      "line": 9,
+      "line": 8,
       "first_word": {
         "type": "word",
         "surah": 36,
         "ayah": 77,
-        "word": "مَثَلٗا",
+        "word": "مَثَلاٗ",
         "wordIndex": 3
       },
       "end_word": {
@@ -160,19 +144,37 @@
       }
     },
     {
-      "line": 10,
+      "line": 9,
       "first_word": {
         "type": "word",
         "surah": 36,
         "ayah": 78,
-        "word": "قُلۡ",
+        "word": "قُلْ",
         "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 36,
         "ayah": 78,
-        "number": 78
+        "word": "عَلِيمٌۖ",
+        "wordIndex": 10
+      }
+    },
+    {
+      "line": 10,
+      "first_word": {
+        "type": "word",
+        "surah": 36,
+        "ayah": 79,
+        "word": "اِ۬لذِے",
+        "wordIndex": 1
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 36,
+        "ayah": 79,
+        "word": "أَنتُم",
+        "wordIndex": 9
       }
     },
     {
@@ -181,36 +183,19 @@
         "type": "word",
         "surah": 36,
         "ayah": 79,
-        "word": "ٱلَّذِي",
-        "wordIndex": 1
-      },
-      "end_word": {
-        "type": "word",
-        "surah": 36,
-        "ayah": 79,
-        "word": "أَنتُمُۥ",
-        "wordIndex": 9
-      }
-    },
-    {
-      "line": 12,
-      "first_word": {
-        "type": "word",
-        "surah": 36,
-        "ayah": 79,
-        "word": "مِنۡهُ",
+        "word": "مِّنْهُ",
         "wordIndex": 10
       },
       "end_word": {
         "type": "word",
         "surah": 36,
         "ayah": 80,
-        "word": "وَٱلۡأَرۡضَ",
+        "word": "وَالْأَرْضَ",
         "wordIndex": 5
       }
     },
     {
-      "line": 13,
+      "line": 12,
       "first_word": {
         "type": "word",
         "surah": 36,
@@ -226,12 +211,12 @@
       }
     },
     {
-      "line": 14,
+      "line": 13,
       "first_word": {
         "type": "word",
         "surah": 36,
         "ayah": 81,
-        "word": "إِنَّمَآ",
+        "word": "إِنَّمَا",
         "wordIndex": 1
       },
       "end_word": {
@@ -242,12 +227,12 @@
       }
     },
     {
-      "line": 15,
+      "line": 14,
       "first_word": {
         "type": "word",
         "surah": 36,
         "ayah": 82,
-        "word": "فَسُبۡحَٰنَ",
+        "word": "فَسُبْحَٰنَ",
         "wordIndex": 1
       },
       "end_word": {

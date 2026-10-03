@@ -7,7 +7,7 @@
     105
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -15,13 +15,13 @@
         "type": "word",
         "surah": 103,
         "ayah": 1,
-        "word": "وَٱلۡعَصۡرِ",
+        "word": "وَالْعَصْرِ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 103,
-        "ayah": 3,
+        "ayah": 2,
         "word": "ءَامَنُواْ",
         "wordIndex": 3
       }
@@ -31,7 +31,7 @@
       "first_word": {
         "type": "word",
         "surah": 103,
-        "ayah": 3,
+        "ayah": 2,
         "word": "وَعَمِلُواْ",
         "wordIndex": 4
       },
@@ -48,7 +48,7 @@
         "type": "word",
         "surah": 104,
         "ayah": 1,
-        "word": "وَيۡلٞ",
+        "word": "وَيْلٞ",
         "wordIndex": 1
       },
       "end_word": {
@@ -64,7 +64,7 @@
         "type": "word",
         "surah": 104,
         "ayah": 3,
-        "word": "يَحۡسِبُ",
+        "word": "يَحْسِبُ",
         "wordIndex": 1
       },
       "end_word": {
@@ -80,7 +80,7 @@
         "type": "word",
         "surah": 104,
         "ayah": 5,
-        "word": "وَمَآ",
+        "word": "وَمَا",
         "wordIndex": 1
       },
       "end_word": {
@@ -113,14 +113,14 @@
         "type": "word",
         "surah": 105,
         "ayah": 1,
-        "word": "أَلَمۡ",
+        "word": "أَلَمْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 105,
         "ayah": 2,
-        "word": "يَجۡعَلۡ",
+        "word": "يَجْعَلْ",
         "wordIndex": 2
       }
     },
@@ -130,7 +130,7 @@
         "type": "word",
         "surah": 105,
         "ayah": 2,
-        "word": "كَيۡدَهُمُۥ",
+        "word": "كَيْدَهُمْ",
         "wordIndex": 3
       },
       "end_word": {
@@ -146,7 +146,7 @@
         "type": "word",
         "surah": 105,
         "ayah": 4,
-        "word": "تَرۡمِيهِمُۥ",
+        "word": "تَرْمِيهِم",
         "wordIndex": 1
       },
       "end_word": {

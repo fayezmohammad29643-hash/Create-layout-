@@ -5,7 +5,7 @@
     47
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,15 +13,15 @@
         "type": "word",
         "surah": 47,
         "ayah": 1,
-        "word": "ٱلَّذِينَ",
+        "word": "اِ۬لذِينَ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 2,
-        "word": "ءَامَنُواْ",
-        "wordIndex": 2
+        "word": "وَالذِينَ",
+        "wordIndex": 1
       }
     },
     {
@@ -30,15 +30,15 @@
         "type": "word",
         "surah": 47,
         "ayah": 2,
-        "word": "وَعَمِلُواْ",
-        "wordIndex": 3
+        "word": "ءَامَنُواْ",
+        "wordIndex": 2
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 2,
-        "word": "كَفَّرَ",
-        "wordIndex": 14
+        "word": "مِن",
+        "wordIndex": 12
       }
     },
     {
@@ -47,15 +47,15 @@
         "type": "word",
         "surah": 47,
         "ayah": 2,
-        "word": "عَنۡهُمُۥ",
-        "wordIndex": 15
+        "word": "رَّبِّهِمْ",
+        "wordIndex": 13
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 3,
-        "word": "وَأَنَّ",
-        "wordIndex": 7
+        "word": "كَفَرُواْ",
+        "wordIndex": 4
       }
     },
     {
@@ -64,14 +64,15 @@
         "type": "word",
         "surah": 47,
         "ayah": 3,
-        "word": "ٱلَّذِينَ",
-        "wordIndex": 8
+        "word": "اُ۪تَّبَعُواْ",
+        "wordIndex": 5
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 47,
         "ayah": 3,
-        "number": 3
+        "word": "يَضْرِبُ",
+        "wordIndex": 15
       }
     },
     {
@@ -79,16 +80,16 @@
       "first_word": {
         "type": "word",
         "surah": 47,
-        "ayah": 4,
-        "word": "فَإِذَا",
-        "wordIndex": 1
+        "ayah": 3,
+        "word": "اُ۬للَّهُ",
+        "wordIndex": 16
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 4,
-        "word": "فَإِمَّا",
-        "wordIndex": 12
+        "word": "حَتَّىٰ",
+        "wordIndex": 7
       }
     },
     {
@@ -97,15 +98,15 @@
         "type": "word",
         "surah": 47,
         "ayah": 4,
-        "word": "مَنَّۢا",
-        "wordIndex": 13
+        "word": "إِذَا",
+        "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 47,
-        "ayah": 5,
-        "word": "لَٱنتَصَرَ",
-        "wordIndex": 5
+        "ayah": 4,
+        "word": "اَ۬لْحَرْبُ",
+        "wordIndex": 19
       }
     },
     {
@@ -113,16 +114,16 @@
       "first_word": {
         "type": "word",
         "surah": 47,
-        "ayah": 5,
-        "word": "مِنۡهُمُۥ",
-        "wordIndex": 6
+        "ayah": 4,
+        "word": "أَوْزَارَهَاۖ",
+        "wordIndex": 20
       },
       "end_word": {
         "type": "word",
         "surah": 47,
         "ayah": 5,
-        "word": "يُضِلَّ",
-        "wordIndex": 17
+        "word": "بَعْضَكُم",
+        "wordIndex": 9
       }
     },
     {
@@ -131,14 +132,15 @@
         "type": "word",
         "surah": 47,
         "ayah": 5,
-        "word": "أَعۡمَٰلَهُمُۥ",
-        "wordIndex": 18
+        "word": "بِبَعْضٖۖ",
+        "wordIndex": 10
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 47,
-        "ayah": 7,
-        "number": 7
+        "ayah": 6,
+        "word": "سَيَهْدِيهِمْ",
+        "wordIndex": 1
       }
     },
     {
@@ -146,15 +148,16 @@
       "first_word": {
         "type": "word",
         "surah": 47,
-        "ayah": 8,
-        "word": "يَٰٓأَيُّهَا",
-        "wordIndex": 1
+        "ayah": 6,
+        "word": "وَيُصْلِحُ",
+        "wordIndex": 2
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 47,
         "ayah": 8,
-        "number": 8
+        "word": "اَ۬لذِينَ",
+        "wordIndex": 2
       }
     },
     {
@@ -162,16 +165,16 @@
       "first_word": {
         "type": "word",
         "surah": 47,
-        "ayah": 9,
-        "word": "وَٱلَّذِينَ",
-        "wordIndex": 1
+        "ayah": 8,
+        "word": "ءَامَنُواْ",
+        "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 47,
-        "ayah": 10,
-        "word": "كَرِهُواْ",
-        "wordIndex": 3
+        "ayah": 9,
+        "word": "كَفَرُواْ",
+        "wordIndex": 2
       }
     },
     {
@@ -179,16 +182,16 @@
       "first_word": {
         "type": "word",
         "surah": 47,
-        "ayah": 10,
-        "word": "مَآ",
-        "wordIndex": 4
+        "ayah": 9,
+        "word": "فَتَعْساٗ",
+        "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 47,
-        "ayah": 11,
-        "word": "فَيَنظُرُواْ",
-        "wordIndex": 5
+        "ayah": 10,
+        "word": "اَ۬للَّهُ",
+        "wordIndex": 6
       }
     },
     {
@@ -196,15 +199,16 @@
       "first_word": {
         "type": "word",
         "surah": 47,
-        "ayah": 11,
-        "word": "كَيۡفَ",
-        "wordIndex": 6
+        "ayah": 10,
+        "word": "فَأَحْبَطَ",
+        "wordIndex": 7
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 47,
         "ayah": 11,
-        "number": 11
+        "word": "كَانَ",
+        "wordIndex": 7
       }
     },
     {
@@ -212,9 +216,26 @@
       "first_word": {
         "type": "word",
         "surah": 47,
+        "ayah": 11,
+        "word": "عَٰقِبَةُ",
+        "wordIndex": 8
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 47,
         "ayah": 12,
         "word": "ذَٰلِكَ",
         "wordIndex": 1
+      }
+    },
+    {
+      "line": 14,
+      "first_word": {
+        "type": "word",
+        "surah": 47,
+        "ayah": 12,
+        "word": "بِأَنَّ",
+        "wordIndex": 2
       },
       "end_word": {
         "type": "ayah_marker",

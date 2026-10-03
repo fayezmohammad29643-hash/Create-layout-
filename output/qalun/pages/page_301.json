@@ -5,7 +5,7 @@
     18
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -47,7 +47,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 62,
-        "word": "ٱلۡحُوتَ",
+        "word": "اُ۬لْحُوتَۖ",
         "wordIndex": 9
       },
       "end_word": {
@@ -64,7 +64,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 62,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 18
       },
       "end_word": {
@@ -81,7 +81,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 63,
-        "word": "قَصَصٗا",
+        "word": "قَصَصاٗ",
         "wordIndex": 9
       },
       "end_word": {
@@ -98,7 +98,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 64,
-        "word": "وَعَلَّمۡنَٰهُ",
+        "word": "وَعَلَّمْنَٰهُ",
         "wordIndex": 9
       },
       "end_word": {
@@ -122,7 +122,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 66,
-        "word": "مَعِي",
+        "word": "مَعِے",
         "wordIndex": 5
       }
     },
@@ -132,7 +132,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 66,
-        "word": "صَبۡرٗا",
+        "word": "صَبْراٗۖ",
         "wordIndex": 6
       },
       "end_word": {
@@ -156,8 +156,8 @@
         "type": "word",
         "surah": 18,
         "ayah": 69,
-        "word": "فَإِنِ",
-        "wordIndex": 2
+        "word": "قَالَ",
+        "wordIndex": 1
       }
     },
     {
@@ -166,14 +166,15 @@
         "type": "word",
         "surah": 18,
         "ayah": 69,
-        "word": "ٱتَّبَعۡتَنِي",
-        "wordIndex": 3
+        "word": "فَإِنِ",
+        "wordIndex": 2
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 18,
         "ayah": 69,
-        "number": 69
+        "word": "ذِكْراٗۖ",
+        "wordIndex": 12
       }
     },
     {
@@ -182,14 +183,14 @@
         "type": "word",
         "surah": 18,
         "ayah": 70,
-        "word": "فَٱنطَلَقَا",
+        "word": "فَانطَلَقَا",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 18,
         "ayah": 70,
-        "word": "أَخَرَقۡتَهَا",
+        "word": "أَخَرَقْتَهَا",
         "wordIndex": 9
       }
     },
@@ -199,7 +200,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 70,
-        "word": "لِتُغۡرِقَ",
+        "word": "لِتُغْرِقَ",
         "wordIndex": 10
       },
       "end_word": {
@@ -233,7 +234,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 72,
-        "word": "تُرۡهِقۡنِي",
+        "word": "تُرْهِقْنِے",
         "wordIndex": 7
       },
       "end_word": {

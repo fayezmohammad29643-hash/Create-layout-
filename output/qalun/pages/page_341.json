@@ -2,10 +2,11 @@
   "schema_version": 3,
   "page": 341,
   "surah_ids": [
-    22
+    22,
+    23
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,14 +14,14 @@
         "type": "word",
         "surah": 22,
         "ayah": 71,
-        "word": "يَٰٓأَيُّهَا",
+        "word": "يَٰأَيُّهَا",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 22,
         "ayah": 71,
-        "word": "ٱلَّذِينَ",
+        "word": "اَ۬لذِينَ",
         "wordIndex": 8
       }
     },
@@ -30,7 +31,7 @@
         "type": "word",
         "surah": 22,
         "ayah": 71,
-        "word": "تَدۡعُونَ",
+        "word": "تَدْعُونَ",
         "wordIndex": 9
       },
       "end_word": {
@@ -47,15 +48,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 71,
-        "word": "وَإِن",
+        "word": "وَإِنْ",
         "wordIndex": 19
       },
       "end_word": {
         "type": "word",
         "surah": 22,
         "ayah": 71,
-        "word": "مِنۡهُۚ",
-        "wordIndex": 25
+        "word": "ضَعُفَ",
+        "wordIndex": 26
       }
     },
     {
@@ -64,15 +65,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 71,
-        "word": "ضَعُفَ",
-        "wordIndex": 26
+        "word": "اَ۬لطَّالِبُ",
+        "wordIndex": 27
       },
       "end_word": {
         "type": "word",
         "surah": 22,
         "ayah": 72,
-        "word": "قَدۡرِهِۦٓۚ",
-        "wordIndex": 5
+        "word": "اَ۬للَّهَ",
+        "wordIndex": 7
       }
     },
     {
@@ -81,15 +82,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 72,
-        "word": "إِنَّ",
-        "wordIndex": 6
+        "word": "لَقَوِيٌّ",
+        "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 22,
         "ayah": 73,
-        "word": "ٱلۡمَلَٰٓئِكَةِ",
-        "wordIndex": 4
+        "word": "رُسُلاٗ",
+        "wordIndex": 5
       }
     },
     {
@@ -98,15 +99,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 73,
-        "word": "رُسُلٗا",
-        "wordIndex": 5
+        "word": "وَمِنَ",
+        "wordIndex": 6
       },
       "end_word": {
         "type": "word",
         "surah": 22,
         "ayah": 74,
-        "word": "يَعۡلَمُ",
-        "wordIndex": 1
+        "word": "بَيْنَ",
+        "wordIndex": 3
       }
     },
     {
@@ -115,14 +116,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 74,
-        "word": "مَا",
-        "wordIndex": 2
+        "word": "أَيْدِيهِمْ",
+        "wordIndex": 4
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 22,
-        "ayah": 74,
-        "number": 74
+        "ayah": 75,
+        "word": "يَٰأَيُّهَا",
+        "wordIndex": 1
       }
     },
     {
@@ -131,15 +133,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 75,
-        "word": "يَٰٓأَيُّهَا",
-        "wordIndex": 1
+        "word": "اَ۬لذِينَ",
+        "wordIndex": 2
       },
       "end_word": {
         "type": "word",
         "surah": 22,
         "ayah": 75,
-        "word": "وَٱعۡبُدُواْ",
-        "wordIndex": 6
+        "word": "رَبَّكُمْ",
+        "wordIndex": 7
       }
     },
     {
@@ -148,14 +150,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 75,
-        "word": "رَبَّكُمُۥ",
-        "wordIndex": 7
+        "word": "وَافْعَلُواْ",
+        "wordIndex": 8
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 22,
-        "ayah": 75,
-        "number": 75
+        "ayah": 76,
+        "word": "فِے",
+        "wordIndex": 2
       }
     },
     {
@@ -164,15 +167,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 76,
-        "word": "وَجَٰهِدُواْ",
-        "wordIndex": 1
+        "word": "اِ۬للَّهِ",
+        "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 22,
         "ayah": 76,
-        "word": "ٱجۡتَبَىٰكُمُۥ",
-        "wordIndex": 7
+        "word": "عَلَيْكُمْ",
+        "wordIndex": 10
       }
     },
     {
@@ -181,15 +184,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 76,
-        "word": "وَمَا",
-        "wordIndex": 8
+        "word": "فِے",
+        "wordIndex": 11
       },
       "end_word": {
         "type": "word",
         "surah": 22,
         "ayah": 76,
-        "word": "أَبِيكُمُۥٓ",
-        "wordIndex": 16
+        "word": "سَمَّيٰكُمُ",
+        "wordIndex": 19
       }
     },
     {
@@ -198,15 +201,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 76,
-        "word": "إِبۡرَٰهِيمَۚ",
-        "wordIndex": 17
+        "word": "اُ۬لْمُسْلِمِينَ",
+        "wordIndex": 20
       },
       "end_word": {
         "type": "word",
         "surah": 22,
         "ayah": 76,
-        "word": "وَفِي",
-        "wordIndex": 23
+        "word": "عَلَيْكُمْ",
+        "wordIndex": 28
       }
     },
     {
@@ -215,15 +218,15 @@
         "type": "word",
         "surah": 22,
         "ayah": 76,
-        "word": "هَٰذَا",
-        "wordIndex": 24
+        "word": "وَتَكُونُواْ",
+        "wordIndex": 29
       },
       "end_word": {
         "type": "word",
         "surah": 22,
         "ayah": 76,
-        "word": "وَتَكُونُواْ",
-        "wordIndex": 29
+        "word": "اُ۬لزَّكَوٰةَۖ",
+        "wordIndex": 36
       }
     },
     {
@@ -232,24 +235,7 @@
         "type": "word",
         "surah": 22,
         "ayah": 76,
-        "word": "شُهَدَآءَ",
-        "wordIndex": 30
-      },
-      "end_word": {
-        "type": "word",
-        "surah": 22,
-        "ayah": 76,
-        "word": "ٱلزَّكَوٰةَ",
-        "wordIndex": 36
-      }
-    },
-    {
-      "line": 15,
-      "first_word": {
-        "type": "word",
-        "surah": 22,
-        "ayah": 76,
-        "word": "وَٱعۡتَصِمُواْ",
+        "word": "وَاعْتَصِمُواْ",
         "wordIndex": 37
       },
       "end_word": {

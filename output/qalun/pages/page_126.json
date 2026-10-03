@@ -5,7 +5,7 @@
     5
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,15 +13,15 @@
         "type": "word",
         "surah": 5,
         "ayah": 111,
-        "word": "يَوۡمَ",
+        "word": "يَوْمَ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 5,
         "ayah": 111,
-        "word": "لَنَآۖ",
-        "wordIndex": 11
+        "word": "عِلْمَ",
+        "wordIndex": 10
       }
     },
     {
@@ -30,14 +30,14 @@
         "type": "word",
         "surah": 5,
         "ayah": 111,
-        "word": "إِنَّكَ",
-        "wordIndex": 12
+        "word": "لَنَا",
+        "wordIndex": 11
       },
       "end_word": {
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "مَرۡيَمَ",
+        "word": "مَرْيَمَ",
         "wordIndex": 6
       }
     },
@@ -47,7 +47,7 @@
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "ٱذۡكُرۡ",
+        "word": "اَ۟ذْكُرْ",
         "wordIndex": 7
       },
       "end_word": {
@@ -64,14 +64,14 @@
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "ٱلۡقُدُسِ",
+        "word": "اِ۬لْقُدُسِ",
         "wordIndex": 15
       },
       "end_word": {
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "عَلَّمۡتُكَ",
+        "word": "عَلَّمْتُكَ",
         "wordIndex": 22
       }
     },
@@ -81,14 +81,14 @@
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "ٱلۡكِتَٰبَ",
+        "word": "اَ۬لْكِتَٰبَ",
         "wordIndex": 23
       },
       "end_word": {
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "تَخۡلُقُ",
+        "word": "تَخْلُقُ",
         "wordIndex": 28
       }
     },
@@ -115,14 +115,14 @@
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "طَٰٓئِرَۢا",
+        "word": "طَٰٓئِراَۢ",
         "wordIndex": 37
       },
       "end_word": {
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "تُخۡرِجُ",
+        "word": "تُخْرِجُ",
         "wordIndex": 44
       }
     },
@@ -132,14 +132,14 @@
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "ٱلۡمَوۡتَىٰ",
+        "word": "اُ۬لْمَوْتَىٰ",
         "wordIndex": 45
       },
       "end_word": {
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "إِذۡ",
+        "word": "إِذْ",
         "wordIndex": 52
       }
     },
@@ -149,14 +149,14 @@
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "جِئۡتَهُمُۥ",
+        "word": "جِئْتَهُم",
         "wordIndex": 53
       },
       "end_word": {
         "type": "word",
         "surah": 5,
         "ayah": 112,
-        "word": "هَٰذَآ",
+        "word": "هَٰذَا",
         "wordIndex": 60
       }
     },
@@ -183,7 +183,7 @@
         "type": "word",
         "surah": 5,
         "ayah": 113,
-        "word": "بِي",
+        "word": "بِے",
         "wordIndex": 7
       },
       "end_word": {
@@ -199,7 +199,7 @@
         "type": "word",
         "surah": 5,
         "ayah": 114,
-        "word": "إِذۡ",
+        "word": "إِذْ",
         "wordIndex": 1
       },
       "end_word": {
@@ -216,14 +216,14 @@
         "type": "word",
         "surah": 5,
         "ayah": 114,
-        "word": "أَن",
+        "word": "أَنْ",
         "wordIndex": 10
       },
       "end_word": {
         "type": "word",
         "surah": 5,
         "ayah": 114,
-        "word": "كُنتُمُۥ",
+        "word": "كُنتُم",
         "wordIndex": 20
       }
     },
@@ -233,7 +233,7 @@
         "type": "word",
         "surah": 5,
         "ayah": 114,
-        "word": "مُؤۡمِنِينَ",
+        "word": "مُّؤْمِنِينَۖ",
         "wordIndex": 21
       },
       "end_word": {
@@ -250,7 +250,7 @@
         "type": "word",
         "surah": 5,
         "ayah": 115,
-        "word": "وَنَعۡلَمَ",
+        "word": "وَنَعْلَمَ",
         "wordIndex": 8
       },
       "end_word": {

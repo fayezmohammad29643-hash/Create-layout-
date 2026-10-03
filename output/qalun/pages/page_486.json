@@ -5,7 +5,7 @@
     42
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -20,7 +20,7 @@
         "type": "word",
         "surah": 42,
         "ayah": 21,
-        "word": "ٱلصَّٰلِحَٰتِۗ",
+        "word": "اُ۬لصَّٰلِحَٰتِۖ",
         "wordIndex": 9
       }
     },
@@ -37,7 +37,7 @@
         "type": "word",
         "surah": 42,
         "ayah": 21,
-        "word": "يَقۡتَرِفۡ",
+        "word": "يَّقْتَرِفْ",
         "wordIndex": 20
       }
     },
@@ -64,14 +64,14 @@
         "type": "word",
         "surah": 42,
         "ayah": 22,
-        "word": "ٱفۡتَرَىٰ",
+        "word": "اَ۪فْتَرَىٰ",
         "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 42,
         "ayah": 22,
-        "word": "ٱللَّهُ",
+        "word": "اُ۬للَّهُ",
         "wordIndex": 14
       }
     },
@@ -81,7 +81,7 @@
         "type": "word",
         "surah": 42,
         "ayah": 22,
-        "word": "ٱلۡبَٰطِلَ",
+        "word": "اُ۬لْبَٰطِلَ",
         "wordIndex": 15
       },
       "end_word": {
@@ -97,14 +97,14 @@
         "type": "word",
         "surah": 42,
         "ayah": 23,
-        "word": "وَهۡوَ",
+        "word": "وَهْوَ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 42,
         "ayah": 23,
-        "word": "ٱلسَّيِّـَٔاتِ",
+        "word": "اِ۬لسَّيِّـَٔاتِ",
         "wordIndex": 9
       }
     },
@@ -114,7 +114,7 @@
         "type": "word",
         "surah": 42,
         "ayah": 23,
-        "word": "وَيَعۡلَمُ",
+        "word": "وَيَعْلَمُ",
         "wordIndex": 10
       },
       "end_word": {
@@ -131,7 +131,7 @@
         "type": "word",
         "surah": 42,
         "ayah": 24,
-        "word": "ٱلصَّٰلِحَٰتِ",
+        "word": "اُ۬لصَّٰلِحَٰتِ",
         "wordIndex": 5
       },
       "end_word": {
@@ -148,14 +148,14 @@
         "type": "word",
         "surah": 42,
         "ayah": 24,
-        "word": "شَدِيدٞ",
+        "word": "شَدِيدٞۖ",
         "wordIndex": 12
       },
       "end_word": {
         "type": "word",
         "surah": 42,
         "ayah": 25,
-        "word": "ٱلۡأَرۡضِ",
+        "word": "اِ۬لْأَرْضِۖ",
         "wordIndex": 8
       }
     },
@@ -165,15 +165,15 @@
         "type": "word",
         "surah": 42,
         "ayah": 25,
-        "word": "وَلَٰكِن",
+        "word": "وَلَٰكِنْ",
         "wordIndex": 9
       },
       "end_word": {
         "type": "word",
         "surah": 42,
         "ayah": 26,
-        "word": "ٱلَّذِي",
-        "wordIndex": 2
+        "word": "وَهْوَ",
+        "wordIndex": 1
       }
     },
     {
@@ -182,14 +182,15 @@
         "type": "word",
         "surah": 42,
         "ayah": 26,
-        "word": "يُنَزِّلُ",
-        "wordIndex": 3
+        "word": "اَ۬لذِے",
+        "wordIndex": 2
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 42,
         "ayah": 26,
-        "number": 26
+        "word": "اُ۬لْحَمِيدُۖ",
+        "wordIndex": 13
       }
     },
     {
@@ -198,14 +199,14 @@
         "type": "word",
         "surah": 42,
         "ayah": 27,
-        "word": "وَمِنۡ",
+        "word": "وَمِنْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 42,
         "ayah": 27,
-        "word": "دَآبَّةٖۚ",
+        "word": "دَآبَّةٖۖ",
         "wordIndex": 10
       }
     },
@@ -215,7 +216,7 @@
         "type": "word",
         "surah": 42,
         "ayah": 27,
-        "word": "وَهۡوَ",
+        "word": "وَهْوَ",
         "wordIndex": 11
       },
       "end_word": {
@@ -232,14 +233,14 @@
         "type": "word",
         "surah": 42,
         "ayah": 28,
-        "word": "كَسَبَتۡ",
+        "word": "كَسَبَتْ",
         "wordIndex": 6
       },
       "end_word": {
         "type": "word",
         "surah": 42,
         "ayah": 29,
-        "word": "بِمُعۡجِزِينَ",
+        "word": "بِمُعْجِزِينَ",
         "wordIndex": 3
       }
     },
@@ -249,7 +250,7 @@
         "type": "word",
         "surah": 42,
         "ayah": 29,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 4
       },
       "end_word": {

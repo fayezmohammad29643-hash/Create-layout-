@@ -1,14 +1,14 @@
 {
   "schema_version": 3,
   "surahId": 97,
-  "surahName": "القَدۡرِ",
+  "surahName": "القَدْرِ",
   "startPage": 598,
   "endPage": 598,
   "totalPagesInSurah": 1,
   "totalCompletedLines": 3,
   "ayaCount": 5,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 598,
@@ -19,7 +19,7 @@
             "type": "word",
             "surah": 97,
             "ayah": 1,
-            "word": "إِنَّآ",
+            "word": "إِنَّا",
             "wordIndex": 1
           },
           "end_word": {
@@ -35,7 +35,7 @@
             "type": "word",
             "surah": 97,
             "ayah": 3,
-            "word": "لَيۡلَةُ",
+            "word": "لَيْلَةُ",
             "wordIndex": 1
           },
           "end_word": {
@@ -52,7 +52,7 @@
             "type": "word",
             "surah": 97,
             "ayah": 4,
-            "word": "بِإِذۡنِ",
+            "word": "بِإِذْنِ",
             "wordIndex": 5
           },
           "end_word": {

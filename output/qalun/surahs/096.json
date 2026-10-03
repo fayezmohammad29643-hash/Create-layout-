@@ -8,7 +8,7 @@
   "totalCompletedLines": 8,
   "ayaCount": 20,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 597,
@@ -19,14 +19,14 @@
             "type": "word",
             "surah": 96,
             "ayah": 1,
-            "word": "ٱقۡرَأۡ",
+            "word": "اِ۪قْرَأْ",
             "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 96,
             "ayah": 3,
-            "word": "ٱقۡرَأۡ",
+            "word": "اِ۪قْرَأْ",
             "wordIndex": 1
           }
         },
@@ -43,7 +43,7 @@
             "type": "word",
             "surah": 96,
             "ayah": 5,
-            "word": "ٱلۡإِنسَٰنَ",
+            "word": "اَ۬لْإِنسَٰنَ",
             "wordIndex": 2
           }
         },
@@ -57,10 +57,11 @@
             "wordIndex": 3
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 96,
             "ayah": 7,
-            "number": 7
+            "word": "اُ۪سْتَغْنَىٰۖ",
+            "wordIndex": 3
           }
         },
         {
@@ -76,7 +77,7 @@
             "type": "word",
             "surah": 96,
             "ayah": 10,
-            "word": "عَبۡدًا",
+            "word": "عَبْداً",
             "wordIndex": 1
           }
         },
@@ -107,7 +108,7 @@
             "type": "word",
             "surah": 96,
             "ayah": 13,
-            "word": "أَرَٰ۬يۡتَ",
+            "word": "أَرَٰ۬يْتَ",
             "wordIndex": 1
           },
           "end_word": {
@@ -123,7 +124,7 @@
             "type": "word",
             "surah": 96,
             "ayah": 16,
-            "word": "لَنَسۡفَعَۢا",
+            "word": "لَنَسْفَعاَۢ",
             "wordIndex": 1
           },
           "end_word": {
@@ -139,7 +140,7 @@
             "type": "word",
             "surah": 96,
             "ayah": 19,
-            "word": "سَنَدۡعُ",
+            "word": "سَنَدْعُ",
             "wordIndex": 1
           },
           "end_word": {

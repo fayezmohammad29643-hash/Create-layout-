@@ -1,14 +1,14 @@
 {
   "schema_version": 3,
   "surahId": 81,
-  "surahName": "التَّكۡوِيرِ",
+  "surahName": "التَّكْوِيرِ",
   "startPage": 586,
   "endPage": 586,
   "totalPagesInSurah": 1,
   "totalCompletedLines": 12,
-  "ayaCount": 28,
+  "ayaCount": 29,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 586,
@@ -26,7 +26,7 @@
             "type": "word",
             "surah": 81,
             "ayah": 3,
-            "word": "ٱلۡجِبَالُ",
+            "word": "اَ۬لْجِبَالُ",
             "wordIndex": 2
           }
         },
@@ -36,14 +36,15 @@
             "type": "word",
             "surah": 81,
             "ayah": 3,
-            "word": "سُيِّرَتۡ",
+            "word": "سُيِّرَتْ",
             "wordIndex": 3
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 81,
             "ayah": 5,
-            "number": 5
+            "word": "حُشِرَتْ",
+            "wordIndex": 3
           }
         },
         {
@@ -59,8 +60,8 @@
             "type": "word",
             "surah": 81,
             "ayah": 8,
-            "word": "ٱلۡمَوۡءُۥدَةُ",
-            "wordIndex": 2
+            "word": "وَإِذَا",
+            "wordIndex": 1
           }
         },
         {
@@ -69,14 +70,15 @@
             "type": "word",
             "surah": 81,
             "ayah": 8,
-            "word": "سُئِلَتۡ",
-            "wordIndex": 3
+            "word": "اَ۬لْمَوْءُۥدَةُ",
+            "wordIndex": 2
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 81,
             "ayah": 10,
-            "number": 10
+            "word": "نُشِرَتْ",
+            "wordIndex": 3
           }
         },
         {
@@ -92,7 +94,7 @@
             "type": "word",
             "surah": 81,
             "ayah": 13,
-            "word": "ٱلۡجَنَّةُ",
+            "word": "اَ۬لْجَنَّةُ",
             "wordIndex": 2
           }
         },
@@ -102,7 +104,7 @@
             "type": "word",
             "surah": 81,
             "ayah": 13,
-            "word": "أُزۡلِفَتۡ",
+            "word": "أُزْلِفَتْ",
             "wordIndex": 3
           },
           "end_word": {
@@ -118,7 +120,7 @@
             "type": "word",
             "surah": 81,
             "ayah": 16,
-            "word": "ٱلۡجَوَارِ",
+            "word": "اِ۬لْجَوَارِ",
             "wordIndex": 1
           },
           "end_word": {
@@ -141,8 +143,8 @@
             "type": "word",
             "surah": 81,
             "ayah": 21,
-            "word": "ثَمَّ",
-            "wordIndex": 2
+            "word": "مُّطَاعٖ",
+            "wordIndex": 1
           }
         },
         {
@@ -151,14 +153,15 @@
             "type": "word",
             "surah": 81,
             "ayah": 21,
-            "word": "أَمِينٖ",
-            "wordIndex": 3
+            "word": "ثَمَّ",
+            "wordIndex": 2
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 81,
             "ayah": 23,
-            "number": 23
+            "word": "اِ۬لْمُبِينِۖ",
+            "wordIndex": 4
           }
         },
         {
@@ -183,14 +186,14 @@
             "type": "word",
             "surah": 81,
             "ayah": 26,
-            "word": "فَأَيۡنَ",
+            "word": "فَأَيْنَ",
             "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 81,
-            "ayah": 27,
-            "word": "أَن",
+            "ayah": 28,
+            "word": "أَنْ",
             "wordIndex": 4
           }
         },
@@ -199,15 +202,15 @@
           "first_word": {
             "type": "word",
             "surah": 81,
-            "ayah": 27,
-            "word": "يَسۡتَقِيمَ",
+            "ayah": 28,
+            "word": "يَّسْتَقِيمَۖ",
             "wordIndex": 5
           },
           "end_word": {
             "type": "ayah_marker",
             "surah": 81,
-            "ayah": 28,
-            "number": 28
+            "ayah": 29,
+            "number": 29
           }
         }
       ]

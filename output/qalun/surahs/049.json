@@ -8,7 +8,7 @@
   "totalCompletedLines": 37,
   "ayaCount": 18,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 515,
@@ -19,14 +19,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 1,
-            "word": "يَٰٓأَيُّهَا",
+            "word": "يَٰأَيُّهَا",
             "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 1,
-            "word": "وَٱتَّقُواْ",
+            "word": "وَاتَّقُواْ",
             "wordIndex": 10
           }
         },
@@ -36,14 +36,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 1,
-            "word": "ٱللَّهَۚ",
+            "word": "اُ۬للَّهَۖ",
             "wordIndex": 11
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 2,
-            "word": "تَرۡفَعُوٓاْ",
+            "word": "تَرْفَعُواْ",
             "wordIndex": 5
           }
         },
@@ -53,14 +53,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 2,
-            "word": "أَصۡوَٰتَكُمُۥ",
+            "word": "أَصْوَٰتَكُمْ",
             "wordIndex": 6
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 2,
-            "word": "بَعۡضِكُمُۥ",
+            "word": "بَعْضِكُمْ",
             "wordIndex": 15
           }
         },
@@ -70,14 +70,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 2,
-            "word": "لِبَعۡضٍ",
+            "word": "لِبَعْضٍ",
             "wordIndex": 16
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 3,
-            "word": "ٱلَّذِينَ",
+            "word": "اَ۬لذِينَ",
             "wordIndex": 2
           }
         },
@@ -94,7 +94,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 3,
-            "word": "ٱمۡتَحَنَ",
+            "word": "اَ۪مْتَحَنَ",
             "wordIndex": 10
           }
         },
@@ -104,14 +104,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 3,
-            "word": "ٱللَّهُ",
+            "word": "اَ۬للَّهُ",
             "wordIndex": 11
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 4,
-            "word": "ٱلَّذِينَ",
+            "word": "اَ۬لذِينَ",
             "wordIndex": 2
           }
         },
@@ -142,7 +142,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 5,
-            "word": "وَلَوۡ",
+            "word": "وَلَوْ",
             "wordIndex": 1
           },
           "end_word": {
@@ -159,7 +159,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 5,
-            "word": "رَّحِيمٞ",
+            "word": "رَّحِيمٞۖ",
             "wordIndex": 12
           },
           "end_word": {
@@ -192,14 +192,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 7,
-            "word": "وَٱعۡلَمُوٓاْ",
+            "word": "وَاعْلَمُواْ",
             "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 7,
-            "word": "لَعَنِتُّمُۥ",
+            "word": "لَعَنِتُّمْۖ",
             "wordIndex": 12
           }
         },
@@ -226,7 +226,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 7,
-            "word": "إِلَيۡكُمُ",
+            "word": "إِلَيْكُمُ",
             "wordIndex": 22
           },
           "end_word": {
@@ -242,14 +242,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 8,
-            "word": "فَضۡلٗا",
+            "word": "فَضْلاٗ",
             "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 9,
-            "word": "طَآئِفَتَانِ",
+            "word": "طَآئِفَتَٰنِ",
             "wordIndex": 2
           }
         },
@@ -266,7 +266,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 9,
-            "word": "إِحۡدَىٰهُمَا",
+            "word": "إِحْدَيٰهُمَا",
             "wordIndex": 10
           }
         },
@@ -283,7 +283,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 9,
-            "word": "فَآءَتۡ",
+            "word": "فَآءَتْ",
             "wordIndex": 22
           }
         },
@@ -293,14 +293,15 @@
             "type": "word",
             "surah": 49,
             "ayah": 9,
-            "word": "فَأَصۡلِحُواْ",
+            "word": "فَأَصْلِحُواْ",
             "wordIndex": 23
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 49,
             "ayah": 9,
-            "number": 9
+            "word": "اُ۬لْمُقْسِطِينَۖ",
+            "wordIndex": 30
           }
         },
         {
@@ -316,7 +317,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 10,
-            "word": "ٱللَّهَ",
+            "word": "اُ۬للَّهَ",
             "wordIndex": 8
           }
         },
@@ -326,14 +327,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 10,
-            "word": "لَعَلَّكُمُۥ",
+            "word": "لَعَلَّكُمْ",
             "wordIndex": 9
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 11,
-            "word": "قَوۡمٍ",
+            "word": "قَوْمٍ",
             "wordIndex": 8
           }
         },
@@ -343,14 +344,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 11,
-            "word": "عَسَىٰٓ",
+            "word": "عَسَىٰ",
             "wordIndex": 9
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 11,
-            "word": "خَيۡرٗا",
+            "word": "خَيْراٗ",
             "wordIndex": 21
           }
         },
@@ -360,14 +361,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 11,
-            "word": "مِّنۡهُنَّۖ",
+            "word": "مِّنْهُنَّۖ",
             "wordIndex": 22
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 11,
-            "word": "ٱلِٱسۡمُ",
+            "word": "اَ۬لِاسْمُ",
             "wordIndex": 30
           }
         },
@@ -377,7 +378,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 11,
-            "word": "ٱلۡفُسُوقُ",
+            "word": "اُ۬لْفُسُوقُ",
             "wordIndex": 31
           },
           "end_word": {
@@ -398,14 +399,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 12,
-            "word": "يَٰٓأَيُّهَا",
+            "word": "يَٰأَيُّهَا",
             "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 12,
-            "word": "ٱلظَّنِّ",
+            "word": "اَ۬لظَّنِّ",
             "wordIndex": 10
           }
         },
@@ -415,14 +416,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 12,
-            "word": "إِثۡمٞۖ",
+            "word": "إِثْمٞۖ",
             "wordIndex": 11
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 12,
-            "word": "أَن",
+            "word": "أَنْ",
             "wordIndex": 20
           }
         },
@@ -432,14 +433,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 12,
-            "word": "يَأۡكُلَ",
+            "word": "يَّأْكُلَ",
             "wordIndex": 21
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 12,
-            "word": "ٱللَّهَ",
+            "word": "اَ۬للَّهَ",
             "wordIndex": 29
           }
         },
@@ -456,7 +457,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 13,
-            "word": "وَجَعَلۡنَٰكُمُۥ",
+            "word": "وَجَعَلْنَٰكُمْ",
             "wordIndex": 8
           }
         },
@@ -466,14 +467,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 13,
-            "word": "شُعُوبٗا",
+            "word": "شُعُوباٗ",
             "wordIndex": 9
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 13,
-            "word": "ٱللَّهَ",
+            "word": "اَ۬للَّهَ",
             "wordIndex": 18
           }
         },
@@ -500,14 +501,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 14,
-            "word": "قُولُوٓاْ",
+            "word": "قُولُواْ",
             "wordIndex": 8
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 14,
-            "word": "ٱللَّهَ",
+            "word": "اُ۬للَّهَ",
             "wordIndex": 17
           }
         },
@@ -540,7 +541,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 15,
-            "word": "يَرۡتَابُواْ",
+            "word": "يَرْتَابُواْ",
             "wordIndex": 9
           }
         },
@@ -567,14 +568,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 15,
-            "word": "ٱلصَّٰدِقُونَ",
+            "word": "اُ۬لصَّٰدِقُونَۖ",
             "wordIndex": 18
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 16,
-            "word": "فِي",
+            "word": "فِے",
             "wordIndex": 8
           }
         },
@@ -584,7 +585,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 16,
-            "word": "ٱلسَّمَٰوَٰتِ",
+            "word": "اِ۬لسَّمَٰوَٰتِ",
             "wordIndex": 9
           },
           "end_word": {
@@ -601,7 +602,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 17,
-            "word": "عَلَيۡكَ",
+            "word": "عَلَيْكَ",
             "wordIndex": 2
           },
           "end_word": {
@@ -618,14 +619,14 @@
             "type": "word",
             "surah": 49,
             "ayah": 17,
-            "word": "عَلَيۡكُمُۥٓ",
+            "word": "عَلَيْكُمْ",
             "wordIndex": 13
           },
           "end_word": {
             "type": "word",
             "surah": 49,
             "ayah": 18,
-            "word": "يَعۡلَمُ",
+            "word": "يَعْلَمُ",
             "wordIndex": 3
           }
         },
@@ -635,7 +636,7 @@
             "type": "word",
             "surah": 49,
             "ayah": 18,
-            "word": "غَيۡبَ",
+            "word": "غَيْبَ",
             "wordIndex": 4
           },
           "end_word": {

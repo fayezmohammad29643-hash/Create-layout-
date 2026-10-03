@@ -6,7 +6,7 @@
     63
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -14,14 +14,14 @@
         "type": "word",
         "surah": 62,
         "ayah": 9,
-        "word": "يَٰٓأَيُّهَا",
+        "word": "يَٰأَيُّهَا",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 62,
         "ayah": 9,
-        "word": "فَٱسۡعَوۡاْ",
+        "word": "فَاسْعَوْاْ",
         "wordIndex": 10
       }
     },
@@ -35,10 +35,11 @@
         "wordIndex": 11
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 62,
         "ayah": 9,
-        "number": 9
+        "word": "تَعْلَمُونَۖ",
+        "wordIndex": 21
       }
     },
     {
@@ -54,7 +55,7 @@
         "type": "word",
         "surah": 62,
         "ayah": 10,
-        "word": "وَٱبۡتَغُواْ",
+        "word": "وَابْتَغُواْ",
         "wordIndex": 7
       }
     },
@@ -97,7 +98,7 @@
         "type": "word",
         "surah": 62,
         "ayah": 11,
-        "word": "ٱللَّهِ",
+        "word": "اَ۬للَّهِ",
         "wordIndex": 13
       },
       "end_word": {
@@ -130,14 +131,14 @@
         "type": "word",
         "surah": 63,
         "ayah": 1,
-        "word": "لَرَسُولُهُۥ",
+        "word": "لَرَسُولُهُۥۖ",
         "wordIndex": 12
       },
       "end_word": {
         "type": "word",
         "surah": 63,
         "ayah": 2,
-        "word": "ٱتَّخَذُوٓاْ",
+        "word": "اَ۪تَّخَذُواْ",
         "wordIndex": 1
       }
     },
@@ -147,7 +148,7 @@
         "type": "word",
         "surah": 63,
         "ayah": 2,
-        "word": "أَيۡمَٰنَهُمُۥ",
+        "word": "أَيْمَٰنَهُمْ",
         "wordIndex": 2
       },
       "end_word": {
@@ -164,14 +165,14 @@
         "type": "word",
         "surah": 63,
         "ayah": 2,
-        "word": "يَعۡمَلُونَ",
+        "word": "يَعْمَلُونَۖ",
         "wordIndex": 12
       },
       "end_word": {
         "type": "word",
         "surah": 63,
         "ayah": 3,
-        "word": "فَهُمُۥ",
+        "word": "فَهُمْ",
         "wordIndex": 9
       }
     },
@@ -188,7 +189,7 @@
         "type": "word",
         "surah": 63,
         "ayah": 4,
-        "word": "يَقُولُواْ",
+        "word": "يَّقُولُواْ",
         "wordIndex": 6
       }
     },
@@ -198,14 +199,14 @@
         "type": "word",
         "surah": 63,
         "ayah": 4,
-        "word": "تَسۡمَعۡ",
+        "word": "تَسْمَعْ",
         "wordIndex": 7
       },
       "end_word": {
         "type": "word",
         "surah": 63,
         "ayah": 4,
-        "word": "صَيۡحَةٍ",
+        "word": "صَيْحَةٍ",
         "wordIndex": 14
       }
     },
@@ -215,7 +216,7 @@
         "type": "word",
         "surah": 63,
         "ayah": 4,
-        "word": "عَلَيۡهِمُۥۚ",
+        "word": "عَلَيْهِمْۖ",
         "wordIndex": 15
       },
       "end_word": {

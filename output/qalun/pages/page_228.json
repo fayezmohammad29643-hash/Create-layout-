@@ -5,7 +5,7 @@
     11
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -20,7 +20,7 @@
         "type": "word",
         "surah": 11,
         "ayah": 54,
-        "word": "ٱللَّهَ",
+        "word": "اُ۬للَّهَۖ",
         "wordIndex": 11
       }
     },
@@ -30,14 +30,14 @@
         "type": "word",
         "surah": 11,
         "ayah": 54,
-        "word": "وَٱشۡهَدُوٓاْ",
+        "word": "وَاشْهَدُواْ",
         "wordIndex": 12
       },
       "end_word": {
         "type": "word",
         "surah": 11,
         "ayah": 54,
-        "word": "فَكِيدُونِي",
+        "word": "فَكِيدُونِے",
         "wordIndex": 19
       }
     },
@@ -47,15 +47,15 @@
         "type": "word",
         "surah": 11,
         "ayah": 54,
-        "word": "جَمِيعٗا",
+        "word": "جَمِيعاٗ",
         "wordIndex": 20
       },
       "end_word": {
         "type": "word",
         "surah": 11,
         "ayah": 55,
-        "word": "مِن",
-        "wordIndex": 8
+        "word": "وَرَبِّكُمۖ",
+        "wordIndex": 6
       }
     },
     {
@@ -64,14 +64,15 @@
         "type": "word",
         "surah": 11,
         "ayah": 55,
-        "word": "دَآبَّةٍ",
-        "wordIndex": 9
+        "word": "مَّا",
+        "wordIndex": 7
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 11,
         "ayah": 55,
-        "number": 55
+        "word": "مُّسْتَقِيمٖۖ",
+        "wordIndex": 18
       }
     },
     {
@@ -87,8 +88,8 @@
         "type": "word",
         "surah": 11,
         "ayah": 56,
-        "word": "رَبِّي",
-        "wordIndex": 10
+        "word": "وَيَسْتَخْلِفُ",
+        "wordIndex": 9
       }
     },
     {
@@ -97,14 +98,15 @@
         "type": "word",
         "surah": 11,
         "ayah": 56,
-        "word": "قَوۡمًا",
-        "wordIndex": 11
+        "word": "رَبِّے",
+        "wordIndex": 10
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 11,
         "ayah": 56,
-        "number": 56
+        "word": "حَفِيظٞۖ",
+        "wordIndex": 21
       }
     },
     {
@@ -130,7 +132,7 @@
         "type": "word",
         "surah": 11,
         "ayah": 57,
-        "word": "وَنَجَّيۡنَٰهُمُۥ",
+        "word": "وَنَجَّيْنَٰهُم",
         "wordIndex": 11
       },
       "end_word": {
@@ -147,14 +149,14 @@
         "type": "word",
         "surah": 11,
         "ayah": 58,
-        "word": "رَبِّهِمُۥ",
+        "word": "رَبِّهِمْ",
         "wordIndex": 5
       },
       "end_word": {
         "type": "word",
         "surah": 11,
         "ayah": 59,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 2
       }
     },
@@ -181,14 +183,14 @@
         "type": "word",
         "surah": 11,
         "ayah": 59,
-        "word": "بُعۡدٗا",
+        "word": "بُعْداٗ",
         "wordIndex": 14
       },
       "end_word": {
         "type": "word",
         "surah": 11,
         "ayah": 60,
-        "word": "يَٰقَوۡمِ",
+        "word": "يَٰقَوْمِ",
         "wordIndex": 6
       }
     },
@@ -198,14 +200,14 @@
         "type": "word",
         "surah": 11,
         "ayah": 60,
-        "word": "ٱعۡبُدُواْ",
+        "word": "اِ۟عْبُدُواْ",
         "wordIndex": 7
       },
       "end_word": {
         "type": "word",
         "surah": 11,
         "ayah": 60,
-        "word": "ٱلۡأَرۡضِ",
+        "word": "اَ۬لْأَرْضِ",
         "wordIndex": 17
       }
     },
@@ -215,14 +217,15 @@
         "type": "word",
         "surah": 11,
         "ayah": 60,
-        "word": "وَٱسۡتَعۡمَرَكُمُۥ",
+        "word": "وَاسْتَعْمَرَكُمْ",
         "wordIndex": 18
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 11,
         "ayah": 60,
-        "number": 60
+        "word": "مُّجِيبٞۖ",
+        "wordIndex": 27
       }
     },
     {
@@ -238,7 +241,7 @@
         "type": "word",
         "surah": 11,
         "ayah": 61,
-        "word": "نَّعۡبُدَ",
+        "word": "نَّعْبُدَ",
         "wordIndex": 11
       }
     },

@@ -5,22 +5,22 @@
     18
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
       "first_word": {
         "type": "word",
         "surah": 18,
-        "ayah": 34,
+        "ayah": 35,
         "word": "وَدَخَلَ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 18,
-        "ayah": 34,
-        "word": "هَٰذِهِۦٓ",
+        "ayah": 35,
+        "word": "هَٰذِهِۦ",
         "wordIndex": 11
       }
     },
@@ -29,8 +29,8 @@
       "first_word": {
         "type": "word",
         "surah": 18,
-        "ayah": 34,
-        "word": "أَبَدٗا",
+        "ayah": 35,
+        "word": "أَبَداٗ",
         "wordIndex": 12
       },
       "end_word": {
@@ -38,7 +38,7 @@
         "surah": 18,
         "ayah": 35,
         "word": "لَأَجِدَنَّ",
-        "wordIndex": 9
+        "wordIndex": 21
       }
     },
     {
@@ -47,14 +47,14 @@
         "type": "word",
         "surah": 18,
         "ayah": 35,
-        "word": "خَيۡرٗا",
-        "wordIndex": 10
+        "word": "خَيْراٗ",
+        "wordIndex": 22
       },
       "end_word": {
         "type": "word",
         "surah": 18,
         "ayah": 36,
-        "word": "أَكَفَرۡتَ",
+        "word": "أَكَفَرْتَ",
         "wordIndex": 6
       }
     },
@@ -64,7 +64,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 36,
-        "word": "بِٱلَّذِي",
+        "word": "بِالذِے",
         "wordIndex": 7
       },
       "end_word": {
@@ -80,14 +80,14 @@
         "type": "word",
         "surah": 18,
         "ayah": 37,
-        "word": "لَّٰكِنَّا۠",
+        "word": "لَّٰكِنَّا",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 18,
         "ayah": 38,
-        "word": "دَخَلۡتَ",
+        "word": "دَخَلْتَ",
         "wordIndex": 3
       }
     },
@@ -114,14 +114,14 @@
         "type": "word",
         "surah": 18,
         "ayah": 38,
-        "word": "مَالٗا",
+        "word": "مَالاٗ",
         "wordIndex": 18
       },
       "end_word": {
         "type": "word",
         "surah": 18,
         "ayah": 39,
-        "word": "وَيُرۡسِلَ",
+        "word": "وَيُرْسِلَ",
         "wordIndex": 8
       }
     },
@@ -131,14 +131,14 @@
         "type": "word",
         "surah": 18,
         "ayah": 39,
-        "word": "عَلَيۡهَا",
+        "word": "عَلَيْهَا",
         "wordIndex": 9
       },
       "end_word": {
         "type": "word",
         "surah": 18,
         "ayah": 40,
-        "word": "يُصۡبِحَ",
+        "word": "يُصْبِحَ",
         "wordIndex": 2
       }
     },
@@ -165,7 +165,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 41,
-        "word": "فَأَصۡبَحَ",
+        "word": "فَأَصْبَحَ",
         "wordIndex": 3
       },
       "end_word": {
@@ -199,14 +199,14 @@
         "type": "word",
         "surah": 18,
         "ayah": 42,
-        "word": "فِئَةٞ",
+        "word": "فِئَةٞ",
         "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 18,
         "ayah": 43,
-        "word": "ٱلۡوَلَٰيَةُ",
+        "word": "اَ۬لْوَلَٰيَةُ",
         "wordIndex": 2
       }
     },
@@ -216,14 +216,14 @@
         "type": "word",
         "surah": 18,
         "ayah": 43,
-        "word": "لِلَّهِ",
+        "word": "لِلهِ",
         "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 18,
         "ayah": 44,
-        "word": "ٱلۡحَيَوٰةِ",
+        "word": "اَ۬لْحَيَوٰةِ",
         "wordIndex": 4
       }
     },
@@ -233,14 +233,14 @@
         "type": "word",
         "surah": 18,
         "ayah": 44,
-        "word": "ٱلدُّنۡيَا",
+        "word": "اِ۬لدُّنْيَا",
         "wordIndex": 5
       },
       "end_word": {
         "type": "word",
         "surah": 18,
         "ayah": 44,
-        "word": "ٱلۡأَرۡضِ",
+        "word": "اُ۬لْأَرْضِ",
         "wordIndex": 13
       }
     },
@@ -250,7 +250,7 @@
         "type": "word",
         "surah": 18,
         "ayah": 44,
-        "word": "فَأَصۡبَحَ",
+        "word": "فَأَصْبَحَ",
         "wordIndex": 14
       },
       "end_word": {

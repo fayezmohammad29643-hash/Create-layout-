@@ -5,7 +5,7 @@
     4
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,14 +13,14 @@
         "type": "word",
         "surah": 4,
         "ayah": 134,
-        "word": "يَـٰٓأَيُّهَا",
+        "word": "يَٰأَيُّهَا",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 4,
         "ayah": 134,
-        "word": "وَلَوۡ",
+        "word": "وَلَوْ",
         "wordIndex": 9
       }
     },
@@ -30,14 +30,14 @@
         "type": "word",
         "surah": 4,
         "ayah": 134,
-        "word": "عَلَىٰٓ",
+        "word": "عَلَىٰ",
         "wordIndex": 10
       },
       "end_word": {
         "type": "word",
         "surah": 4,
         "ayah": 134,
-        "word": "فَقِيرٗا",
+        "word": "فَقِيراٗ",
         "wordIndex": 19
       }
     },
@@ -47,14 +47,14 @@
         "type": "word",
         "surah": 4,
         "ayah": 134,
-        "word": "فَٱللَّهُ",
+        "word": "فَاللَّهُ",
         "wordIndex": 20
       },
       "end_word": {
         "type": "word",
         "surah": 4,
         "ayah": 134,
-        "word": "تَلۡوُۥٓاْ",
+        "word": "تَلْوُۥاْ",
         "wordIndex": 29
       }
     },
@@ -64,14 +64,14 @@
         "type": "word",
         "surah": 4,
         "ayah": 134,
-        "word": "أَوۡ",
+        "word": "أَوْ",
         "wordIndex": 30
       },
       "end_word": {
         "type": "word",
         "surah": 4,
         "ayah": 135,
-        "word": "يَـٰٓأَيُّهَا",
+        "word": "يَٰأَيُّهَا",
         "wordIndex": 1
       }
     },
@@ -81,7 +81,7 @@
         "type": "word",
         "surah": 4,
         "ayah": 135,
-        "word": "ٱلَّذِينَ",
+        "word": "اَ۬لذِينَ",
         "wordIndex": 2
       },
       "end_word": {
@@ -105,7 +105,7 @@
         "type": "word",
         "surah": 4,
         "ayah": 135,
-        "word": "يَكۡفُرۡ",
+        "word": "يَّكْفُرْ",
         "wordIndex": 18
       }
     },
@@ -115,7 +115,7 @@
         "type": "word",
         "surah": 4,
         "ayah": 135,
-        "word": "بِٱللَّهِ",
+        "word": "بِاللَّهِ",
         "wordIndex": 19
       },
       "end_word": {
@@ -132,7 +132,7 @@
         "type": "word",
         "surah": 4,
         "ayah": 135,
-        "word": "ضَلَٰلَۢا",
+        "word": "ضَلَٰلاَۢ",
         "wordIndex": 27
       },
       "end_word": {
@@ -156,7 +156,7 @@
         "type": "word",
         "surah": 4,
         "ayah": 136,
-        "word": "لِيَهۡدِيَهُمُۥ",
+        "word": "لِيَهْدِيَهُمْ",
         "wordIndex": 19
       }
     },
@@ -166,14 +166,14 @@
         "type": "word",
         "surah": 4,
         "ayah": 136,
-        "word": "سَبِيلَۢا",
+        "word": "سَبِيلاَۢۖ",
         "wordIndex": 20
       },
       "end_word": {
         "type": "word",
         "surah": 4,
         "ayah": 138,
-        "word": "ٱلَّذِينَ",
+        "word": "اِ۬لذِينَ",
         "wordIndex": 1
       }
     },
@@ -190,7 +190,7 @@
         "type": "word",
         "surah": 4,
         "ayah": 138,
-        "word": "أَيَبۡتَغُونَ",
+        "word": "أَيَبْتَغُونَ",
         "wordIndex": 8
       }
     },
@@ -207,7 +207,7 @@
         "type": "word",
         "surah": 4,
         "ayah": 139,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 4
       }
     },
@@ -217,19 +217,36 @@
         "type": "word",
         "surah": 4,
         "ayah": 139,
-        "word": "ٱلۡكِتَٰبِ",
+        "word": "اِ۬لْكِتَٰبِ",
         "wordIndex": 5
       },
       "end_word": {
         "type": "word",
         "surah": 4,
         "ayah": 139,
-        "word": "مِّثۡلُهُمُۥٓۗ",
-        "wordIndex": 25
+        "word": "فَلَا",
+        "wordIndex": 15
       }
     },
     {
       "line": 14,
+      "first_word": {
+        "type": "word",
+        "surah": 4,
+        "ayah": 139,
+        "word": "تَقْعُدُواْ",
+        "wordIndex": 16
+      },
+      "end_word": {
+        "type": "word",
+        "surah": 4,
+        "ayah": 139,
+        "word": "مِّثْلُهُمْۖ",
+        "wordIndex": 25
+      }
+    },
+    {
+      "line": 15,
       "first_word": {
         "type": "word",
         "surah": 4,

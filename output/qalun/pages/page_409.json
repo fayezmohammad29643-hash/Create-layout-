@@ -5,7 +5,7 @@
     30
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,14 +13,14 @@
         "type": "word",
         "surah": 30,
         "ayah": 41,
-        "word": "قُلۡ",
+        "word": "قُلْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 30,
         "ayah": 41,
-        "word": "قَبۡلُۚ",
+        "word": "قَبْلُۖ",
         "wordIndex": 11
       }
     },
@@ -47,7 +47,7 @@
         "type": "word",
         "surah": 30,
         "ayah": 42,
-        "word": "قَبۡلِ",
+        "word": "قَبْلِ",
         "wordIndex": 6
       },
       "end_word": {
@@ -80,7 +80,7 @@
         "type": "word",
         "surah": 30,
         "ayah": 44,
-        "word": "لِيَجۡزِيَ",
+        "word": "لِيَجْزِيَ",
         "wordIndex": 1
       },
       "end_word": {
@@ -97,14 +97,14 @@
         "type": "word",
         "surah": 30,
         "ayah": 44,
-        "word": "ٱلۡكَٰفِرِينَ",
+        "word": "اُ۬لْكَٰفِرِينَۖ",
         "wordIndex": 11
       },
       "end_word": {
         "type": "word",
         "surah": 30,
         "ayah": 45,
-        "word": "وَلِيُذِيقَكُمُۥ",
+        "word": "وَلِيُذِيقَكُم",
         "wordIndex": 7
       }
     },
@@ -114,14 +114,14 @@
         "type": "word",
         "surah": 30,
         "ayah": 45,
-        "word": "مِن",
+        "word": "مِّن",
         "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 30,
         "ayah": 45,
-        "word": "وَلَعَلَّكُمُۥ",
+        "word": "وَلَعَلَّكُمْ",
         "wordIndex": 16
       }
     },
@@ -131,14 +131,14 @@
         "type": "word",
         "surah": 30,
         "ayah": 45,
-        "word": "تَشۡكُرُونَ",
+        "word": "تَشْكُرُونَۖ",
         "wordIndex": 17
       },
       "end_word": {
         "type": "word",
         "surah": 30,
         "ayah": 46,
-        "word": "فَجَآءُوهُمُۥ",
+        "word": "فَجَآءُوهُم",
         "wordIndex": 8
       }
     },
@@ -148,14 +148,14 @@
         "type": "word",
         "surah": 30,
         "ayah": 46,
-        "word": "بِٱلۡبَيِّنَٰتِ",
+        "word": "بِالْبَيِّنَٰتِ",
         "wordIndex": 9
       },
       "end_word": {
         "type": "word",
         "surah": 30,
         "ayah": 46,
-        "word": "نَصۡرُ",
+        "word": "نَصْرُ",
         "wordIndex": 17
       }
     },
@@ -165,14 +165,14 @@
         "type": "word",
         "surah": 30,
         "ayah": 46,
-        "word": "ٱلۡمُؤۡمِنِينَ",
+        "word": "اُ۬لْمُؤْمِنِينَۖ",
         "wordIndex": 18
       },
       "end_word": {
         "type": "word",
         "surah": 30,
         "ayah": 47,
-        "word": "فَيَبۡسُطُهُۥ",
+        "word": "فَيَبْسُطُهُۥ",
         "wordIndex": 7
       }
     },
@@ -182,14 +182,14 @@
         "type": "word",
         "surah": 30,
         "ayah": 47,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 30,
         "ayah": 47,
-        "word": "مِنۡ",
+        "word": "مِنْ",
         "wordIndex": 17
       }
     },
@@ -203,10 +203,11 @@
         "wordIndex": 18
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 30,
         "ayah": 47,
-        "number": 47
+        "word": "يَسْتَبْشِرُونَۖ",
+        "wordIndex": 28
       }
     },
     {
@@ -219,10 +220,11 @@
         "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 30,
         "ayah": 48,
-        "number": 48
+        "word": "لَمُبْلِسِينَۖ",
+        "wordIndex": 10
       }
     },
     {
@@ -231,14 +233,14 @@
         "type": "word",
         "surah": 30,
         "ayah": 49,
-        "word": "فَٱنظُرۡ",
+        "word": "فَانظُرْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 30,
         "ayah": 49,
-        "word": "مَوۡتِهَآۚ",
+        "word": "مَوْتِهَاۖ",
         "wordIndex": 10
       }
     },

@@ -5,7 +5,7 @@
     10
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -20,7 +20,7 @@
         "type": "word",
         "surah": 10,
         "ayah": 15,
-        "word": "يَرۡجُونَ",
+        "word": "يَرْجُونَ",
         "wordIndex": 9
       }
     },
@@ -81,7 +81,7 @@
         "type": "word",
         "surah": 10,
         "ayah": 16,
-        "word": "لَّوۡ",
+        "word": "لَّوْ",
         "wordIndex": 2
       },
       "end_word": {
@@ -98,7 +98,7 @@
         "type": "word",
         "surah": 10,
         "ayah": 16,
-        "word": "فَقَدۡ",
+        "word": "فَقَدْ",
         "wordIndex": 11
       },
       "end_word": {
@@ -114,14 +114,14 @@
         "type": "word",
         "surah": 10,
         "ayah": 17,
-        "word": "فَمَنۡ",
+        "word": "فَمَنْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 10,
         "ayah": 17,
-        "word": "بِـَٔايَٰتِهِۦٓۚ",
+        "word": "بِـَٔايَٰتِهِۦۖ",
         "wordIndex": 10
       }
     },
@@ -138,7 +138,7 @@
         "type": "word",
         "surah": 10,
         "ayah": 18,
-        "word": "ٱللَّهِ",
+        "word": "اِ۬للَّهِ",
         "wordIndex": 4
       }
     },
@@ -182,7 +182,7 @@
         "type": "word",
         "surah": 10,
         "ayah": 18,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 24
       },
       "end_word": {
@@ -216,14 +216,15 @@
         "type": "word",
         "surah": 10,
         "ayah": 19,
-        "word": "سَبَقَتۡ",
+        "word": "سَبَقَتْ",
         "wordIndex": 10
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 10,
         "ayah": 19,
-        "number": 19
+        "word": "يَخْتَلِفُونَۖ",
+        "wordIndex": 17
       }
     },
     {
@@ -249,7 +250,7 @@
         "type": "word",
         "surah": 10,
         "ayah": 20,
-        "word": "ٱلۡغَيۡبُ",
+        "word": "اَ۬لْغَيْبُ",
         "wordIndex": 10
       },
       "end_word": {

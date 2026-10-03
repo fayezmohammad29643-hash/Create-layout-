@@ -5,7 +5,7 @@
     28
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,7 +13,7 @@
         "type": "word",
         "surah": 28,
         "ayah": 60,
-        "word": "وَمَآ",
+        "word": "وَمَا",
         "wordIndex": 1
       },
       "end_word": {
@@ -30,14 +30,14 @@
         "type": "word",
         "surah": 28,
         "ayah": 60,
-        "word": "ٱللَّهِ",
+        "word": "اَ۬للَّهِ",
         "wordIndex": 11
       },
       "end_word": {
         "type": "word",
         "surah": 28,
         "ayah": 61,
-        "word": "حَسَنٗا",
+        "word": "حَسَناٗ",
         "wordIndex": 4
       }
     },
@@ -47,14 +47,14 @@
         "type": "word",
         "surah": 28,
         "ayah": 61,
-        "word": "فَهۡوَ",
+        "word": "فَهْوَ",
         "wordIndex": 5
       },
       "end_word": {
         "type": "word",
         "surah": 28,
         "ayah": 61,
-        "word": "ٱلۡقِيَٰمَةِ",
+        "word": "اَ۬لْقِيَٰمَةِ",
         "wordIndex": 15
       }
     },
@@ -81,7 +81,7 @@
         "type": "word",
         "surah": 28,
         "ayah": 62,
-        "word": "ٱلَّذِينَ",
+        "word": "اَ۬لذِينَ",
         "wordIndex": 6
       },
       "end_word": {
@@ -98,14 +98,14 @@
         "type": "word",
         "surah": 28,
         "ayah": 63,
-        "word": "هَٰٓؤُلَآءِ",
+        "word": "هَٰؤُلَآءِ",
         "wordIndex": 7
       },
       "end_word": {
         "type": "word",
         "surah": 28,
         "ayah": 63,
-        "word": "إِلَيۡكَۖ",
+        "word": "إِلَيْكَۖ",
         "wordIndex": 14
       }
     },
@@ -122,8 +122,8 @@
         "type": "word",
         "surah": 28,
         "ayah": 64,
-        "word": "فَلَمۡ",
-        "wordIndex": 5
+        "word": "فَدَعَوْهُمْ",
+        "wordIndex": 4
       }
     },
     {
@@ -132,14 +132,15 @@
         "type": "word",
         "surah": 28,
         "ayah": 64,
-        "word": "يَسۡتَجِيبُواْ",
-        "wordIndex": 6
+        "word": "فَلَمْ",
+        "wordIndex": 5
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 28,
         "ayah": 64,
-        "number": 64
+        "word": "يَهْتَدُونَۖ",
+        "wordIndex": 13
       }
     },
     {
@@ -148,15 +149,14 @@
         "type": "word",
         "surah": 28,
         "ayah": 65,
-        "word": "وَيَوۡمَ",
+        "word": "وَيَوْمَ",
         "wordIndex": 1
       },
       "end_word": {
-        "type": "word",
+        "type": "ayah_marker",
         "surah": 28,
-        "ayah": 66,
-        "word": "فَعَمِيَتۡ",
-        "wordIndex": 1
+        "ayah": 65,
+        "number": 65
       }
     },
     {
@@ -165,15 +165,15 @@
         "type": "word",
         "surah": 28,
         "ayah": 66,
-        "word": "عَلَيۡهِمُ",
-        "wordIndex": 2
+        "word": "فَعَمِيَتْ",
+        "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 28,
         "ayah": 67,
-        "word": "تَابَ",
-        "wordIndex": 3
+        "word": "فَأَمَّا",
+        "wordIndex": 1
       }
     },
     {
@@ -182,14 +182,15 @@
         "type": "word",
         "surah": 28,
         "ayah": 67,
-        "word": "وَءَامَنَ",
-        "wordIndex": 4
+        "word": "مَن",
+        "wordIndex": 2
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 28,
         "ayah": 67,
-        "number": 67
+        "word": "اَ۬لْمُفْلِحِينَۖ",
+        "wordIndex": 11
       }
     },
     {
@@ -205,7 +206,7 @@
         "type": "word",
         "surah": 28,
         "ayah": 68,
-        "word": "سُبۡحَٰنَ",
+        "word": "سُبْحَٰنَ",
         "wordIndex": 10
       }
     },
@@ -215,7 +216,7 @@
         "type": "word",
         "surah": 28,
         "ayah": 68,
-        "word": "ٱللَّهِ",
+        "word": "اَ۬للَّهِ",
         "wordIndex": 11
       },
       "end_word": {
@@ -232,7 +233,7 @@
         "type": "word",
         "surah": 28,
         "ayah": 69,
-        "word": "صُدُورُهُمُۥ",
+        "word": "صُدُورُهُمْ",
         "wordIndex": 5
       },
       "end_word": {
@@ -249,7 +250,7 @@
         "type": "word",
         "surah": 28,
         "ayah": 70,
-        "word": "ٱلۡحَمۡدُ",
+        "word": "اُ۬لْحَمْدُ",
         "wordIndex": 8
       },
       "end_word": {

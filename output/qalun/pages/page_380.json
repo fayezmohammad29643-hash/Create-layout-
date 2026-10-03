@@ -5,7 +5,7 @@
     27
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -20,7 +20,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 37,
-        "word": "مِّمَّآ",
+        "word": "مِّمَّا",
         "wordIndex": 11
       }
     },
@@ -30,14 +30,14 @@
         "type": "word",
         "surah": 27,
         "ayah": 37,
-        "word": "ءَاتَىٰكُمُۥۚ",
+        "word": "ءَاتَيٰكُم",
         "wordIndex": 12
       },
       "end_word": {
         "type": "word",
         "surah": 27,
         "ayah": 38,
-        "word": "فَلَنَأۡتِيَنَّهُمُۥ",
+        "word": "فَلَنَأْتِيَنَّهُم",
         "wordIndex": 3
       }
     },
@@ -67,10 +67,11 @@
         "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 27,
         "ayah": 39,
-        "number": 39
+        "word": "مُسْلِمِينَۖ",
+        "wordIndex": 10
       }
     },
     {
@@ -86,7 +87,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 40,
-        "word": "مَّقَامِكَۖ",
+        "word": "مَّقَامِكَ",
         "wordIndex": 12
       }
     },
@@ -96,14 +97,14 @@
         "type": "word",
         "surah": 27,
         "ayah": 40,
-        "word": "وَإِنِّي",
+        "word": "وَإِنِّے",
         "wordIndex": 13
       },
       "end_word": {
         "type": "word",
         "surah": 27,
         "ayah": 41,
-        "word": "أَنَآ",
+        "word": "أَنَا",
         "wordIndex": 7
       }
     },
@@ -147,7 +148,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 41,
-        "word": "يَشۡكُرُ",
+        "word": "يَشْكُرُ",
         "wordIndex": 31
       },
       "end_word": {
@@ -164,7 +165,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 42,
-        "word": "عَرۡشَهَا",
+        "word": "عَرْشَهَا",
         "wordIndex": 4
       },
       "end_word": {
@@ -181,14 +182,14 @@
         "type": "word",
         "surah": 27,
         "ayah": 43,
-        "word": "جَآءَتۡ",
+        "word": "جَآءَتْ",
         "wordIndex": 2
       },
       "end_word": {
         "type": "word",
         "surah": 27,
         "ayah": 43,
-        "word": "قَبۡلِهَا",
+        "word": "قَبْلِهَا",
         "wordIndex": 12
       }
     },
@@ -215,7 +216,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 44,
-        "word": "قَوۡمٖ",
+        "word": "قَوْمٖ",
         "wordIndex": 11
       },
       "end_word": {
@@ -232,7 +233,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 45,
-        "word": "وَكَشَفَتۡ",
+        "word": "وَكَشَفَتْ",
         "wordIndex": 9
       },
       "end_word": {
@@ -249,7 +250,7 @@
         "type": "word",
         "surah": 27,
         "ayah": 46,
-        "word": "إِنِّي",
+        "word": "إِنِّے",
         "wordIndex": 3
       },
       "end_word": {

@@ -8,7 +8,7 @@
   "totalCompletedLines": 4,
   "ayaCount": 6,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 602,
@@ -19,7 +19,7 @@
             "type": "word",
             "surah": 107,
             "ayah": 1,
-            "word": "أَرَٰ۬يۡتَ",
+            "word": "أَرَٰ۬يْتَ",
             "wordIndex": 1
           },
           "end_word": {
@@ -36,14 +36,14 @@
             "type": "word",
             "surah": 107,
             "ayah": 2,
-            "word": "ٱلۡيَتِيمَ",
+            "word": "اُ۬لْيَتِيمَ",
             "wordIndex": 4
           },
           "end_word": {
             "type": "word",
             "surah": 107,
             "ayah": 4,
-            "word": "فَوَيۡلٞ",
+            "word": "فَوَيْلٞ",
             "wordIndex": 1
           }
         },
@@ -53,14 +53,15 @@
             "type": "word",
             "surah": 107,
             "ayah": 4,
-            "word": "لِّلۡمُصَلِّينَ",
+            "word": "لِّلْمُصَلِّينَ",
             "wordIndex": 2
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 107,
             "ayah": 5,
-            "number": 5
+            "word": "سَاهُونَ",
+            "wordIndex": 5
           }
         },
         {
@@ -69,7 +70,7 @@
             "type": "word",
             "surah": 107,
             "ayah": 6,
-            "word": "ٱلَّذِينَ",
+            "word": "اَ۬لذِينَ",
             "wordIndex": 1
           },
           "end_word": {

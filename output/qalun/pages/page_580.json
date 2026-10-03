@@ -6,7 +6,7 @@
     77
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -21,7 +21,7 @@
         "type": "word",
         "surah": 76,
         "ayah": 27,
-        "word": "هَٰٓؤُلَآءِ",
+        "word": "هَٰؤُلَآءِ",
         "wordIndex": 2
       }
     },
@@ -38,7 +38,7 @@
         "type": "word",
         "surah": 76,
         "ayah": 28,
-        "word": "خَلَقۡنَٰهُمُۥ",
+        "word": "خَلَقْنَٰهُمْ",
         "wordIndex": 2
       }
     },
@@ -48,7 +48,7 @@
         "type": "word",
         "surah": 76,
         "ayah": 28,
-        "word": "وَشَدَدۡنَآ",
+        "word": "وَشَدَدْنَا",
         "wordIndex": 3
       },
       "end_word": {
@@ -82,14 +82,14 @@
         "type": "word",
         "surah": 76,
         "ayah": 30,
-        "word": "إِلَّآ",
+        "word": "إِلَّا",
         "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 76,
         "ayah": 31,
-        "word": "يُدۡخِلُ",
+        "word": "يُدْخِلُ",
         "wordIndex": 1
       }
     },
@@ -99,7 +99,7 @@
         "type": "word",
         "surah": 76,
         "ayah": 31,
-        "word": "مَن",
+        "word": "مَنْ",
         "wordIndex": 2
       },
       "end_word": {
@@ -115,7 +115,7 @@
         "type": "word",
         "surah": 77,
         "ayah": 1,
-        "word": "وَٱلۡمُرۡسَلَٰتِ",
+        "word": "وَالْمُرْسَلَٰتِ",
         "wordIndex": 1
       },
       "end_word": {
@@ -131,7 +131,7 @@
         "type": "word",
         "surah": 77,
         "ayah": 4,
-        "word": "فَٱلۡفَٰرِقَٰتِ",
+        "word": "فَالْفَٰرِقَٰتِ",
         "wordIndex": 1
       },
       "end_word": {
@@ -152,10 +152,11 @@
         "wordIndex": 2
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 77,
         "ayah": 9,
-        "number": 9
+        "word": "فُرِجَتْ",
+        "wordIndex": 3
       }
     },
     {
@@ -168,10 +169,11 @@
         "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 77,
         "ayah": 12,
-        "number": 12
+        "word": "أُجِّلَتْ",
+        "wordIndex": 3
       }
     },
     {
@@ -180,14 +182,14 @@
         "type": "word",
         "surah": 77,
         "ayah": 13,
-        "word": "لِيَوۡمِ",
+        "word": "لِيَوْمِ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 77,
         "ayah": 15,
-        "word": "يَوۡمَئِذٖ",
+        "word": "يَوْمَئِذٖ",
         "wordIndex": 2
       }
     },
@@ -197,14 +199,15 @@
         "type": "word",
         "surah": 77,
         "ayah": 15,
-        "word": "لِّلۡمُكَذِّبِينَ",
+        "word": "لِّلْمُكَذِّبِينَۖ",
         "wordIndex": 3
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 77,
         "ayah": 17,
-        "number": 17
+        "word": "اُ۬لْأٓخِرِينَۖ",
+        "wordIndex": 3
       }
     },
     {

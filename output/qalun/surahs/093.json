@@ -1,14 +1,14 @@
 {
   "schema_version": 3,
   "surahId": 93,
-  "surahName": "الضُّحَىٰ",
+  "surahName": "الضُّحَيٰ",
   "startPage": 596,
   "endPage": 596,
   "totalPagesInSurah": 1,
   "totalCompletedLines": 5,
   "ayaCount": 11,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 596,
@@ -19,7 +19,7 @@
             "type": "word",
             "surah": 93,
             "ayah": 1,
-            "word": "وَٱلضُّحَىٰ",
+            "word": "وَالضُّحَىٰ",
             "wordIndex": 1
           },
           "end_word": {
@@ -35,7 +35,7 @@
             "type": "word",
             "surah": 93,
             "ayah": 4,
-            "word": "وَلَلۡأٓخِرَةُ",
+            "word": "وَلَلْأٓخِرَةُ",
             "wordIndex": 1
           },
           "end_word": {
@@ -52,14 +52,15 @@
             "type": "word",
             "surah": 93,
             "ayah": 5,
-            "word": "فَتَرۡضَىٰٓ",
+            "word": "فَتَرْضَىٰۖ",
             "wordIndex": 4
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 93,
             "ayah": 7,
-            "number": 7
+            "word": "فَهَدَىٰ",
+            "wordIndex": 3
           }
         },
         {
@@ -72,10 +73,11 @@
             "wordIndex": 1
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 93,
             "ayah": 9,
-            "number": 9
+            "word": "تَقْهَرْۖ",
+            "wordIndex": 4
           }
         },
         {

@@ -5,7 +5,7 @@
     9
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,7 +13,7 @@
         "type": "word",
         "surah": 9,
         "ayah": 21,
-        "word": "يُبَشِّرُهُمُۥ",
+        "word": "يُبَشِّرُهُمْ",
         "wordIndex": 1
       },
       "end_word": {
@@ -37,7 +37,7 @@
         "type": "word",
         "surah": 9,
         "ayah": 22,
-        "word": "أَجۡرٌ",
+        "word": "أَجْرٌ",
         "wordIndex": 7
       }
     },
@@ -47,14 +47,14 @@
         "type": "word",
         "surah": 9,
         "ayah": 22,
-        "word": "عَظِيمٞ",
+        "word": "عَظِيمٞۖ",
         "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 9,
         "ayah": 23,
-        "word": "ءَابَآءَكُمُۥ",
+        "word": "ءَابَآءَكُمْ",
         "wordIndex": 6
       }
     },
@@ -64,14 +64,14 @@
         "type": "word",
         "surah": 9,
         "ayah": 23,
-        "word": "وَإِخۡوَٰنَكُمُۥٓ",
+        "word": "وَإِخْوَٰنَكُمْ",
         "wordIndex": 7
       },
       "end_word": {
         "type": "word",
         "surah": 9,
         "ayah": 23,
-        "word": "ٱلۡإِيمَٰنِۚ",
+        "word": "اَ۬لْإِيمَٰنِۖ",
         "wordIndex": 13
       }
     },
@@ -81,7 +81,7 @@
         "type": "word",
         "surah": 9,
         "ayah": 23,
-        "word": "وَمَن",
+        "word": "وَمَنْ",
         "wordIndex": 14
       },
       "end_word": {
@@ -105,7 +105,7 @@
         "type": "word",
         "surah": 9,
         "ayah": 24,
-        "word": "وَأَزۡوَٰجُكُمُۥ",
+        "word": "وَأَزْوَٰجُكُمْ",
         "wordIndex": 7
       }
     },
@@ -115,14 +115,14 @@
         "type": "word",
         "surah": 9,
         "ayah": 24,
-        "word": "وَعَشِيرَتُكُمُۥ",
+        "word": "وَعَشِيرَتُكُمْ",
         "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 9,
         "ayah": 24,
-        "word": "تَخۡشَوۡنَ",
+        "word": "تَخْشَوْنَ",
         "wordIndex": 12
       }
     },
@@ -139,7 +139,7 @@
         "type": "word",
         "surah": 9,
         "ayah": 24,
-        "word": "ٱللَّهِ",
+        "word": "اَ۬للَّهِ",
         "wordIndex": 19
       }
     },
@@ -156,7 +156,7 @@
         "type": "word",
         "surah": 9,
         "ayah": 24,
-        "word": "ٱللَّهُ",
+        "word": "اَ۬للَّهُ",
         "wordIndex": 27
       }
     },
@@ -166,7 +166,7 @@
         "type": "word",
         "surah": 9,
         "ayah": 24,
-        "word": "بِأَمۡرِهِۦۗ",
+        "word": "بِأَمْرِهِۦۖ",
         "wordIndex": 28
       },
       "end_word": {
@@ -183,14 +183,14 @@
         "type": "word",
         "surah": 9,
         "ayah": 25,
-        "word": "ٱللَّهُ",
+        "word": "اُ۬للَّهُ",
         "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 9,
         "ayah": 25,
-        "word": "أَعۡجَبَتۡكُمُۥ",
+        "word": "أَعْجَبَتْكُمْ",
         "wordIndex": 10
       }
     },
@@ -200,14 +200,14 @@
         "type": "word",
         "surah": 9,
         "ayah": 25,
-        "word": "كَثۡرَتُكُمُۥ",
+        "word": "كَثْرَتُكُمْ",
         "wordIndex": 11
       },
       "end_word": {
         "type": "word",
         "surah": 9,
         "ayah": 25,
-        "word": "عَلَيۡكُمُ",
+        "word": "عَلَيْكُمُ",
         "wordIndex": 17
       }
     },
@@ -217,14 +217,14 @@
         "type": "word",
         "surah": 9,
         "ayah": 25,
-        "word": "ٱلۡأَرۡضُ",
+        "word": "اُ۬لْأَرْضُ",
         "wordIndex": 18
       },
       "end_word": {
         "type": "word",
         "surah": 9,
         "ayah": 26,
-        "word": "ٱللَّهُ",
+        "word": "اَ۬للَّهُ",
         "wordIndex": 3
       }
     },
@@ -241,7 +241,7 @@
         "type": "word",
         "surah": 9,
         "ayah": 26,
-        "word": "جُنُودٗا",
+        "word": "جُنُوداٗ",
         "wordIndex": 10
       }
     },
@@ -251,7 +251,7 @@
         "type": "word",
         "surah": 9,
         "ayah": 26,
-        "word": "لَّمۡ",
+        "word": "لَّمْ",
         "wordIndex": 11
       },
       "end_word": {

@@ -5,7 +5,7 @@
     29
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,14 +13,14 @@
         "type": "word",
         "surah": 29,
         "ayah": 39,
-        "word": "وَقَٰرُونَ",
+        "word": "وَقَارُونَ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 29,
         "ayah": 39,
-        "word": "بِٱلۡبَيِّنَٰتِ",
+        "word": "بِالْبَيِّنَٰتِ",
         "wordIndex": 7
       }
     },
@@ -30,7 +30,7 @@
         "type": "word",
         "surah": 29,
         "ayah": 39,
-        "word": "فَٱسۡتَكۡبَرُواْ",
+        "word": "فَاسْتَكْبَرُواْ",
         "wordIndex": 8
       },
       "end_word": {
@@ -46,14 +46,14 @@
         "type": "word",
         "surah": 29,
         "ayah": 40,
-        "word": "فَكُلًّا",
+        "word": "فَكُلّاً",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 29,
         "ayah": 40,
-        "word": "حَاصِبٗا",
+        "word": "حَاصِباٗۖ",
         "wordIndex": 8
       }
     },
@@ -63,7 +63,7 @@
         "type": "word",
         "surah": 29,
         "ayah": 40,
-        "word": "وَمِنۡهُمُۥ",
+        "word": "وَمِنْهُم",
         "wordIndex": 9
       },
       "end_word": {
@@ -80,14 +80,14 @@
         "type": "word",
         "surah": 29,
         "ayah": 40,
-        "word": "ٱلۡأَرۡضَ",
+        "word": "اِ۬لْأَرْضَۖ",
         "wordIndex": 17
       },
       "end_word": {
         "type": "word",
         "surah": 29,
         "ayah": 40,
-        "word": "لِيَظۡلِمَهُمُۥ",
+        "word": "لِيَظْلِمَهُمْۖ",
         "wordIndex": 24
       }
     },
@@ -104,7 +104,7 @@
         "type": "word",
         "surah": 29,
         "ayah": 41,
-        "word": "ٱلَّذِينَ",
+        "word": "اُ۬لذِينَ",
         "wordIndex": 2
       }
     },
@@ -114,14 +114,14 @@
         "type": "word",
         "surah": 29,
         "ayah": 41,
-        "word": "ٱتَّخَذُواْ",
+        "word": "اَ۪تَّخَذُواْ",
         "wordIndex": 3
       },
       "end_word": {
         "type": "word",
         "surah": 29,
         "ayah": 41,
-        "word": "ٱلۡعَنكَبُوتِ",
+        "word": "اِ۬لْعَنكَبُوتِ",
         "wordIndex": 9
       }
     },
@@ -131,14 +131,14 @@
         "type": "word",
         "surah": 29,
         "ayah": 41,
-        "word": "ٱتَّخَذَتۡ",
+        "word": "اِ۪تَّخَذَتْ",
         "wordIndex": 10
       },
       "end_word": {
         "type": "word",
         "surah": 29,
         "ayah": 41,
-        "word": "ٱلۡعَنكَبُوتِۚ",
+        "word": "اُ۬لْعَنكَبُوتِ",
         "wordIndex": 16
       }
     },
@@ -148,7 +148,7 @@
         "type": "word",
         "surah": 29,
         "ayah": 41,
-        "word": "لَوۡ",
+        "word": "لَوْ",
         "wordIndex": 17
       },
       "end_word": {
@@ -172,7 +172,7 @@
         "type": "word",
         "surah": 29,
         "ayah": 43,
-        "word": "وَتِلۡكَ",
+        "word": "وَتِلْكَ",
         "wordIndex": 1
       }
     },
@@ -182,14 +182,15 @@
         "type": "word",
         "surah": 29,
         "ayah": 43,
-        "word": "ٱلۡأَمۡثَٰلُ",
+        "word": "اَ۬لْأَمْثَٰلُ",
         "wordIndex": 2
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 29,
         "ayah": 43,
-        "number": 43
+        "word": "اَ۬لْعَٰلِمُونَۖ",
+        "wordIndex": 8
       }
     },
     {
@@ -222,7 +223,7 @@
         "type": "word",
         "surah": 29,
         "ayah": 45,
-        "word": "ٱلۡكِتَٰبِ",
+        "word": "اَ۬لْكِتَٰبِ",
         "wordIndex": 6
       }
     },
@@ -239,7 +240,7 @@
         "type": "word",
         "surah": 29,
         "ayah": 45,
-        "word": "ٱلۡفَحۡشَآءِ",
+        "word": "اِ۬لْفَحْشَآءِ",
         "wordIndex": 13
       }
     },
@@ -249,7 +250,7 @@
         "type": "word",
         "surah": 29,
         "ayah": 45,
-        "word": "وَٱلۡمُنكَرِۗ",
+        "word": "وَالْمُنكَرِۖ",
         "wordIndex": 14
       },
       "end_word": {

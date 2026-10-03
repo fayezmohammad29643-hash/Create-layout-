@@ -5,7 +5,7 @@
     55
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -70,7 +70,7 @@
         "type": "word",
         "surah": 55,
         "ayah": 25,
-        "word": "وَجۡهُ",
+        "word": "وَجْهُ",
         "wordIndex": 2
       }
     },
@@ -96,7 +96,7 @@
         "type": "word",
         "surah": 55,
         "ayah": 27,
-        "word": "يَسۡـَٔلُهُۥ",
+        "word": "يَسْـَٔلُهُۥ",
         "wordIndex": 1
       },
       "end_word": {
@@ -137,7 +137,7 @@
         "type": "word",
         "surah": 55,
         "ayah": 31,
-        "word": "ٱسۡتَطَعۡتُمُۥٓ",
+        "word": "اِ۪سْتَطَعْتُمْ",
         "wordIndex": 5
       }
     },
@@ -171,7 +171,7 @@
         "type": "word",
         "surah": 55,
         "ayah": 33,
-        "word": "عَلَيۡكُمَا",
+        "word": "عَلَيْكُمَا",
         "wordIndex": 2
       }
     },
@@ -198,14 +198,15 @@
         "type": "word",
         "surah": 55,
         "ayah": 35,
-        "word": "تُكَذِّبَانِ",
+        "word": "تُكَذِّبَانِۖ",
         "wordIndex": 4
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 55,
         "ayah": 36,
-        "number": 36
+        "word": "كَالدِّهَانِ",
+        "wordIndex": 6
       }
     },
     {
@@ -231,7 +232,7 @@
         "type": "word",
         "surah": 55,
         "ayah": 38,
-        "word": "ذَنۢبِهِۦٓ",
+        "word": "ذَنۢبِهِۦ",
         "wordIndex": 5
       },
       "end_word": {
@@ -247,7 +248,7 @@
         "type": "word",
         "surah": 55,
         "ayah": 40,
-        "word": "يُعۡرَفُ",
+        "word": "يُعْرَفُ",
         "wordIndex": 1
       },
       "end_word": {

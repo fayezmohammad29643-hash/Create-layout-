@@ -1,14 +1,14 @@
 {
   "schema_version": 3,
   "surahId": 103,
-  "surahName": "العَصۡرِ",
+  "surahName": "العَصْرِ",
   "startPage": 601,
   "endPage": 601,
   "totalPagesInSurah": 1,
   "totalCompletedLines": 2,
   "ayaCount": 3,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 601,
@@ -19,13 +19,13 @@
             "type": "word",
             "surah": 103,
             "ayah": 1,
-            "word": "وَٱلۡعَصۡرِ",
+            "word": "وَالْعَصْرِ",
             "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 103,
-            "ayah": 3,
+            "ayah": 2,
             "word": "ءَامَنُواْ",
             "wordIndex": 3
           }
@@ -35,7 +35,7 @@
           "first_word": {
             "type": "word",
             "surah": 103,
-            "ayah": 3,
+            "ayah": 2,
             "word": "وَعَمِلُواْ",
             "wordIndex": 4
           },

@@ -5,7 +5,7 @@
     19
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,15 +13,15 @@
         "type": "word",
         "surah": 19,
         "ayah": 38,
-        "word": "وَأَنذِرۡهُمُۥ",
+        "word": "وَأَنذِرْهُمْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 19,
         "ayah": 38,
-        "word": "وَهُمُۥ",
-        "wordIndex": 10
+        "word": "يُؤْمِنُونَۖ",
+        "wordIndex": 12
       }
     },
     {
@@ -29,15 +29,16 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 38,
-        "word": "لَا",
-        "wordIndex": 11
+        "ayah": 39,
+        "word": "إِنَّا",
+        "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 19,
-        "ayah": 39,
-        "number": 39
+        "ayah": 40,
+        "word": "وَاذْكُرْ",
+        "wordIndex": 1
       }
     },
     {
@@ -46,15 +47,15 @@
         "type": "word",
         "surah": 19,
         "ayah": 40,
-        "word": "وَٱذۡكُرۡ",
-        "wordIndex": 1
+        "word": "فِے",
+        "wordIndex": 2
       },
       "end_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 41,
-        "word": "لِأَبِيهِ",
-        "wordIndex": 3
+        "ayah": 42,
+        "word": "يَٰأَبَتِ",
+        "wordIndex": 4
       }
     },
     {
@@ -62,15 +63,16 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 41,
-        "word": "يَٰٓأَبَتِ",
-        "wordIndex": 4
+        "ayah": 42,
+        "word": "لِمَ",
+        "wordIndex": 5
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 19,
-        "ayah": 41,
-        "number": 41
+        "ayah": 43,
+        "word": "يَٰأَبَتِ",
+        "wordIndex": 1
       }
     },
     {
@@ -78,15 +80,15 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 42,
-        "word": "يَٰٓأَبَتِ",
-        "wordIndex": 1
+        "ayah": 43,
+        "word": "إِنِّے",
+        "wordIndex": 2
       },
       "end_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 42,
-        "word": "صِرَٰطٗا",
+        "ayah": 43,
+        "word": "صِرَٰطاٗ",
         "wordIndex": 12
       }
     },
@@ -95,15 +97,15 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 42,
-        "word": "سَوِيّٗا",
+        "ayah": 43,
+        "word": "سَوِيّاٗۖ",
         "wordIndex": 13
       },
       "end_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 43,
-        "word": "لِلرَّحۡمَٰنِ",
+        "ayah": 44,
+        "word": "لِلرَّحْمَٰنِ",
         "wordIndex": 8
       }
     },
@@ -112,15 +114,15 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 43,
-        "word": "عَصِيّٗا",
+        "ayah": 44,
+        "word": "عَصِيّاٗۖ",
         "wordIndex": 9
       },
       "end_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 44,
-        "word": "ٱلرَّحۡمَٰنِ",
+        "ayah": 45,
+        "word": "اَ۬لرَّحْمَٰنِ",
         "wordIndex": 8
       }
     },
@@ -129,15 +131,15 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 44,
+        "ayah": 45,
         "word": "فَتَكُونَ",
         "wordIndex": 9
       },
       "end_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 45,
-        "word": "ءَالِهَتِي",
+        "ayah": 46,
+        "word": "ءَالِهَتِےۖ",
         "wordIndex": 5
       }
     },
@@ -146,14 +148,14 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 45,
-        "word": "يَٰٓإِبۡرَٰهِيمُۖ",
+        "ayah": 46,
+        "word": "يَٰإِبْرَٰهِيمُ",
         "wordIndex": 6
       },
       "end_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 46,
+        "ayah": 47,
         "word": "قَالَ",
         "wordIndex": 1
       }
@@ -163,15 +165,15 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 46,
+        "ayah": 47,
         "word": "سَلَٰمٌ",
         "wordIndex": 2
       },
       "end_word": {
         "type": "ayah_marker",
         "surah": 19,
-        "ayah": 46,
-        "number": 46
+        "ayah": 47,
+        "number": 47
       }
     },
     {
@@ -179,15 +181,15 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 47,
-        "word": "وَأَعۡتَزِلُكُمُۥ",
+        "ayah": 48,
+        "word": "وَأَعْتَزِلُكُمْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 47,
-        "word": "أَلَّآ",
+        "ayah": 48,
+        "word": "أَلَّا",
         "wordIndex": 10
       }
     },
@@ -196,14 +198,14 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 47,
+        "ayah": 48,
         "word": "أَكُونَ",
         "wordIndex": 11
       },
       "end_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 48,
+        "ayah": 49,
         "word": "مِن",
         "wordIndex": 5
       }
@@ -213,25 +215,9 @@
       "first_word": {
         "type": "word",
         "surah": 19,
-        "ayah": 48,
+        "ayah": 49,
         "word": "دُونِ",
         "wordIndex": 6
-      },
-      "end_word": {
-        "type": "ayah_marker",
-        "surah": 19,
-        "ayah": 48,
-        "number": 48
-      }
-    },
-    {
-      "line": 14,
-      "first_word": {
-        "type": "word",
-        "surah": 19,
-        "ayah": 49,
-        "word": "وَوَهَبۡنَا",
-        "wordIndex": 1
       },
       "end_word": {
         "type": "ayah_marker",
@@ -241,12 +227,12 @@
       }
     },
     {
-      "line": 15,
+      "line": 14,
       "first_word": {
         "type": "word",
         "surah": 19,
         "ayah": 50,
-        "word": "وَٱذۡكُرۡ",
+        "word": "وَوَهَبْنَا",
         "wordIndex": 1
       },
       "end_word": {
@@ -254,6 +240,22 @@
         "surah": 19,
         "ayah": 50,
         "number": 50
+      }
+    },
+    {
+      "line": 15,
+      "first_word": {
+        "type": "word",
+        "surah": 19,
+        "ayah": 51,
+        "word": "وَاذْكُرْ",
+        "wordIndex": 1
+      },
+      "end_word": {
+        "type": "ayah_marker",
+        "surah": 19,
+        "ayah": 51,
+        "number": 51
       }
     }
   ]

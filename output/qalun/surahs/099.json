@@ -1,14 +1,14 @@
 {
   "schema_version": 3,
   "surahId": 99,
-  "surahName": "الزَّلۡزَلَةِ",
+  "surahName": "الزَّلْزَلَةِ",
   "startPage": 599,
   "endPage": 599,
   "totalPagesInSurah": 1,
   "totalCompletedLines": 4,
-  "ayaCount": 8,
+  "ayaCount": 9,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 599,
@@ -36,14 +36,15 @@
             "type": "word",
             "surah": 99,
             "ayah": 3,
-            "word": "ٱلۡإِنسَٰنُ",
+            "word": "اَ۬لْإِنسَٰنُ",
             "wordIndex": 2
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 99,
             "ayah": 5,
-            "number": 5
+            "word": "لَهَاۖ",
+            "wordIndex": 4
           }
         },
         {
@@ -52,14 +53,14 @@
             "type": "word",
             "surah": 99,
             "ayah": 6,
-            "word": "يَوۡمَئِذٖ",
+            "word": "يَوْمَئِذٖ",
             "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 99,
-            "ayah": 7,
-            "word": "يَعۡمَلۡ",
+            "ayah": 8,
+            "word": "يَّعْمَلْ",
             "wordIndex": 2
           }
         },
@@ -68,15 +69,15 @@
           "first_word": {
             "type": "word",
             "surah": 99,
-            "ayah": 7,
-            "word": "مِثۡقَالَ",
+            "ayah": 8,
+            "word": "مِثْقَالَ",
             "wordIndex": 3
           },
           "end_word": {
             "type": "ayah_marker",
             "surah": 99,
-            "ayah": 8,
-            "number": 8
+            "ayah": 9,
+            "number": 9
           }
         }
       ]

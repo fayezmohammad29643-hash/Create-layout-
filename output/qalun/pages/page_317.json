@@ -5,7 +5,7 @@
     20
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,14 +13,14 @@
         "type": "word",
         "surah": 20,
         "ayah": 76,
-        "word": "وَلَقَدۡ",
+        "word": "وَلَقَدْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 20,
         "ayah": 76,
-        "word": "طَرِيقٗا",
+        "word": "طَرِيقاٗ",
         "wordIndex": 10
       }
     },
@@ -30,14 +30,14 @@
         "type": "word",
         "surah": 20,
         "ayah": 76,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 11
       },
       "end_word": {
         "type": "word",
         "surah": 20,
         "ayah": 77,
-        "word": "فِرۡعَوۡنُ",
+        "word": "فِرْعَوْنُ",
         "wordIndex": 2
       }
     },
@@ -54,7 +54,7 @@
         "type": "word",
         "surah": 20,
         "ayah": 77,
-        "word": "قَوۡمَهُۥ",
+        "word": "قَوْمَهُۥ",
         "wordIndex": 11
       }
     },
@@ -71,7 +71,7 @@
         "type": "word",
         "surah": 20,
         "ayah": 78,
-        "word": "وَوَٰعَدۡنَٰكُمُۥ",
+        "word": "وَوَٰعَدْنَٰكُمْ",
         "wordIndex": 7
       }
     },
@@ -105,7 +105,7 @@
         "type": "word",
         "surah": 20,
         "ayah": 79,
-        "word": "غَضَبِيۖ",
+        "word": "غَضَبِےۖ",
         "wordIndex": 11
       }
     },
@@ -115,7 +115,7 @@
         "type": "word",
         "surah": 20,
         "ayah": 79,
-        "word": "وَمَن",
+        "word": "وَمَنْ",
         "wordIndex": 12
       },
       "end_word": {
@@ -149,14 +149,14 @@
         "type": "word",
         "surah": 20,
         "ayah": 81,
-        "word": "قَوۡمِكَ",
+        "word": "قَوْمِكَ",
         "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 20,
         "ayah": 82,
-        "word": "إِلَيۡكَ",
+        "word": "إِلَيْكَ",
         "wordIndex": 7
       }
     },
@@ -183,15 +183,15 @@
         "type": "word",
         "surah": 20,
         "ayah": 83,
-        "word": "ٱلسَّامِرِيُّ",
+        "word": "اُ۬لسَّامِرِيُّۖ",
         "wordIndex": 9
       },
       "end_word": {
         "type": "word",
         "surah": 20,
-        "ayah": 85,
+        "ayah": 84,
         "word": "قَالَ",
-        "wordIndex": 1
+        "wordIndex": 7
       }
     },
     {
@@ -199,16 +199,16 @@
       "first_word": {
         "type": "word",
         "surah": 20,
-        "ayah": 85,
-        "word": "يَٰقَوۡمِ",
-        "wordIndex": 2
+        "ayah": 84,
+        "word": "يَٰقَوْمِ",
+        "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 20,
         "ayah": 85,
-        "word": "ٱلۡعَهۡدُ",
-        "wordIndex": 10
+        "word": "اُ۬لْعَهْدُ",
+        "wordIndex": 3
       }
     },
     {
@@ -217,15 +217,15 @@
         "type": "word",
         "surah": 20,
         "ayah": 85,
-        "word": "أَمۡ",
-        "wordIndex": 11
+        "word": "أَمْ",
+        "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 20,
         "ayah": 85,
-        "word": "فَأَخۡلَفۡتُمُۥ",
-        "wordIndex": 19
+        "word": "فَأَخْلَفْتُم",
+        "wordIndex": 12
       }
     },
     {
@@ -234,14 +234,14 @@
         "type": "word",
         "surah": 20,
         "ayah": 85,
-        "word": "مَوۡعِدِي",
-        "wordIndex": 20
+        "word": "مَّوْعِدِےۖ",
+        "wordIndex": 13
       },
       "end_word": {
         "type": "word",
         "surah": 20,
         "ayah": 86,
-        "word": "حُمِّلۡنَآ",
+        "word": "حُمِّلْنَا",
         "wordIndex": 7
       }
     },
@@ -251,14 +251,15 @@
         "type": "word",
         "surah": 20,
         "ayah": 86,
-        "word": "أَوۡزَارٗا",
+        "word": "أَوْزَاراٗ",
         "wordIndex": 8
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 20,
         "ayah": 86,
-        "number": 86
+        "word": "اَ۬لسَّامِرِيُّۖ",
+        "wordIndex": 15
       }
     }
   ]

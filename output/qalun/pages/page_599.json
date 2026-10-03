@@ -7,7 +7,7 @@
     100
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -56,7 +56,7 @@
         "type": "word",
         "surah": 98,
         "ayah": 8,
-        "word": "جَزَآؤُهُمُۥ",
+        "word": "جَزَآؤُهُمْ",
         "wordIndex": 1
       }
     },
@@ -83,7 +83,7 @@
         "type": "word",
         "surah": 98,
         "ayah": 8,
-        "word": "فِيهَآ",
+        "word": "فِيهَا",
         "wordIndex": 11
       },
       "end_word": {
@@ -116,14 +116,15 @@
         "type": "word",
         "surah": 99,
         "ayah": 3,
-        "word": "ٱلۡإِنسَٰنُ",
+        "word": "اَ۬لْإِنسَٰنُ",
         "wordIndex": 2
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 99,
         "ayah": 5,
-        "number": 5
+        "word": "لَهَاۖ",
+        "wordIndex": 4
       }
     },
     {
@@ -132,14 +133,14 @@
         "type": "word",
         "surah": 99,
         "ayah": 6,
-        "word": "يَوۡمَئِذٖ",
+        "word": "يَوْمَئِذٖ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 99,
-        "ayah": 7,
-        "word": "يَعۡمَلۡ",
+        "ayah": 8,
+        "word": "يَّعْمَلْ",
         "wordIndex": 2
       }
     },
@@ -148,15 +149,15 @@
       "first_word": {
         "type": "word",
         "surah": 99,
-        "ayah": 7,
-        "word": "مِثۡقَالَ",
+        "ayah": 8,
+        "word": "مِثْقَالَ",
         "wordIndex": 3
       },
       "end_word": {
         "type": "ayah_marker",
         "surah": 99,
-        "ayah": 8,
-        "number": 8
+        "ayah": 9,
+        "number": 9
       }
     },
     {
@@ -165,14 +166,14 @@
         "type": "word",
         "surah": 100,
         "ayah": 1,
-        "word": "وَٱلۡعَٰدِيَٰتِ",
+        "word": "وَالْعَٰدِيَٰتِ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 100,
         "ayah": 3,
-        "word": "فَٱلۡمُغِيرَٰتِ",
+        "word": "فَالْمُغِيرَٰتِ",
         "wordIndex": 1
       }
     },
@@ -182,7 +183,7 @@
         "type": "word",
         "surah": 100,
         "ayah": 3,
-        "word": "صُبۡحٗا",
+        "word": "صُبْحاٗ",
         "wordIndex": 2
       },
       "end_word": {

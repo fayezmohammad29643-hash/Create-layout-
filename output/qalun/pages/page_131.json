@@ -5,7 +5,7 @@
     6
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,14 +13,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 29,
-        "word": "بَلۡ",
+        "word": "بَلْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 29,
-        "word": "عَنۡهُ",
+        "word": "عَنْهُۖ",
         "wordIndex": 14
       }
     },
@@ -30,14 +30,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 29,
-        "word": "وَإِنَّهُمُۥ",
+        "word": "وَإِنَّهُمْ",
         "wordIndex": 15
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 30,
-        "word": "نَحۡنُ",
+        "word": "نَحْنُ",
         "wordIndex": 8
       }
     },
@@ -47,7 +47,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 30,
-        "word": "بِمَبۡعُوثِينَ",
+        "word": "بِمَبْعُوثِينَۖ",
         "wordIndex": 9
       },
       "end_word": {
@@ -64,14 +64,15 @@
         "type": "word",
         "surah": 6,
         "ayah": 31,
-        "word": "بِٱلۡحَقِّۚ",
+        "word": "بِالْحَقِّۖ",
         "wordIndex": 10
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 6,
         "ayah": 31,
-        "number": 31
+        "word": "تَكْفُرُونَۖ",
+        "wordIndex": 19
       }
     },
     {
@@ -80,14 +81,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 32,
-        "word": "قَدۡ",
+        "word": "قَدْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 32,
-        "word": "ٱلسَّاعَةُ",
+        "word": "اُ۬لسَّاعَةُ",
         "wordIndex": 10
       }
     },
@@ -97,14 +98,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 32,
-        "word": "بَغۡتَةٗ",
+        "word": "بَغْتَةٗ",
         "wordIndex": 11
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 32,
-        "word": "أَوۡزَارَهُمُۥ",
+        "word": "أَوْزَارَهُمْ",
         "wordIndex": 20
       }
     },
@@ -121,7 +122,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 33,
-        "word": "ٱلدُّنۡيَآ",
+        "word": "اُ۬لدُّنْيَا",
         "wordIndex": 3
       }
     },
@@ -135,10 +136,11 @@
         "wordIndex": 4
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 6,
         "ayah": 33,
-        "number": 33
+        "word": "تَعْقِلُونَۖ",
+        "wordIndex": 13
       }
     },
     {
@@ -147,14 +149,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 34,
-        "word": "قَدۡ",
+        "word": "قَدْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 34,
-        "word": "يُكۡذِبُونَكَ",
+        "word": "يُكْذِبُونَكَۖ",
         "wordIndex": 9
       }
     },
@@ -171,7 +173,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 35,
-        "word": "كُذِّبَتۡ",
+        "word": "كُذِّبَتْ",
         "wordIndex": 2
       }
     },
@@ -188,8 +190,8 @@
         "type": "word",
         "surah": 6,
         "ayah": 35,
-        "word": "نَصۡرُنَاۚ",
-        "wordIndex": 13
+        "word": "أَتَيٰهُمْ",
+        "wordIndex": 12
       }
     },
     {
@@ -198,14 +200,15 @@
         "type": "word",
         "surah": 6,
         "ayah": 35,
-        "word": "وَلَا",
-        "wordIndex": 14
+        "word": "نَصْرُنَاۖ",
+        "wordIndex": 13
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 6,
         "ayah": 35,
-        "number": 35
+        "word": "اِ۬لْمُرْسَلِينَۖ",
+        "wordIndex": 22
       }
     },
     {
@@ -221,7 +224,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 36,
-        "word": "تَبۡتَغِيَ",
+        "word": "تَبْتَغِيَ",
         "wordIndex": 9
       }
     },
@@ -231,7 +234,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 36,
-        "word": "نَفَقٗا",
+        "word": "نَفَقاٗ",
         "wordIndex": 10
       },
       "end_word": {
@@ -248,7 +251,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 36,
-        "word": "ٱللَّهُ",
+        "word": "اَ۬للَّهُ",
         "wordIndex": 21
       },
       "end_word": {

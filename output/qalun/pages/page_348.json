@@ -5,7 +5,7 @@
     23
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,14 +13,14 @@
         "type": "word",
         "surah": 23,
         "ayah": 91,
-        "word": "بَلۡ",
+        "word": "بَلْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 23,
         "ayah": 92,
-        "word": "مِن",
+        "word": "مِنْ",
         "wordIndex": 4
       }
     },
@@ -30,7 +30,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 92,
-        "word": "وَلَدٖ",
+        "word": "وَّلَدٖۖ",
         "wordIndex": 5
       },
       "end_word": {
@@ -84,10 +84,11 @@
         "wordIndex": 3
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 23,
         "ayah": 95,
-        "number": 95
+        "word": "اِ۬لظَّٰلِمِينَۖ",
+        "wordIndex": 6
       }
     },
     {
@@ -103,7 +104,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 97,
-        "word": "بِٱلَّتِي",
+        "word": "بِالتِے",
         "wordIndex": 2
       }
     },
@@ -137,7 +138,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 99,
-        "word": "أَن",
+        "word": "أَنْ",
         "wordIndex": 4
       }
     },
@@ -147,7 +148,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 99,
-        "word": "يَحۡضُرُونِ",
+        "word": "يَّحْضُرُونِۖ",
         "wordIndex": 5
       },
       "end_word": {
@@ -164,7 +165,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 100,
-        "word": "ٱرۡجِعُونِ",
+        "word": "اِ۪رْجِعُونِ",
         "wordIndex": 8
       },
       "end_word": {
@@ -201,10 +202,11 @@
         "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 23,
         "ayah": 102,
-        "number": 102
+        "word": "يَتَسَآءَلُونَۖ",
+        "wordIndex": 10
       }
     },
     {
@@ -220,7 +222,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 104,
-        "word": "وَمَنۡ",
+        "word": "وَمَنْ",
         "wordIndex": 1
       }
     },
@@ -230,7 +232,7 @@
         "type": "word",
         "surah": 23,
         "ayah": 104,
-        "word": "خَفَّتۡ",
+        "word": "خَفَّتْ",
         "wordIndex": 2
       },
       "end_word": {

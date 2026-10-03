@@ -6,7 +6,7 @@
     43
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -21,7 +21,7 @@
         "type": "word",
         "surah": 42,
         "ayah": 49,
-        "word": "ٱلۡكِتَٰبُ",
+        "word": "اَ۬لْكِتَٰبُ",
         "wordIndex": 11
       }
     },
@@ -38,7 +38,7 @@
         "type": "word",
         "surah": 42,
         "ayah": 49,
-        "word": "عِبَادِنَاۚ",
+        "word": "عِبَادِنَاۖ",
         "wordIndex": 22
       }
     },
@@ -81,14 +81,14 @@
         "type": "word",
         "surah": 43,
         "ayah": 1,
-        "word": "حمٓۚ",
+        "word": "حَمِٓۖ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 43,
         "ayah": 2,
-        "word": "عَرَبِيّٗا",
+        "word": "عَرَبِيّاٗ",
         "wordIndex": 4
       }
     },
@@ -98,14 +98,14 @@
         "type": "word",
         "surah": 43,
         "ayah": 2,
-        "word": "لَّعَلَّكُمُۥ",
+        "word": "لَّعَلَّكُمْ",
         "wordIndex": 5
       },
       "end_word": {
         "type": "word",
         "surah": 43,
         "ayah": 3,
-        "word": "لَدَيۡنَا",
+        "word": "لَدَيْنَا",
         "wordIndex": 5
       }
     },
@@ -122,7 +122,7 @@
         "type": "word",
         "surah": 43,
         "ayah": 4,
-        "word": "صَفۡحًا",
+        "word": "صَفْحاً",
         "wordIndex": 4
       }
     },
@@ -139,7 +139,7 @@
         "type": "word",
         "surah": 43,
         "ayah": 5,
-        "word": "فِي",
+        "word": "فِے",
         "wordIndex": 5
       }
     },
@@ -149,14 +149,15 @@
         "type": "word",
         "surah": 43,
         "ayah": 5,
-        "word": "ٱلۡأَوَّلِينَ",
+        "word": "اِ۬لْأَوَّلِينَۖ",
         "wordIndex": 6
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 43,
         "ayah": 6,
-        "number": 6
+        "word": "يَسْتَهْزِءُونَۖ",
+        "wordIndex": 8
       }
     },
     {
@@ -165,14 +166,15 @@
         "type": "word",
         "surah": 43,
         "ayah": 7,
-        "word": "فَأَهۡلَكۡنَآ",
+        "word": "فَأَهْلَكْنَا",
         "wordIndex": 1
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 43,
         "ayah": 7,
-        "number": 7
+        "word": "اُ۬لْأَوَّلِينَۖ",
+        "wordIndex": 7
       }
     },
     {
@@ -205,7 +207,7 @@
         "type": "word",
         "surah": 43,
         "ayah": 9,
-        "word": "ٱلۡأَرۡضَ",
+        "word": "اُ۬لْأَرْضَ",
         "wordIndex": 4
       }
     },
@@ -215,7 +217,7 @@
         "type": "word",
         "surah": 43,
         "ayah": 9,
-        "word": "مِهَٰدٗا",
+        "word": "مِهَٰداٗ",
         "wordIndex": 5
       },
       "end_word": {

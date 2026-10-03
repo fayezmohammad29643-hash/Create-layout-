@@ -1,30 +1,19 @@
 {
   "schema_version": 3,
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
+  "qiraah": "qalun",
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "font_policy": {
-    "mode": "forced_single_mushaf_font",
-    "forced_font_family": "KFGQPC QALOON Uthmanic Script",
-    "other_docx_font_families_ignored": true
-  },
-  "document_page_geometry": {
-    "page_size_twips": {
-      "width": 9639,
-      "height": 13608
-    },
-    "margins_twips": {
-      "top": 1418,
-      "right": 1701,
-      "bottom": 1134,
-      "left": 1701,
-      "header": 709,
-      "footer": 1134,
-      "gutter": 0
-    },
-    "doc_grid": {
-      "line_pitch_twips": 360,
-      "line_rule": null
-    }
+  "source": {
+    "doc": "UthmanicQaloon1 Ver05.doc",
+    "sqlite": "quran.sqlite",
+    "sqlite_page_field_used": false,
+    "doc_sha256": "435e1291b14fbd4ed7c6f2fc8de0b3002b58fe4b6a0cea197d143d770d3a8a63",
+    "sqlite_sha256": "1425607f7287cbfba3fb55c5182be20d4cc973d1d98f07e8c1959c7e49dda188",
+    "integrity_policy": "sha256_exact_source_pair",
+    "raw_beginpage_count": 602,
+    "raw_page_segments": 603,
+    "split_missing_page_breaks": 1,
+    "formatted_nonempty_lines": 9046
   },
   "total_pages": 604,
   "total_surahs": 114

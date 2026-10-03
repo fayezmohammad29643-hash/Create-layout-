@@ -6,9 +6,9 @@
   "endPage": 591,
   "totalPagesInSurah": 1,
   "totalCompletedLines": 7,
-  "ayaCount": 16,
+  "ayaCount": 17,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 591,
@@ -19,14 +19,15 @@
             "type": "word",
             "surah": 86,
             "ayah": 1,
-            "word": "وَٱلسَّمَآءِ",
+            "word": "وَالسَّمَآءِ",
             "wordIndex": 1
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 86,
             "ayah": 3,
-            "number": 3
+            "word": "اُ۬لثَّاقِبُ",
+            "wordIndex": 2
           }
         },
         {
@@ -58,8 +59,8 @@
             "type": "word",
             "surah": 86,
             "ayah": 8,
-            "word": "إِنَّهُۥ",
-            "wordIndex": 1
+            "word": "عَلَىٰ",
+            "wordIndex": 2
           }
         },
         {
@@ -68,15 +69,15 @@
             "type": "word",
             "surah": 86,
             "ayah": 8,
-            "word": "عَلَىٰ",
-            "wordIndex": 2
+            "word": "رَجْعِهِۦ",
+            "wordIndex": 3
           },
           "end_word": {
             "type": "word",
             "surah": 86,
             "ayah": 10,
-            "word": "وَلَا",
-            "wordIndex": 5
+            "word": "نَاصِرٖۖ",
+            "wordIndex": 6
           }
         },
         {
@@ -84,15 +85,16 @@
           "first_word": {
             "type": "word",
             "surah": 86,
-            "ayah": 10,
-            "word": "نَاصِرٖ",
-            "wordIndex": 6
+            "ayah": 11,
+            "word": "وَالسَّمَآءِ",
+            "wordIndex": 1
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 86,
-            "ayah": 12,
-            "number": 12
+            "ayah": 13,
+            "word": "إِنَّهُۥ",
+            "wordIndex": 1
           }
         },
         {
@@ -101,15 +103,14 @@
             "type": "word",
             "surah": 86,
             "ayah": 13,
-            "word": "إِنَّهُۥ",
-            "wordIndex": 1
+            "word": "لَقَوْلٞ",
+            "wordIndex": 2
           },
           "end_word": {
-            "type": "word",
+            "type": "ayah_marker",
             "surah": 86,
             "ayah": 15,
-            "word": "كَيۡدٗا",
-            "wordIndex": 3
+            "number": 15
           }
         },
         {
@@ -117,15 +118,15 @@
           "first_word": {
             "type": "word",
             "surah": 86,
-            "ayah": 15,
+            "ayah": 16,
             "word": "وَأَكِيدُ",
-            "wordIndex": 4
+            "wordIndex": 1
           },
           "end_word": {
             "type": "ayah_marker",
             "surah": 86,
-            "ayah": 16,
-            "number": 16
+            "ayah": 17,
+            "number": 17
           }
         }
       ]

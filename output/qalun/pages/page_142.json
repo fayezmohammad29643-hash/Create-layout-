@@ -5,7 +5,7 @@
     6
   ],
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "lines": [
     {
       "line": 1,
@@ -13,14 +13,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 112,
-        "word": "وَلَوۡ",
+        "word": "وَلَوْ",
         "wordIndex": 1
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 112,
-        "word": "وَحَشَرۡنَا",
+        "word": "وَحَشَرْنَا",
         "wordIndex": 8
       }
     },
@@ -30,14 +30,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 112,
-        "word": "عَلَيۡهِمُۥ",
+        "word": "عَلَيْهِمْ",
         "wordIndex": 9
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 112,
-        "word": "ٱللَّهُ",
+        "word": "اَ۬للَّهُۖ",
         "wordIndex": 19
       }
     },
@@ -54,7 +54,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 113,
-        "word": "نَبِيٓءٍ",
+        "word": "نَبِےٓءٍ",
         "wordIndex": 4
       }
     },
@@ -64,14 +64,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 113,
-        "word": "عَدُوّٗا",
+        "word": "عَدُوّاٗ",
         "wordIndex": 5
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 113,
-        "word": "بَعۡضٖ",
+        "word": "بَعْضٖ",
         "wordIndex": 12
       }
     },
@@ -81,7 +81,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 113,
-        "word": "زُخۡرُفَ",
+        "word": "زُخْرُفَ",
         "wordIndex": 13
       },
       "end_word": {
@@ -98,14 +98,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 113,
-        "word": "يَفۡتَرُونَ",
+        "word": "يَفْتَرُونَۖ",
         "wordIndex": 23
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 114,
-        "word": "بِٱلۡأٓخِرَةِ",
+        "word": "بِالْأٓخِرَةِ",
         "wordIndex": 7
       }
     },
@@ -115,14 +115,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 114,
-        "word": "وَلِيَرۡضَوۡهُ",
+        "word": "وَلِيَرْضَوْهُ",
         "wordIndex": 8
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 115,
-        "word": "أَبۡتَغِي",
+        "word": "أَبْتَغِے",
         "wordIndex": 3
       }
     },
@@ -132,14 +132,14 @@
         "type": "word",
         "surah": 6,
         "ayah": 115,
-        "word": "حَكَمٗا",
+        "word": "حَكَماٗ",
         "wordIndex": 4
       },
       "end_word": {
         "type": "word",
         "surah": 6,
         "ayah": 115,
-        "word": "مُفَصَّلٗاۚ",
+        "word": "مُفَصَّلاٗۖ",
         "wordIndex": 10
       }
     },
@@ -149,7 +149,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 115,
-        "word": "وَٱلَّذِينَ",
+        "word": "وَالذِينَ",
         "wordIndex": 11
       },
       "end_word": {
@@ -166,7 +166,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 115,
-        "word": "بِٱلۡحَقِّۖ",
+        "word": "بِالْحَقِّۖ",
         "wordIndex": 19
       },
       "end_word": {
@@ -183,14 +183,15 @@
         "type": "word",
         "surah": 6,
         "ayah": 116,
-        "word": "صِدۡقٗا",
+        "word": "صِدْقاٗ",
         "wordIndex": 4
       },
       "end_word": {
-        "type": "ayah_marker",
+        "type": "word",
         "surah": 6,
         "ayah": 116,
-        "number": 116
+        "word": "اُ۬لْعَلِيمُۖ",
+        "wordIndex": 11
       }
     },
     {
@@ -206,7 +207,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 117,
-        "word": "إِن",
+        "word": "إِنْ",
         "wordIndex": 11
       }
     },
@@ -216,7 +217,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 117,
-        "word": "يَتَّبِعُونَ",
+        "word": "يَّتَّبِعُونَ",
         "wordIndex": 12
       },
       "end_word": {
@@ -233,7 +234,7 @@
         "type": "word",
         "surah": 6,
         "ayah": 118,
-        "word": "أَعۡلَمُ",
+        "word": "أَعْلَمُ",
         "wordIndex": 4
       },
       "end_word": {

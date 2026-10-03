@@ -1,14 +1,14 @@
 {
   "schema_version": 3,
   "surahId": 55,
-  "surahName": "الرَّحۡمَٰن",
+  "surahName": "الرَّحْمَٰن",
   "startPage": 531,
   "endPage": 534,
   "totalPagesInSurah": 4,
   "totalCompletedLines": 45,
   "ayaCount": 77,
   "font_family": "KFGQPC QALOON Uthmanic Script",
-  "layout_source": "docx",
+  "layout_source": "doc+sqlite",
   "pages": [
     {
       "page": 531,
@@ -19,7 +19,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 1,
-            "word": "ٱلرَّحۡمَٰنُ",
+            "word": "اِ۬لرَّحْمَٰنُ",
             "wordIndex": 1
           },
           "end_word": {
@@ -35,7 +35,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 3,
-            "word": "ٱلشَّمۡسُ",
+            "word": "اَ۬لشَّمْسُ",
             "wordIndex": 1
           },
           "end_word": {
@@ -51,7 +51,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 5,
-            "word": "وَٱلسَّمَآءَ",
+            "word": "وَالسَّمَآءَ",
             "wordIndex": 1
           },
           "end_word": {
@@ -74,7 +74,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 8,
-            "word": "وَٱلۡأَرۡضَ",
+            "word": "وَالْأَرْضَ",
             "wordIndex": 1
           }
         },
@@ -100,14 +100,15 @@
             "type": "word",
             "surah": 55,
             "ayah": 10,
-            "word": "وَٱلۡحَبُّ",
+            "word": "وَالْحَبُّ",
             "wordIndex": 1
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 55,
             "ayah": 11,
-            "number": 11
+            "word": "تُكَذِّبَانِۖ",
+            "wordIndex": 4
           }
         },
         {
@@ -150,7 +151,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 15,
-            "word": "ٱلۡمَشۡرِقَيۡنِ",
+            "word": "اُ۬لْمَشْرِقَيْنِ",
             "wordIndex": 2
           },
           "end_word": {
@@ -228,7 +229,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 25,
-            "word": "وَجۡهُ",
+            "word": "وَجْهُ",
             "wordIndex": 2
           }
         },
@@ -254,7 +255,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 27,
-            "word": "يَسۡـَٔلُهُۥ",
+            "word": "يَسْـَٔلُهُۥ",
             "wordIndex": 1
           },
           "end_word": {
@@ -295,7 +296,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 31,
-            "word": "ٱسۡتَطَعۡتُمُۥٓ",
+            "word": "اِ۪سْتَطَعْتُمْ",
             "wordIndex": 5
           }
         },
@@ -329,7 +330,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 33,
-            "word": "عَلَيۡكُمَا",
+            "word": "عَلَيْكُمَا",
             "wordIndex": 2
           }
         },
@@ -356,14 +357,15 @@
             "type": "word",
             "surah": 55,
             "ayah": 35,
-            "word": "تُكَذِّبَانِ",
+            "word": "تُكَذِّبَانِۖ",
             "wordIndex": 4
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 55,
             "ayah": 36,
-            "number": 36
+            "word": "كَالدِّهَانِ",
+            "wordIndex": 6
           }
         },
         {
@@ -389,7 +391,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 38,
-            "word": "ذَنۢبِهِۦٓ",
+            "word": "ذَنۢبِهِۦ",
             "wordIndex": 5
           },
           "end_word": {
@@ -405,7 +407,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 40,
-            "word": "يُعۡرَفُ",
+            "word": "يُعْرَفُ",
             "wordIndex": 1
           },
           "end_word": {
@@ -443,7 +445,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 42,
-            "word": "ٱلۡمُجۡرِمُونَ",
+            "word": "اَ۬لْمُجْرِمُونَ",
             "wordIndex": 6
           },
           "end_word": {
@@ -467,8 +469,8 @@
             "type": "word",
             "surah": 55,
             "ayah": 46,
-            "word": "ءَالَآءِ",
-            "wordIndex": 2
+            "word": "فَبِأَيِّ",
+            "wordIndex": 1
           }
         },
         {
@@ -477,14 +479,15 @@
             "type": "word",
             "surah": 55,
             "ayah": 46,
-            "word": "رَبِّكُمَا",
-            "wordIndex": 3
+            "word": "ءَالَآءِ",
+            "wordIndex": 2
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 55,
             "ayah": 48,
-            "number": 48
+            "word": "تُكَذِّبَانِۖ",
+            "wordIndex": 4
           }
         },
         {
@@ -499,9 +502,9 @@
           "end_word": {
             "type": "word",
             "surah": 55,
-            "ayah": 51,
-            "word": "فِيهِمَا",
-            "wordIndex": 1
+            "ayah": 50,
+            "word": "تُكَذِّبَانِۖ",
+            "wordIndex": 4
           }
         },
         {
@@ -510,15 +513,15 @@
             "type": "word",
             "surah": 55,
             "ayah": 51,
-            "word": "مِن",
-            "wordIndex": 2
+            "word": "فِيهِمَا",
+            "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 55,
-            "ayah": 53,
-            "word": "مُتَّكِـِٔينَ",
-            "wordIndex": 1
+            "ayah": 52,
+            "word": "تُكَذِّبَانِۖ",
+            "wordIndex": 4
           }
         },
         {
@@ -527,15 +530,15 @@
             "type": "word",
             "surah": 55,
             "ayah": 53,
-            "word": "عَلَىٰ",
-            "wordIndex": 2
+            "word": "مُتَّكِـِٕينَ",
+            "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 55,
-            "ayah": 54,
-            "word": "فَبِأَيِّ",
-            "wordIndex": 1
+            "ayah": 53,
+            "word": "دَانٖۖ",
+            "wordIndex": 9
           }
         },
         {
@@ -544,15 +547,15 @@
             "type": "word",
             "surah": 55,
             "ayah": 54,
-            "word": "ءَالَآءِ",
-            "wordIndex": 2
+            "word": "فَبِأَيِّ",
+            "wordIndex": 1
           },
           "end_word": {
             "type": "word",
             "surah": 55,
             "ayah": 55,
-            "word": "يَطۡمِثۡهُنَّ",
-            "wordIndex": 5
+            "word": "اُ۬لطَّرْفِ",
+            "wordIndex": 3
           }
         },
         {
@@ -561,15 +564,15 @@
             "type": "word",
             "surah": 55,
             "ayah": 55,
-            "word": "إِنسٞ",
-            "wordIndex": 6
+            "word": "لَمْ",
+            "wordIndex": 4
           },
           "end_word": {
             "type": "word",
             "surah": 55,
-            "ayah": 57,
-            "word": "كَأَنَّهُنَّ",
-            "wordIndex": 1
+            "ayah": 56,
+            "word": "تُكَذِّبَانِۖ",
+            "wordIndex": 4
           }
         },
         {
@@ -578,14 +581,15 @@
             "type": "word",
             "surah": 55,
             "ayah": 57,
-            "word": "ٱلۡيَاقُوتُ",
-            "wordIndex": 2
+            "word": "كَأَنَّهُنَّ",
+            "wordIndex": 1
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 55,
             "ayah": 58,
-            "number": 58
+            "word": "تُكَذِّبَانِۖ",
+            "wordIndex": 4
           }
         },
         {
@@ -594,7 +598,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 59,
-            "word": "هَلۡ",
+            "word": "هَلْ",
             "wordIndex": 1
           },
           "end_word": {
@@ -611,7 +615,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 60,
-            "word": "تُكَذِّبَانِ",
+            "word": "تُكَذِّبَانِۖ",
             "wordIndex": 4
           },
           "end_word": {
@@ -632,10 +636,11 @@
             "wordIndex": 4
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 55,
             "ayah": 64,
-            "number": 64
+            "word": "تُكَذِّبَانِۖ",
+            "wordIndex": 4
           }
         },
         {
@@ -685,10 +690,11 @@
             "wordIndex": 1
           },
           "end_word": {
-            "type": "ayah_marker",
+            "type": "word",
             "surah": 55,
             "ayah": 70,
-            "number": 70
+            "word": "تُكَذِّبَانِۖ",
+            "wordIndex": 4
           }
         },
         {
@@ -714,7 +720,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 72,
-            "word": "تُكَذِّبَانِ",
+            "word": "تُكَذِّبَانِۖ",
             "wordIndex": 4
           },
           "end_word": {
@@ -738,7 +744,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 75,
-            "word": "خُضۡرٖ",
+            "word": "خُضْرٖ",
             "wordIndex": 4
           }
         },
@@ -748,7 +754,7 @@
             "type": "word",
             "surah": 55,
             "ayah": 75,
-            "word": "وَعَبۡقَرِيٍّ",
+            "word": "وَعَبْقَرِيٍّ",
             "wordIndex": 5
           },
           "end_word": {
