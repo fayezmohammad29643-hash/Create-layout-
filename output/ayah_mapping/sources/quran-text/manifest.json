@@ -1,0 +1,14 @@
+{
+  "source": {
+    "repository": "https://github.com/quran-ws/quran-text",
+    "ref": "main",
+    "ayah_map_url": "https://raw.githubusercontent.com/quran-ws/quran-text/main/data/ayah-map.json",
+    "expected_generated": "2026-09-08",
+    "license_note": "Quran text is from KFGQPC and redistribution is subject to KFGQPC terms; the ayah map is source metadata for edition-level correspondence.",
+    "purpose": "Exact printed-edition correspondence using shared word identity; not a replacement for Qiraat Ayah Map's counting-system evidence."
+  },
+  "resolved_generated": "2026-09-08",
+  "sha256": "b4ea59b14c629ae5a95ca7e1cebca71227d25aa4d92ae4698a79db8caf21eea9",
+  "bytes": 2285199,
+  "url_used": "https://raw.githubusercontent.com/quran-ws/quran-text/main/data/ayah-map.json"
+}

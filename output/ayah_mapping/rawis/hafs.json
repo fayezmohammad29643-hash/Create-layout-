@@ -1,0 +1,18 @@
+{
+  "_rawi": "hafs",
+  "_qiraa": "asim",
+  "_counting_system_associated_with_qari": "kufi",
+  "_counting_system_printed": "kufi",
+  "_printed_edition": "kfgqpc-hafs-v3.0",
+  "_differs_from_association": false,
+  "_counting_system": "kufi",
+  "_mushaf_id": 1,
+  "_mapping_file_associated_with_qari": null,
+  "_mapping_file_printed": null,
+  "_mapping_file": null,
+  "_deprecated": {
+    "_counting_system": "Renamed to _counting_system_associated_with_qari. The value and its meaning are unchanged: it is the count attributed to the qāriʾ, never the count a printing carries. Read _counting_system_printed for that.",
+    "_mapping_file": "Renamed to _mapping_file_associated_with_qari. To renumber against the muṣḥaf actually printed for this rāwī, use _mapping_file_printed."
+  },
+  "_note": "hafs uses the Kufan counting system, so ayah numbers are identical to Hafs."
+}

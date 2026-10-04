@@ -1,0 +1,17 @@
+{
+  "_rawi": "duri",
+  "_qiraa": "abu-amr",
+  "_counting_system_associated_with_qari": "basri",
+  "_counting_system_printed": "madani-first",
+  "_printed_edition": "kfgqpc-duri-v2.0",
+  "_differs_from_association": true,
+  "_counting_system": "basri",
+  "_mushaf_id": 6,
+  "_mapping_file_associated_with_qari": "mappings/by-counting-system/kufi-to-basri.json",
+  "_mapping_file_printed": "mappings/by-counting-system/kufi-to-madani-first.json",
+  "_mapping_file": "mappings/by-counting-system/kufi-to-basri.json",
+  "_deprecated": {
+    "_counting_system": "Renamed to _counting_system_associated_with_qari. The value and its meaning are unchanged: it is the count attributed to the qāriʾ, never the count a printing carries. Read _counting_system_printed for that.",
+    "_mapping_file": "Renamed to _mapping_file_associated_with_qari. To renumber against the muṣḥaf actually printed for this rāwī, use _mapping_file_printed."
+  }
+}

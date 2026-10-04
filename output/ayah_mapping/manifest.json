@@ -1,0 +1,367 @@
+{
+  "schema_version": 3,
+  "source": {
+    "repository": "https://github.com/quran-ws/qiraat-ayah-map.git",
+    "ref": "main",
+    "version": "0.1.0",
+    "data_license": "CC BY 4.0",
+    "tooling_license": "MIT",
+    "source_policy": "Generate counting-system baselines from upstream source data. Never hand-copy or derive numbering by offset."
+  },
+  "resolved_commit": "a9b4d345f3e1d0e9282711c5e09f24119b17e4e1",
+  "reference_system": "kufi",
+  "resources": {
+    "hafs": {
+      "counting_system_associated_with_qari": "kufi",
+      "project_sqlite_path": "input/hafs/quran.sqlite",
+      "project_sqlite_ayah_count": 6236,
+      "attachment_reference_system": "kufi",
+      "mapping_exact_for_current_layout": true,
+      "status": "exact"
+    },
+    "warsh": {
+      "counting_system_associated_with_qari": "madani-last",
+      "reference_upstream_edition": "quran-ws/quran-text Warsh current reference",
+      "reference_upstream_ayah_count": 6214,
+      "project_sqlite_path": "input/warsh/quran.sqlite",
+      "project_sqlite_ayah_count": 6213,
+      "attachment_reference_system": "kufi",
+      "baseline_mapping_file": "mappings/by-counting-system/kufi-to-madani-last.json",
+      "reverse_baseline_mapping_file": "mappings/by-counting-system/madani-last-to-kufi.json",
+      "mapping_exact_for_current_layout": true,
+      "status": "edition_exact_override",
+      "mapping_file": "mappings/by-edition/warsh-6213-to-hafs.json",
+      "reverse_mapping_file": "mappings/by-edition/hafs-to-warsh-6213.json",
+      "edition_override": "data/ayah_mapping/edition-overrides/warsh-6213.json"
+    },
+    "qalun": {
+      "counting_system_associated_with_qari": "madani-last",
+      "reference_upstream_edition": "quran-text Qalun current verified edition",
+      "reference_upstream_ayah_count": 6214,
+      "project_sqlite_path": "input/qalun/quran.sqlite",
+      "project_sqlite_ayah_count": 6214,
+      "attachment_reference_system": "kufi",
+      "exact_edition_source": "quran-text",
+      "exact_edition_key": "qalun",
+      "mapping_file": "mappings/by-edition/qalun-6214-to-hafs.json",
+      "reverse_mapping_file": "mappings/by-edition/hafs-to-qalun-6214.json",
+      "mapping_exact_for_current_layout": true,
+      "status": "exact_edition_source"
+    },
+    "douri": {
+      "counting_system_associated_with_qari": "basri",
+      "printed_counting_system_baseline": "madani-first",
+      "reference_upstream_edition": "quran-text Douri UthmanicDouri_V20",
+      "reference_upstream_ayah_count": 6217,
+      "project_sqlite_path": "input/douri/quran.sqlite",
+      "project_sqlite_ayah_count": 6217,
+      "attachment_reference_system": "kufi",
+      "exact_edition_source": "quran-text",
+      "exact_edition_key": "duri",
+      "mapping_file": "mappings/by-edition/duri-6217-to-hafs.json",
+      "reverse_mapping_file": "mappings/by-edition/hafs-to-duri-6217.json",
+      "mapping_exact_for_current_layout": true,
+      "status": "exact_edition_source",
+      "reason": "The 2022 KFGQPC Douri V20 edition is represented by quran-text as a 6217-ayah printed edition measured to First Madinan. qiraat-ayah-map's generic First Madinan generated layer is a counting-system baseline; quran-text's edition-level ayah map is used for the exact printed-edition correspondence."
+    }
+  },
+  "source_compatibility": {
+    "hafs": {
+      "status": "exact_count_match",
+      "sqlite_path": "input/hafs/quran.sqlite",
+      "sqlite_ayah_count": 6236,
+      "expected_edition_ayah_count": 6236,
+      "mapping_exact_for_current_layout": false,
+      "mapping_file": null,
+      "reverse_mapping_file": null,
+      "exact_edition_source": null,
+      "exact_edition_key": null
+    },
+    "warsh": {
+      "status": "edition_exact_override",
+      "sqlite_path": "input/warsh/quran.sqlite",
+      "sqlite_ayah_count": 6213,
+      "expected_edition_ayah_count": 6213,
+      "mapping_exact_for_current_layout": true,
+      "mapping_file": "mappings/by-edition/warsh-6213-to-hafs.json",
+      "reverse_mapping_file": "mappings/by-edition/hafs-to-warsh-6213.json",
+      "exact_edition_source": null,
+      "exact_edition_key": null
+    },
+    "qalun": {
+      "status": "exact_edition_source",
+      "sqlite_path": "input/qalun/quran.sqlite",
+      "sqlite_ayah_count": 6214,
+      "expected_edition_ayah_count": 6214,
+      "mapping_exact_for_current_layout": true,
+      "mapping_file": "mappings/by-edition/qalun-6214-to-hafs.json",
+      "reverse_mapping_file": "mappings/by-edition/hafs-to-qalun-6214.json",
+      "exact_edition_source": "quran-text",
+      "exact_edition_key": "qalun"
+    },
+    "douri": {
+      "status": "exact_edition_source",
+      "sqlite_path": "input/douri/quran.sqlite",
+      "sqlite_ayah_count": 6217,
+      "expected_edition_ayah_count": 6217,
+      "mapping_exact_for_current_layout": true,
+      "mapping_file": "mappings/by-edition/duri-6217-to-hafs.json",
+      "reverse_mapping_file": "mappings/by-edition/hafs-to-duri-6217.json",
+      "exact_edition_source": "quran-text",
+      "exact_edition_key": "duri"
+    }
+  },
+  "files": [
+    {
+      "path": "mappings/by-counting-system/kufi-to-madani-last.json",
+      "sha256": "440414dcb278f78a3afff6c6b12157d8bb983fe13871c1065c0c900ab224801b",
+      "size": 549006
+    },
+    {
+      "path": "mappings/by-counting-system/madani-last-to-kufi.json",
+      "sha256": "c6485e9a5bb4af70dd204287c002a1665eb90f4de1711145fa29dcd74ee64ab2",
+      "size": 533869
+    },
+    {
+      "path": "mappings/by-counting-system/kufi-to-madani-first.json",
+      "sha256": "d5a13014f802286d808895b3b5e1c7d825f77c6cf5afe38118b3451610843dfa",
+      "size": 548802
+    },
+    {
+      "path": "mappings/by-counting-system/madani-first-to-kufi.json",
+      "sha256": "2a73a422e7f1a2d3338027f5942975f48b7848122173a7d5ee1168c5ba59a380",
+      "size": 533719
+    },
+    {
+      "path": "mappings/by-counting-system/kufi-to-basri.json",
+      "sha256": "e6e5657fa1f0edf03388a5d125dceefe9f90fbf40ff28725016d8387aa679798",
+      "size": 548178
+    },
+    {
+      "path": "mappings/by-counting-system/basri-to-kufi.json",
+      "sha256": "828a178acf3004599248cc4078fb9e649e9168961219c6efb4bfc0f9a384a173",
+      "size": 532874
+    },
+    {
+      "path": "mappings/by-rawi/hafs-to-warsh.json",
+      "sha256": "b5eb7baaa3c31347a045626b84501db77dfd17eb3e979190f91e73aa2f674a2b",
+      "size": 549011
+    },
+    {
+      "path": "mappings/by-rawi/warsh-to-hafs.json",
+      "sha256": "7fcde652764a76823e225fde9c1b684b48bda64cc678aedee66119a523a2ecc9",
+      "size": 533879
+    },
+    {
+      "path": "mappings/by-rawi/hafs-to-qalun.json",
+      "sha256": "8a09d6e78adeaab5925b1d8b8885885212a6baafaa4010249d9016afc6e519d8",
+      "size": 549011
+    },
+    {
+      "path": "mappings/by-rawi/qalun-to-hafs.json",
+      "sha256": "8241705f2e392ada70ccd00ddf1079ab0e2654ec604a09bef777b1edc95836a7",
+      "size": 533879
+    },
+    {
+      "path": "mappings/by-rawi/hafs-to-duri.json",
+      "sha256": "d4e20b0ff8b87be4c1fc72be47d5dfa363bbf1a6079a4249c2d715f9a949d8d9",
+      "size": 548197
+    },
+    {
+      "path": "mappings/by-rawi/duri-to-hafs.json",
+      "sha256": "64e5e8ae2bf70298db4f3036732f831918b28aab7a47769ff77db8c8dddea0dd",
+      "size": 532898
+    },
+    {
+      "path": "surah-counts/kufi.json",
+      "sha256": "9a052dcd9dd09aed8a523dfd9a3fafde2d454c3616a97d4ff83921d498738072",
+      "size": 1811
+    },
+    {
+      "path": "surah-counts/madani-last.json",
+      "sha256": "2975f46912b5ba721ac3d2be629f0056460dfd56613e4a63fcdbad109a904cb8",
+      "size": 1815
+    },
+    {
+      "path": "surah-counts/madani-first.json",
+      "sha256": "f0d50669db5631a6178ad7959405c6d870e6907ddb0ebfe61d9d72ea5c4a834f",
+      "size": 1815
+    },
+    {
+      "path": "surah-counts/basri.json",
+      "sha256": "d776419dd235e9a686df93e5db8043b01af9eea2ed19093fd25b4f7df6bc7eeb",
+      "size": 1789
+    },
+    {
+      "path": "rawis/hafs.json",
+      "sha256": "acfb4000b109d8a23707128e8d18f78369f358078affbc4d5794770e96f2ccbd",
+      "size": 881
+    },
+    {
+      "path": "rawis/warsh.json",
+      "sha256": "52e13829baadcee3a85379dddb8db5b1583844911c10f6c15a38010749d231a9",
+      "size": 964
+    },
+    {
+      "path": "rawis/qalun.json",
+      "sha256": "dc157bbc663c786d4265c747f1c864653301ea2498f810b7d7281b4537c43ee7",
+      "size": 964
+    },
+    {
+      "path": "rawis/duri.json",
+      "sha256": "e5a7c3197dc38db8ca3fb91d05276f173a0f120f646c4ae1a822c80ef452b301",
+      "size": 942
+    },
+    {
+      "path": "mappings/by-edition/warsh-6213-to-hafs.json",
+      "sha256": "0887e1a6a9da9058d1beb266269fd3645476c71eb3982ea660d3d632a943b8d6",
+      "size": 534007
+    },
+    {
+      "path": "mappings/by-edition/hafs-to-warsh-6213.json",
+      "sha256": "2c76c1d7684210cdafb5870f6034cf78806add92468c6a98fe8bd7ec9f37d94e",
+      "size": 549207
+    },
+    {
+      "path": "surah-counts/warsh-6213.json",
+      "sha256": "72d4e17fd1d9a97330679a9caae1804550d542861c3aa3386affff4ea7156833",
+      "size": 1892
+    },
+    {
+      "path": "sources/quran-text/ayah-map.json",
+      "sha256": "b4ea59b14c629ae5a95ca7e1cebca71227d25aa4d92ae4698a79db8caf21eea9",
+      "size": 2285199
+    },
+    {
+      "path": "sources/quran-text/manifest.json",
+      "sha256": "ebe1e42d697ee3da4abe20b4174907856f396cef97f2e40cfb4648e7b12acb16",
+      "size": 785
+    },
+    {
+      "path": "mappings/by-edition/qalun-6214-to-hafs.json",
+      "sha256": "7e1ab0376486847eb2d10cbe10612dac217f5ad479978c3b7531bad8f27484a8",
+      "size": 928770
+    },
+    {
+      "path": "mappings/by-edition/hafs-to-qalun-6214.json",
+      "sha256": "55dda3e05f07cd4f98b36df5bc5867fe50ca6614d4ebb660552cd010103a8be4",
+      "size": 779682
+    },
+    {
+      "path": "mappings/by-edition/duri-6217-to-hafs.json",
+      "sha256": "6bae3ea2292869af403b53d24f877467e353af85e2bb8c053dc2e6a7c37f2fb2",
+      "size": 928843
+    },
+    {
+      "path": "mappings/by-edition/hafs-to-duri-6217.json",
+      "sha256": "9f150810d38e6cfa8417a72b173aef4a34b46d990bfb30c06ace333037ec5fd2",
+      "size": 779012
+    },
+    {
+      "path": "miltazim_ayah_mapping.json",
+      "sha256": "d7c5560c3afb4e528ddd888bf3b54f6acd2bf54ec695fc440f106a820a6c1be5",
+      "size": 807571
+    }
+  ],
+  "edition_overrides": {
+    "warsh_6213": {
+      "schema_version": 1,
+      "edition_id": "warsh-6213-project",
+      "rawi": "warsh",
+      "reference_system": "kufi",
+      "project_sqlite_path": "input/warsh/quran.sqlite",
+      "project_ayah_count": 6213,
+      "base_upstream_mapping": "mappings/by-rawi/warsh-to-hafs.json",
+      "base_upstream_reverse_mapping": "mappings/by-rawi/hafs-to-warsh.json",
+      "purpose": "Edition-specific correction for the project's 6213-ayah Warsh SQLite. The only per-surah count difference from the current 6214 Warsh reference is al-Nahl (16), where project ayah 123 covers Hafs/Kufi ayahs 123 and 124; project ayahs 124..127 cover Hafs 125..128.",
+      "evidence": {
+        "type": "local_sqlite_ayah_marker",
+        "surah": 16,
+        "merged_project_ayah": 123,
+        "hafs_ayahs_covered": [
+          123,
+          124
+        ],
+        "project_marker_text_after_first_segment": "١٢٣",
+        "boundary_after_marker_before_text": "إِنَّمَا جُعِلَ"
+      },
+      "overrides": {
+        "warsh_to_hafs": {
+          "16:123": {
+            "hafs_ayahs": [
+              123,
+              124
+            ],
+            "status": "covers_multiple"
+          },
+          "16:124": {
+            "hafs_ayah": 125,
+            "status": "mapped"
+          },
+          "16:125": {
+            "hafs_ayah": 126,
+            "status": "mapped"
+          },
+          "16:126": {
+            "hafs_ayah": 127,
+            "status": "mapped"
+          },
+          "16:127": {
+            "hafs_ayah": 128,
+            "status": "mapped"
+          }
+        },
+        "hafs_to_warsh": {
+          "16:123": {
+            "target_ayah": 123,
+            "status": "merged",
+            "merges_with_next": true
+          },
+          "16:124": {
+            "target_ayah": 123,
+            "status": "mapped"
+          },
+          "16:125": {
+            "target_ayah": 124,
+            "status": "mapped"
+          },
+          "16:126": {
+            "target_ayah": 125,
+            "status": "mapped"
+          },
+          "16:127": {
+            "target_ayah": 126,
+            "status": "mapped"
+          },
+          "16:128": {
+            "target_ayah": 127,
+            "status": "mapped"
+          }
+        }
+      }
+    }
+  },
+  "exact_edition_source": {
+    "repository": "https://github.com/quran-ws/quran-text",
+    "ref": "main",
+    "ayah_map_url": "https://raw.githubusercontent.com/quran-ws/quran-text/main/data/ayah-map.json",
+    "expected_generated": "2026-09-08",
+    "license_note": "Quran text is from KFGQPC and redistribution is subject to KFGQPC terms; the ayah map is source metadata for edition-level correspondence.",
+    "purpose": "Exact printed-edition correspondence using shared word identity; not a replacement for Qiraat Ayah Map's counting-system evidence."
+  },
+  "consumer_rule": "The Miltazim app consumes only miltazim_ayah_mapping.json for edition-to-Hafs attachment lookup. The detailed counting-system, rawi, edition, reverse, and provenance artefacts remain build-time outputs only. Qiraat Ayah Map remains the counting-system/provenance baseline. Never use numeric offsets.",
+  "quran_text_source": {
+    "source": {
+      "repository": "https://github.com/quran-ws/quran-text",
+      "ref": "main",
+      "ayah_map_url": "https://raw.githubusercontent.com/quran-ws/quran-text/main/data/ayah-map.json",
+      "expected_generated": "2026-09-08",
+      "license_note": "Quran text is from KFGQPC and redistribution is subject to KFGQPC terms; the ayah map is source metadata for edition-level correspondence.",
+      "purpose": "Exact printed-edition correspondence using shared word identity; not a replacement for Qiraat Ayah Map's counting-system evidence."
+    },
+    "resolved_generated": "2026-09-08",
+    "sha256": "b4ea59b14c629ae5a95ca7e1cebca71227d25aa4d92ae4698a79db8caf21eea9",
+    "bytes": 2285199,
+    "url_used": "https://raw.githubusercontent.com/quran-ws/quran-text/main/data/ayah-map.json"
+  }
+}
