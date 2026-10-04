@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "edition_id": "warsh-6213-project",
+  "rawi": "warsh",
+  "reference_system": "kufi",
+  "project_sqlite_path": "input/warsh/quran.sqlite",
+  "project_ayah_count": 6213,
+  "base_upstream_mapping": "mappings/by-rawi/warsh-to-hafs.json",
+  "base_upstream_reverse_mapping": "mappings/by-rawi/hafs-to-warsh.json",
+  "purpose": "Edition-specific correction for the project's 6213-ayah Warsh SQLite. The only per-surah count difference from the current 6214 Warsh reference is al-Nahl (16), where project ayah 123 covers Hafs/Kufi ayahs 123 and 124; project ayahs 124..127 cover Hafs 125..128.",
+  "evidence": {
+    "type": "local_sqlite_ayah_marker",
+    "surah": 16,
+    "merged_project_ayah": 123,
+    "hafs_ayahs_covered": [
+      123,
+      124
+    ],
+    "project_marker_text_after_first_segment": "١٢٣",
+    "boundary_after_marker_before_text": "إِنَّمَا جُعِلَ"
+  },
+  "overrides": {
+    "warsh_to_hafs": {
+      "16:123": {
+        "hafs_ayahs": [
+          123,
+          124
+        ],
+        "status": "covers_multiple"
+      },
+      "16:124": {
+        "hafs_ayah": 125,
+        "status": "mapped"
+      },
+      "16:125": {
+        "hafs_ayah": 126,
+        "status": "mapped"
+      },
+      "16:126": {
+        "hafs_ayah": 127,
+        "status": "mapped"
+      },
+      "16:127": {
+        "hafs_ayah": 128,
+        "status": "mapped"
+      }
+    },
+    "hafs_to_warsh": {
+      "16:123": {
+        "target_ayah": 123,
+        "status": "merged",
+        "merges_with_next": true
+      },
+      "16:124": {
+        "target_ayah": 123,
+        "status": "mapped"
+      },
+      "16:125": {
+        "target_ayah": 124,
+        "status": "mapped"
+      },
+      "16:126": {
+        "target_ayah": 125,
+        "status": "mapped"
+      },
+      "16:127": {
+        "target_ayah": 126,
+        "status": "mapped"
+      },
+      "16:128": {
+        "target_ayah": 127,
+        "status": "mapped"
+      }
+    }
+  }
+}
