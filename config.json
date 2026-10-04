@@ -1,0 +1,46 @@
+{
+  "schema_version": 3,
+  "layout_source": "doc+sqlite",
+  "qiraah": "qalun",
+  "font_family": "KFGQPC QALOON Uthmanic Script",
+  "expected_pages": 604,
+  "expected_surahs": 114,
+  "source_format": "legacy_ms_doc",
+  "tokenization": {
+    "ignore_sqlite_page_field": true,
+    "doc_line_match": "canonical_concatenation",
+    "terminal_ayah_marker_from_sqlite": true,
+    "arabic_rtl_marker_tolerant": true
+  },
+  "validation": {
+    "review_on_source_marker_mismatch": false,
+    "strict_requires_zero_review_pages": true
+  },
+  "output_mode": "pages_and_surahs",
+  "source_integrity": {
+    "doc": {
+      "filename": "UthmanicQaloon1 Ver05.doc",
+      "sha256": "435e1291b14fbd4ed7c6f2fc8de0b3002b58fe4b6a0cea197d143d770d3a8a63"
+    },
+    "sqlite": {
+      "filename": "quran.sqlite",
+      "sha256": "1425607f7287cbfba3fb55c5182be20d4cc973d1d98f07e8c1959c7e49dda188"
+    },
+    "mode": "exact_versioned_pair"
+  },
+  "ayah_mapping": {
+    "source": "quran-text",
+    "rawi": "qalun",
+    "exact_edition_key": "qalun",
+    "exact_edition_ayah_count": 6214,
+    "counting_system_for_current_layout": "madani-last",
+    "counting_system_associated_with_qari": "madani-last",
+    "reference_system": "kufi",
+    "mapping_exact_for_current_layout": true,
+    "mapping_status": "exact_edition_source",
+    "mapping_file": "mappings/by-edition/qalun-6214-to-hafs.json",
+    "reverse_mapping_file": "mappings/by-edition/hafs-to-qalun-6214.json",
+    "baseline_source": "qiraat-ayah-map",
+    "note": "Use the exact quran-text edition map for the 6214-ayah Qalun printing."
+  }
+}

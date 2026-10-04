@@ -1,0 +1,55 @@
+{
+  "schema_version": 3,
+  "layout_source": "doc+sqlite",
+  "qiraah": "warsh",
+  "font_family": null,
+  "expected_pages": 604,
+  "expected_surahs": 114,
+  "source_format": "legacy_ms_doc",
+  "tokenization": {
+    "ignore_sqlite_page_field": true,
+    "doc_line_match": "canonical_concatenation",
+    "terminal_ayah_marker_from_sqlite": true,
+    "arabic_rtl_marker_tolerant": true
+  },
+  "validation": {
+    "review_on_source_marker_mismatch": false,
+    "strict_requires_zero_review_pages": true
+  },
+  "output_mode": "pages_and_surahs",
+  "source_integrity": {
+    "doc": {
+      "filename": "UthmanicWarsh1 Ver05.doc",
+      "sha256": "de4ec53fdd23675f2e5978e5493e03fe24d1a0165e3fdfd4bae001f259620903"
+    },
+    "sqlite": {
+      "filename": "quran.sqlite",
+      "sha256": "f04c53cacb75ae6689f02cc48da5a1a6c667a3d22e5222a4d5b9f2a72bce4b7e"
+    },
+    "mode": "exact_versioned_pair"
+  },
+  "ayah_mapping": {
+    "source": "qiraat-ayah-map",
+    "rawi": "warsh",
+    "counting_system_for_current_layout": "madani-last",
+    "counting_system_associated_with_qari": "madani-last",
+    "reference_system": "kufi",
+    "mapping_exact_for_current_layout": true,
+    "mapping_status": "edition_exact_override",
+    "note": "The project Warsh source is a coherent 6213-ayah edition. Its only per-surah count difference from the current 6214 Warsh reference is al-Nahl. In the project SQLite, ayah 16:123 contains the end marker ١٢٣ and then the text of Kufi 16:124, so this edition-specific mapping merges Kufi 123+124 into project Warsh 123 and maps project 124..127 to Kufi 125..128.",
+    "project_ayah_count": 6213,
+    "upstream_reference_ayah_count": 6214,
+    "edition_validation": {
+      "al_fatihah_ayah_count": 7,
+      "basmalah_is_not_a_numbered_ayah": true,
+      "nahl_ayah_count": 127,
+      "upstream_nahl_ayah_count": 128,
+      "nahl_project_ayah_123_covers_hafs": [
+        123,
+        124
+      ]
+    },
+    "mapping_file": "mappings/by-edition/warsh-6213-to-hafs.json",
+    "reverse_mapping_file": "mappings/by-edition/hafs-to-warsh-6213.json"
+  }
+}

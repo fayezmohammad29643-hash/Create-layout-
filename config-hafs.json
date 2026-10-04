@@ -1,0 +1,48 @@
+{
+  "schema_version": 3,
+  "layout_source": "doc+sqlite",
+  "qiraah": "hafs",
+  "font_family": "KFGQPC HAFS Uthmanic Script",
+  "expected_pages": 604,
+  "expected_surahs": 114,
+  "source_format": "legacy_ms_doc",
+  "tokenization": {
+    "ignore_sqlite_page_field_for_line_breaks": true,
+    "doc_line_match": "canonical_concatenation",
+    "terminal_ayah_marker_from_sqlite": true,
+    "arabic_rtl_marker_tolerant": true,
+    "first_bismillah_is_ayah1": true
+  },
+  "alignment": {
+    "method": "page_bounded_fuzzy_dp",
+    "sqlite_page_field_as_secondary_constraint_only": true,
+    "max_candidate_words": 30,
+    "max_edit_distance": 6,
+    "max_edit_distance_ratio": 0.25
+  },
+  "validation": {
+    "review_on_source_marker_mismatch": false,
+    "strict_requires_zero_review_pages": true
+  },
+  "output_mode": "pages_and_surahs",
+  "source_integrity": {
+    "doc": {
+      "filename": "UthmanicHafs1 Ex1 Ver12.doc",
+      "sha256": "84aba435dbafcf16a5eede1b3c0c59a58e235443ac6e8a2ec5a2476ea922c91a"
+    },
+    "sqlite": {
+      "filename": "quran.sqlite",
+      "sha256": "8ce28bda7f67e4cd0d3e8372ef15e3545a7dfc6d86188cd0394c9b056b5e6ffc"
+    },
+    "mode": "exact_versioned_pair"
+  },
+  "ayah_mapping": {
+    "source": "qiraat-ayah-map",
+    "rawi": "hafs",
+    "counting_system_for_current_layout": "kufi",
+    "counting_system_associated_with_qari": "kufi",
+    "reference_system": "kufi",
+    "mapping_exact_for_current_layout": true,
+    "mapping_status": "exact_count_match"
+  }
+}
