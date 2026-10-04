@@ -1,0 +1,68 @@
+name: Build Ayah Mapping
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'config-ayah-mapping.json'
+      - 'config.json'
+      - 'config-douri.json'
+      - 'config-warsh.json'
+      - 'scripts/sync_qiraat_ayah_map.py'
+      - 'scripts/sync_quran_text_ayah_map.py'
+      - 'scripts/build_exact_edition_mapping.py'
+      - 'scripts/prepare_ayah_mapping.py'
+      - 'scripts/check_ayah_mapping.py'
+      - 'scripts/build_app_ayah_mapping.py'
+      - 'data/ayah_mapping/edition-overrides/warsh-6213.json'
+      - '.github/workflows/build-ayah-mapping.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build Qiraat + exact edition mappings
+        run: |
+          set -euo pipefail
+          rm -rf output/ayah_mapping
+          python scripts/sync_qiraat_ayah_map.py \
+            --config config-ayah-mapping.json \
+            --output-dir output/ayah_mapping
+
+      - name: Verify generated mapping
+        run: |
+          set -euo pipefail
+          test -s output/ayah_mapping/manifest.json
+          test -s output/ayah_mapping/sources/quran-text/ayah-map.json
+          test -s output/ayah_mapping/mappings/by-edition/duri-6217-to-hafs.json
+          test -s output/ayah_mapping/mappings/by-edition/qalun-6214-to-hafs.json
+          test -s output/ayah_mapping/mappings/by-edition/warsh-6213-to-hafs.json
+          test -s output/ayah_mapping/miltazim_ayah_mapping.json
+          python scripts/check_ayah_mapping.py \
+            --project-root . \
+            --config config-ayah-mapping.json \
+            --output-dir output/ayah_mapping
+
+      - name: Commit generated mapping
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A output/ayah_mapping/
+          git diff --cached --quiet || git commit -m "Generate exact ayah reference mappings"
+          git push
