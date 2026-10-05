@@ -1,0 +1,48 @@
+{
+  "schema_version": 5,
+  "reference_system": "hafs-kufi",
+  "method": {
+    "type": "text-alignment",
+    "description": "Match the actual ayah texts from the four project SQLite editions to Hafs/Kufi. Do not use numeric offsets or external generated ayah-mapping files.",
+    "normalization": "arabic-nfkc-marks-v1",
+    "target_coverage_threshold": 0.50,
+    "multiple_reference_encoding": "multiple rows in ayah_hafs_map",
+    "hafs_role": "identity reference"
+  },
+  "resources": {
+    "hafs": {
+      "sqlite": "input/hafs/quran.sqlite",
+      "ayah_count": 6236
+    },
+    "warsh": {
+      "sqlite": "input/warsh/quran.sqlite",
+      "ayah_count": 6213
+    },
+    "qalun": {
+      "sqlite": "input/qalun/quran.sqlite",
+      "ayah_count": 6214
+    },
+    "douri": {
+      "sqlite": "input/douri/quran.sqlite",
+      "ayah_count": 6217
+    }
+  },
+  "runtime_output": {
+    "file": "ayah_mapping.sqlite",
+    "relative_path": "output/ayah_mapping/ayah_mapping.sqlite",
+    "consumer": "miltazim_flutter_app",
+    "purpose": "Single runtime database for looking up Hafs/Kufi ayah references for all four project editions.",
+    "query_key": ["edition_id", "surah", "ayah"]
+  },
+  "generation": {
+    "script": "scripts/build_ayah_mapping_sqlite.py",
+    "validator": "scripts/check_ayah_mapping_sqlite.py",
+    "report": "output/ayah_mapping/ayah_mapping-build-report.json"
+  },
+  "policy": {
+    "never_use_numeric_offset": true,
+    "do_not_modify_layout_ayah_numbers": true,
+    "do_not_replace_project_sqlite_sources": true,
+    "app_should_consume_only_runtime_database": true
+  }
+}
