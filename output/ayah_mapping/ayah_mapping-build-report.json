@@ -1,0 +1,505 @@
+{
+  "format": "miltazim-ayah-hafs-map-build-report",
+  "runtime_file": "ayah_mapping.sqlite",
+  "runtime_sha256": "fb34e9ac4bb96640e22eefe54e750e0db65af0ea9753b85fcceef4bf4d178f87",
+  "runtime_bytes": 311296,
+  "row_count": 25147,
+  "editions": [
+    {
+      "edition_id": 1,
+      "edition_key": "hafs-6236",
+      "rawi": "hafs",
+      "ayah_count": 6236,
+      "source": "input/hafs/quran.sqlite",
+      "sha256": "8ce28bda7f67e4cd0d3e8372ef15e3545a7dfc6d86188cd0394c9b056b5e6ffc"
+    },
+    {
+      "edition_id": 2,
+      "edition_key": "warsh-6213",
+      "rawi": "warsh",
+      "ayah_count": 6213,
+      "source": "input/warsh/quran.sqlite",
+      "sha256": "f04c53cacb75ae6689f02cc48da5a1a6c667a3d22e5222a4d5b9f2a72bce4b7e"
+    },
+    {
+      "edition_id": 3,
+      "edition_key": "qalun-6214",
+      "rawi": "qalun",
+      "ayah_count": 6214,
+      "source": "input/qalun/quran.sqlite",
+      "sha256": "1425607f7287cbfba3fb55c5182be20d4cc973d1d98f07e8c1959c7e49dda188"
+    },
+    {
+      "edition_id": 4,
+      "edition_key": "douri-6217",
+      "rawi": "douri",
+      "ayah_count": 6217,
+      "source": "input/douri/quran.sqlite",
+      "sha256": "df332390de5bb659e8dad57db1ef4df29c5a185fadbbe9ddffe542a32c53bfdd"
+    }
+  ],
+  "multi_reference_ayah_count": 253,
+  "multi_reference_examples": [
+    {
+      "edition": "warsh-6213",
+      "surah": 2,
+      "ayah": 1,
+      "hafs_ayahs": [
+        1,
+        2
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 2,
+      "ayah": 199,
+      "hafs_ayahs": [
+        200,
+        201
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 3,
+      "ayah": 1,
+      "hafs_ayahs": [
+        1,
+        2
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 3,
+      "ayah": 48,
+      "hafs_ayahs": [
+        48,
+        49
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 4,
+      "ayah": 44,
+      "hafs_ayahs": [
+        44,
+        45
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 6,
+      "ayah": 67,
+      "hafs_ayahs": [
+        66,
+        67
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 7,
+      "ayah": 1,
+      "hafs_ayahs": [
+        1,
+        2
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 7,
+      "ayah": 28,
+      "hafs_ayahs": [
+        29,
+        30
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 11,
+      "ayah": 54,
+      "hafs_ayahs": [
+        54,
+        55
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 11,
+      "ayah": 82,
+      "hafs_ayahs": [
+        82,
+        83
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 11,
+      "ayah": 118,
+      "hafs_ayahs": [
+        118,
+        119
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 11,
+      "ayah": 120,
+      "hafs_ayahs": [
+        121,
+        122
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 13,
+      "ayah": 25,
+      "hafs_ayahs": [
+        23,
+        24
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 14,
+      "ayah": 22,
+      "hafs_ayahs": [
+        19,
+        20
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 16,
+      "ayah": 123,
+      "hafs_ayahs": [
+        123,
+        124
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 17,
+      "ayah": 107,
+      "hafs_ayahs": [
+        107,
+        108
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 18,
+      "ayah": 24,
+      "hafs_ayahs": [
+        23,
+        24
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 18,
+      "ayah": 35,
+      "hafs_ayahs": [
+        35,
+        36
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 18,
+      "ayah": 84,
+      "hafs_ayahs": [
+        85,
+        86
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 18,
+      "ayah": 87,
+      "hafs_ayahs": [
+        89,
+        90
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 18,
+      "ayah": 89,
+      "hafs_ayahs": [
+        92,
+        93
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 18,
+      "ayah": 99,
+      "hafs_ayahs": [
+        103,
+        104
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 19,
+      "ayah": 1,
+      "hafs_ayahs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 1,
+      "hafs_ayahs": [
+        1,
+        2
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 25,
+      "hafs_ayahs": [
+        25,
+        26
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 26,
+      "hafs_ayahs": [
+        26,
+        27
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 27,
+      "hafs_ayahs": [
+        27,
+        28
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 28,
+      "hafs_ayahs": [
+        28,
+        29
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 29,
+      "hafs_ayahs": [
+        29,
+        30
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 30,
+      "hafs_ayahs": [
+        30,
+        31
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 31,
+      "hafs_ayahs": [
+        31,
+        32
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 32,
+      "hafs_ayahs": [
+        32,
+        33
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 41,
+      "hafs_ayahs": [
+        41,
+        42
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 77,
+      "hafs_ayahs": [
+        78,
+        79
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 86,
+      "hafs_ayahs": [
+        86,
+        87,
+        88
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 90,
+      "hafs_ayahs": [
+        90,
+        91
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 91,
+      "hafs_ayahs": [
+        92,
+        93
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 92,
+      "hafs_ayahs": [
+        93,
+        94
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 93,
+      "hafs_ayahs": [
+        94,
+        95
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 95,
+      "hafs_ayahs": [
+        96,
+        97
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 20,
+      "ayah": 104,
+      "hafs_ayahs": [
+        106,
+        107
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 21,
+      "ayah": 66,
+      "hafs_ayahs": [
+        66,
+        67
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 22,
+      "ayah": 19,
+      "hafs_ayahs": [
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 24,
+      "ayah": 36,
+      "hafs_ayahs": [
+        36,
+        37
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 24,
+      "ayah": 42,
+      "hafs_ayahs": [
+        43,
+        44
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 26,
+      "ayah": 1,
+      "hafs_ayahs": [
+        1,
+        2
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 26,
+      "ayah": 210,
+      "hafs_ayahs": [
+        210,
+        211
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 28,
+      "ayah": 1,
+      "hafs_ayahs": [
+        1,
+        2
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 29,
+      "ayah": 1,
+      "hafs_ayahs": [
+        1,
+        2
+      ]
+    },
+    {
+      "edition": "warsh-6213",
+      "surah": 30,
+      "ayah": 1,
+      "hafs_ayahs": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "algorithm": {
+    "method": "character-span-alignment",
+    "normalization": "arabic-nfkc-marks-v1",
+    "min_target_coverage": 0.5,
+    "min_span_coverage": 0.0,
+    "numeric_offset": false
+  }
+}
